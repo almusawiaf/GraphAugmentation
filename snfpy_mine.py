@@ -14,6 +14,9 @@ from sklearn.metrics import v_measure_score
 from sklearn.metrics.pairwise import cosine_similarity
 import networkx as nx
 from networkx.algorithms.community import k_clique_communities
+import community
+from sklearn import metrics
+import itertools
 
 
 def make_graph(sim, N, threshold=0):
@@ -41,6 +44,35 @@ def K_Clique(g):
     
     print("Maximal Cliques: ", cliques)
     print("3-Cliques: ", k_cliques)
+
+
+def evaluation(Merged, PSGs):
+    from sklearn.metrics import f1_score
+    from sklearn.metrics import jaccard_score
+    
+    f1 = [f1_score(Merged, l) for l in PSGs]
+    print(f'F1 score = {f1}')
+    
+    ja = [jaccard_score(Merged, l) for l in PSGs]
+    print(f'Jaccard score = {ja}')
+
+
+def evaluation2(data):
+    comb = itertools.combinations(['SNF','PSG1','PSG2','PSG3','PSG4'], 2)
+    silhouette = {}
+    for i,j  in comb:
+        silhouette[(i, j)] = metrics.silhouette_score(data[[i]], data[[j]],  metric = 'euclidean')
+    print({i: set(data[i]) for i in ['SNF','PSG1','PSG2','PSG3','PSG4']})
+    return silhouette
+
+def Pvalue(data):
+    from scipy import stats
+    comb = itertools.combinations(['SNF','PSG1','PSG2','PSG3','PSG4'], 2)
+    results = {}
+    for i,j  in comb:
+        results [(i, j)] = stats.ttest_ind(data[[i]], data[[j]])
+    return results
+
 
 
 DB_lung = ["temp-lung-dvh.csv",
@@ -75,13 +107,18 @@ for d in range(len(selected_DB)):
 
 
 # -----------------------------------------------------------------------------
+#                              Data Pre-processing
 
 Nodes = [list(my_datasets[i]['vha_id']) for i in range(len(selected_DB))]
 selected_patients= sorted(list(set(Nodes[0]).intersection(*Nodes[1:])))
 new_DB = [df[df['vha_id'].isin(selected_patients)] for df in my_datasets]
 new_DB = [df.fillna(0) for df in new_DB]
 new_DB = [df.drop('vha_id', axis=1) for df in new_DB]
-new_DB = [df.values for df in new_DB]
+
+# -----------------------------------------------------------------------------
+#                               Selecting the networks
+chosen_DB = [0,3]
+new_DB = [new_DB[i].values for i in chosen_DB]
 # -----------------------------------------------------------------------------
 #                               Network Fusion
 
@@ -91,35 +128,35 @@ best, second = snf.get_n_clusters(fused_network)
 
 k = best
 labels = spectral_clustering(fused_network, n_clusters=k)
-
+labels_dict = {selected_patients[i]: labels[i] for i in range(len(selected_patients))}
 # -----------------------------------------------------------------------------
 #                              Networks Spectral clustering
-similarity_DB = [cosine_similarity(d) for d in new_DB]
 
-labels2= [spectral_clustering(db, n_clusters=k) for db in similarity_DB]
+similarity_DB = [cosine_similarity(d) for d in new_DB]
+best_DB = [snf.get_n_clusters(d) for d in similarity_DB]
+labels2= [spectral_clustering(similarity_DB[i], n_clusters=best_DB[i][0]) for i in range(len(best_DB)) ]
+
+print([metrics.silhouette_score(similarity_DB[j], labels2[j],  metric = 'euclidean') for j in range(len(new_DB))])
+print(metrics.silhouette_score(fused_network, labels, metric = 'euclidean'))
+
+
 
 Gs = [make_graph(db, selected_patients) for db in similarity_DB]
-for i in range(len(similarity_DB)):
-    g = Gs[i]
-    pd.DataFrame(list(g.edges()), columns=['Source', 'Target']).to_csv(f'data/processed/Network {selected_DB[i]}', index=False)
+# for i in range(len(similarity_DB)):
+#     g = Gs[i]
+#     pd.DataFrame(list(g.edges()), columns=['Source', 'Target']).to_csv(f'data/processed/Network {selected_DB[i]}', index=False)
+# # -----------------------------------------------------------------------------
 
-# -----------------------------------------------------------------------------
-def evaluation(Merged, PSGs):
-    from sklearn.metrics import f1_score
-    from sklearn.metrics import jaccard_score
-    
-    f1 = [f1_score(Merged, l) for l in PSGs]
-    print(f'F1 score = {f1}')
-    
-    ja = [jaccard_score(Merged, l) for l in PSGs]
-    print(f'Jaccard score = {ja}')
-# -----------------------------------------------------------------------------
-evaluation(labels, labels2)
+# # evaluation(labels, labels2)
+# # # -----------------------------------------------------------------------------
+
+# exp1 = pd.DataFrame(list(zip(selected_patients, labels, labels2[0],labels2[1],labels2[2],labels2[3])), columns=['Patients','SNF','PSG1','PSG2','PSG3','PSG4'])
+# print('Original spectral clustering silhouette score:')
+# print(evaluation2(exp1))
+# print(sum([metrics.silhouette_score(exp1[['SNF']], exp1[[j]],  metric = 'euclidean') for j in ['PSG1','PSG2','PSG3','PSG4']])/4)
 # -----------------------------------------------------------------------------
 
-import community
-
-SNF = make_graph(fused_network, Nodes[1])
+SNF = make_graph(fused_network, selected_patients)
 Partitions = []
 M = []
 for g in [SNF]+Gs:
@@ -127,12 +164,21 @@ for g in [SNF]+Gs:
     Partitions.append(partition)
     modularity = community.modularity(partition, g)
     M.append(modularity)
-print(M)
+print(f'Modularity = {M}')
 
-clusters0 = {n:[p[n] for p in Partitions] for n in Nodes[0] if n not in ['541-SCLC-09','548-NSCLC-07']}
+clusters0 = {patient:[p[patient] for p in Partitions] for patient in selected_patients if patient not in ['541-SCLC-09','548-NSCLC-07']}
 clusters1 = pd.DataFrame(clusters0).transpose()
-
 clusters1.columns=['SNF','PSG1','PSG2','PSG3','PSG4']
 
-# -----------------------------------------------------------------------------
+print(metrics.silhouette_score(similarity_DB[0], clusters1['PSG1'], metric = 'euclidean'))
+print(metrics.silhouette_score(similarity_DB[1], clusters1['PSG2'], metric = 'euclidean'))
+print(metrics.silhouette_score(similarity_DB[2], clusters1['PSG3'], metric = 'euclidean'))
+print(metrics.silhouette_score(similarity_DB[3], clusters1['PSG4'], metric = 'euclidean'))
+print(metrics.silhouette_score(fused_network, clusters1['SNF'], metric = 'euclidean'))
+
+# # evaluation(clusters1['SNF'].values, [clusters1['SNF'].values])
+# # -----------------------------------------------------------------------------
+# print('Community based partitioning (clustering) silhouette score:')
+# print(evaluation2(clusters1))
+    
 
