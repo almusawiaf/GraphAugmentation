@@ -1,0 +1,766 @@
+,QualityMeasure14,QualityMeasure9,QualityMeasure17B,QualityMeasure17A,QualityMeasure8,QualityMeasure19,QualityMeasure13,QualityMeasure5,QualityMeasure1,QualityMeasure24,QualityMeasure18,QualityMeasure16,QualityMeasure10,QualityMeasure4,QualityMeasure7,center_name,QualityMeasure15,QualityMeasure12,QualityMeasure11,QualityMeasure15_color,QualityMeasure2,QualityMeasure3,vha_id,cancer_type,QualityMeasure6
+0,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Pass,Pass,Excluded,Pass,Pass,506-Prostate-01,Prostate,Pass
+1,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-02,Prostate,Fail
+2,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Fail,Pass,Excluded,Pass,Pass,506-Prostate-03,Prostate,Fail
+3,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Pass,Pass,Excluded,Pass,Pass,506-Prostate-04,Prostate,Pass
+4,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Pass,Pass,Excluded,Pass,Pass,506-Prostate-05,Prostate,Pass
+5,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-06,Prostate,Fail
+6,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Pass,Pass,Excluded,Pass,Pass,506-Prostate-07,Prostate,Pass
+7,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Fail,Pass,Excluded,Pass,Pass,506-Prostate-08,Prostate,Fail
+8,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-09,Prostate,Fail
+9,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-10,Prostate,Fail
+10,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Fail,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-11,Prostate,Fail
+11,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Fail,Pass,Excluded,Pass,Pass,506-Prostate-12,Prostate,Pass
+12,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Pass,Pass,Excluded,Pass,Pass,506-Prostate-13,Prostate,Fail
+13,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Excluded,Fail,Pass,Excluded,Pass,Pass,506-Prostate-14,Prostate,Fail
+14,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Ann Arbor,Excluded,Excluded,Pass,Excluded,Pass,Excluded,506-Prostate-15,Prostate,Fail
+15,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Pass,Excluded,Excluded,Green,Excluded,Excluded,506-Prostate_Surgery-01,Prostate Surgery,Fail
+16,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Fail,Excluded,Excluded,Red,Excluded,Excluded,506-Prostate_Surgery-02,Prostate Surgery,Fail
+17,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Pass,Excluded,Excluded,Green,Excluded,Excluded,506-Prostate_Surgery-03,Prostate Surgery,Fail
+18,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Pass,Excluded,Excluded,Green,Excluded,Excluded,506-Prostate_Surgery-04,Prostate Surgery,Fail
+19,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Ann Arbor,Pass,Excluded,Excluded,Green,Excluded,Excluded,506-Prostate_Surgery-05,Prostate Surgery,Fail
+20,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-01,Prostate,Fail
+21,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-02,Prostate,Fail
+22,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Fail,Excluded,508-Prostate-03,Prostate,Fail
+23,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-04,Prostate,Fail
+24,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Fail,Pass,Excluded,Pass,Pass,508-Prostate-05,Prostate,Fail
+25,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-06,Prostate,Pass
+26,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Fail,Excluded,508-Prostate-07,Prostate,Fail
+27,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-08,Prostate,Fail
+28,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-09,Prostate,Fail
+29,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-10,Prostate,Pass
+30,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Fail,Pass,Excluded,Pass,Pass,508-Prostate-11,Prostate,Fail
+31,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-12,Prostate,Fail
+32,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-13,Prostate,Fail
+33,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-14,Prostate,Pass
+34,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-15,Prostate,Fail
+35,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Fail,Pass,Excluded,Pass,Pass,508-Prostate-16,Prostate,Fail
+36,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-17,Prostate,Fail
+37,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Atlanta,Excluded,Excluded,Pass,Excluded,Pass,Excluded,508-Prostate-18,Prostate,Fail
+38,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Excluded,Pass,Pass,Excluded,Pass,Pass,508-Prostate-19,Prostate,Pass
+39,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Atlanta,Pass,Excluded,Excluded,Green,Excluded,Excluded,508-Prostate_Surgery-01,Prostate Surgery,Fail
+40,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-01,Prostate,Fail
+41,Fail,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-02,Prostate,Fail
+42,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-03,Prostate,Fail
+43,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-04,Prostate,Fail
+44,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-05,Prostate,Fail
+45,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Fail,Pass,Excluded,Pass,Pass,512-Prostate-06,Prostate,Fail
+46,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-07,Prostate,Fail
+47,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-08,Prostate,Fail
+48,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-09,Prostate,Fail
+49,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-10,Prostate,Fail
+50,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-11,Prostate,Fail
+51,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-12,Prostate,Fail
+52,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-13,Prostate,Fail
+53,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-14,Prostate,Fail
+54,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-15,Prostate,Fail
+55,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-16,Prostate,Fail
+56,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-17,Prostate,Fail
+57,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-18,Prostate,Fail
+58,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Baltimore,Excluded,Excluded,Pass,Excluded,Pass,Excluded,512-Prostate-19,Prostate,Fail
+59,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Baltimore,Excluded,Pass,Pass,Excluded,Pass,Pass,512-Prostate-20,Prostate,Fail
+60,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-01,Prostate,Fail
+61,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-02,Prostate,Fail
+62,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-03,Prostate,Fail
+63,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-04,Prostate,Fail
+64,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-06,Prostate,Fail
+65,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Pass,Fail,Excluded,Excluded,Pass,Bay Pines,Excluded,Fail,Pass,Excluded,Pass,Pass,516-Prostate-07,Prostate,Fail
+66,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Bay Pines,Excluded,Pass,Fail,Excluded,Pass,Pass,516-Prostate-08,Prostate,Fail
+67,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-09,Prostate,Fail
+68,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Fail,Pass,Bay Pines,Excluded,Excluded,Fail,Excluded,Fail,Excluded,516-Prostate-10,Prostate,Fail
+69,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-11,Prostate,Fail
+70,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Bay Pines,Excluded,Fail,Pass,Excluded,Pass,Pass,516-Prostate-12,Prostate,Fail
+71,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-13,Prostate,Fail
+72,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-14,Prostate,Fail
+73,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-15,Prostate,Fail
+74,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-18,Prostate,Fail
+75,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-19,Prostate,Fail
+76,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-20,Prostate,Fail
+77,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-21,Prostate,Fail
+78,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bay Pines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,516-Prostate-22,Prostate,Fail
+79,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Bay Pines,Pass,Excluded,Excluded,Green,Excluded,Excluded,516-Prostate_Surgery-01,Prostate Surgery,Fail
+80,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-02,Prostate,Fail
+81,Pass,Pass,Excluded,Excluded,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Boston,Excluded,Fail,Pass,Excluded,Fail,Pass,523-Prostate-03,Prostate,Fail
+82,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Boston,Excluded,Fail,Pass,Excluded,Fail,Fail,523-Prostate-04,Prostate,Fail
+83,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Boston,Excluded,Pass,Pass,Excluded,Pass,Pass,523-Prostate-05,Prostate,Fail
+84,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Boston,Excluded,Pass,Pass,Excluded,Fail,Pass,523-Prostate-06,Prostate,Fail
+85,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-07,Prostate,Fail
+86,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-08,Prostate,Fail
+87,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-09,Prostate,Fail
+88,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-10,Prostate,Fail
+89,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-11,Prostate,Fail
+90,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-12,Prostate,Fail
+91,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-13,Prostate,Fail
+92,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-14,Prostate,Fail
+93,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-15,Prostate,Fail
+94,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-16,Prostate,Fail
+95,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Boston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,523-Prostate-17,Prostate,Fail
+96,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Boston,Fail,Excluded,Excluded,Red,Excluded,Excluded,523-Prostate_Surgery-01,Prostate Surgery,Fail
+97,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Boston,Pass,Excluded,Excluded,Green,Excluded,Excluded,523-Prostate_Surgery-02,Prostate Surgery,Fail
+98,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Boston,Pass,Excluded,Excluded,Green,Excluded,Excluded,523-Prostate_Surgery-03,Prostate Surgery,Fail
+99,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Boston,Pass,Excluded,Excluded,Green,Excluded,Excluded,523-Prostate_Surgery-04,Prostate Surgery,Fail
+100,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-01,Prostate,Fail
+101,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Bronx,Excluded,Pass,Pass,Excluded,Pass,Pass,526-Prostate-02,Prostate,Fail
+102,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-03,Prostate,Fail
+103,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-04,Prostate,Fail
+104,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-05,Prostate,Fail
+105,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-06,Prostate,Fail
+106,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Bronx,Excluded,Pass,Pass,Excluded,Pass,Pass,526-Prostate-07,Prostate,Fail
+107,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-08,Prostate,Fail
+108,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Bronx,Excluded,Pass,Pass,Excluded,Pass,Fail,526-Prostate-09,Prostate,Fail
+109,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Bronx,Excluded,Pass,Pass,Excluded,Pass,Pass,526-Prostate-10,Prostate,Fail
+110,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Bronx,Excluded,Pass,Pass,Excluded,Pass,Pass,526-Prostate-11,Prostate,Fail
+111,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-12,Prostate,Fail
+112,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-13,Prostate,Fail
+113,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-14,Prostate,Fail
+114,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-15,Prostate,Fail
+115,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Bronx,Excluded,Excluded,Pass,Excluded,Pass,Excluded,526-Prostate-16,Prostate,Fail
+116,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Bronx,Pass,Excluded,Excluded,Green,Excluded,Excluded,526-Prostate_Surgery-01,Prostate Surgery,Fail
+117,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Bronx,Pass,Excluded,Excluded,Green,Excluded,Excluded,526-Prostate_Surgery-02,Prostate Surgery,Fail
+118,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Bronx,Pass,Excluded,Excluded,Green,Excluded,Excluded,526-Prostate_Surgery-03,Prostate Surgery,Fail
+119,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Bronx,Pass,Excluded,Excluded,Green,Excluded,Excluded,526-Prostate_Surgery-04,Prostate Surgery,Fail
+120,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-01,Prostate,Fail
+121,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Excluded,Pass,Pass,Excluded,Pass,Pass,528-Prostate-03,Prostate,Fail
+122,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Albany,Excluded,Pass,Pass,Excluded,Pass,Pass,528-Prostate-04,Prostate,Fail
+123,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-05,Prostate,Fail
+124,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-06,Prostate,Fail
+125,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-08,Prostate,Fail
+126,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Albany,Excluded,Pass,Pass,Excluded,Pass,Pass,528-Prostate-10,Prostate,Fail
+127,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-11,Prostate,Fail
+128,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-12,Prostate,Fail
+129,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-14,Prostate,Fail
+130,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Albany,Excluded,Excluded,Pass,Excluded,Pass,Excluded,528-Prostate-16,Prostate,Fail
+131,Excluded,Pass,Excluded,Excluded,Pass,,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Excluded,Pass,Pass,Excluded,Pass,Pass,528-Prostate-17,Prostate,Fail
+132,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Pass,Excluded,Excluded,Green,Excluded,Excluded,528-Prostate_Surgery-01,Prostate Surgery,Fail
+133,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Pass,Excluded,Excluded,Green,Excluded,Excluded,528-Prostate_Surgery-02,Prostate Surgery,Fail
+134,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Pass,Excluded,Excluded,Green,Excluded,Excluded,528-Prostate_Surgery-03,Prostate Surgery,Fail
+135,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Albany,Pass,Excluded,Excluded,Green,Excluded,Excluded,528-Prostate_Surgery-04,Prostate Surgery,Fail
+136,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-01,Prostate,Fail
+137,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-02,Prostate,Fail
+138,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-04,Prostate,Fail
+139,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-05,Prostate,Fail
+140,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-06,Prostate,Fail
+141,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-07,Prostate,Fail
+142,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-09,Prostate,Fail
+143,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-10,Prostate,Fail
+144,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-11,Prostate,Fail
+145,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-12,Prostate,Fail
+146,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-13,Prostate,Fail
+147,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-15,Prostate,Fail
+148,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-16,Prostate,Fail
+149,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Cleveland,Excluded,Excluded,Pass,Excluded,Pass,Excluded,541-Prostate-17,Prostate,Fail
+150,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Fail,Pass,Excluded,Pass,Pass,541-Prostate-18,Prostate,Fail
+151,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Fail,Pass,Excluded,Pass,Pass,541-Prostate-19,Prostate,Fail
+152,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Cleveland,Excluded,Pass,Pass,Excluded,Pass,Pass,541-Prostate-20,Prostate,Fail
+153,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Pass,Excluded,Excluded,Green,Excluded,Excluded,541-Prostate_Surgery-01,Prostate Surgery,Fail
+154,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Cleveland,Pass,Excluded,Excluded,Green,Excluded,Excluded,541-Prostate_Surgery-03,Prostate Surgery,Fail
+155,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Fail,Pass,Excluded,Pass,Pass,546-Prostate-01,Prostate,Fail
+156,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Fail,Pass,Excluded,Pass,Pass,546-Prostate-02,Prostate,Fail
+157,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Fail,Pass,Excluded,Pass,Pass,546-Prostate-03,Prostate,Fail
+158,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-04,Prostate,Fail
+159,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Miami,Excluded,Excluded,Pass,Excluded,Pass,Excluded,546-Prostate-05,Prostate,Fail
+160,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-06,Prostate,Fail
+161,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-07,Prostate,Fail
+162,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-08,Prostate,Fail
+163,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-09,Prostate,Fail
+164,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Miami,Excluded,Excluded,Pass,Excluded,Pass,Excluded,546-Prostate-10,Prostate,Fail
+165,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-11,Prostate,Fail
+166,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-12,Prostate,Fail
+167,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-13,Prostate,Fail
+168,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Pass,Pass,Excluded,Pass,Pass,546-Prostate-14,Prostate,Fail
+169,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Miami,Excluded,Excluded,Pass,Excluded,Pass,Excluded,546-Prostate-15,Prostate,Fail
+170,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Miami,Excluded,Excluded,Pass,Excluded,Pass,Excluded,546-Prostate-16,Prostate,Fail
+171,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Fail,Pass,Excluded,Pass,Pass,546-Prostate-17,Prostate,Fail
+172,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Miami,Excluded,Fail,Pass,Excluded,Pass,Pass,546-Prostate-18,Prostate,Fail
+173,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Pass,Excluded,Excluded,Green,Excluded,Excluded,546-Prostate_Surgery-01,Prostate Surgery,Fail
+174,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Miami,Pass,Excluded,Excluded,Green,Excluded,Excluded,546-Prostate_Surgery-02,Prostate Surgery,Fail
+175,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-01,Prostate,Fail
+176,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-02,Prostate,Fail
+177,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-03,Prostate,Fail
+178,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-04,Prostate,Fail
+179,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Fail,Excluded,Fail,Pass,548-Prostate-05,Prostate,Fail
+180,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-06,Prostate,Fail
+181,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Fail,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-07,Prostate,Fail
+182,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Pass,Pass,548-Prostate-08,Prostate,Fail
+183,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-09,Prostate,Fail
+184,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-10,Prostate,Fail
+185,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-12,Prostate,Fail
+186,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-13,Prostate,Fail
+187,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-14,Prostate,Fail
+188,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-15,Prostate,Fail
+189,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-16,Prostate,Fail
+190,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Excluded,Fail,Pass,Excluded,Fail,Pass,548-Prostate-17,Prostate,Fail
+191,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Pass,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-18,Prostate,Fail
+192,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Fail,Pass,Pass,West Palm Beach,Excluded,Excluded,Pass,Excluded,Fail,Excluded,548-Prostate-19,Prostate,Fail
+193,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,West Palm Beach,Pass,Excluded,Excluded,Green,Excluded,Excluded,548-Prostate_Surgery-01,Prostate Surgery,Fail
+194,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-01,Prostate,Fail
+195,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-02,Prostate,Fail
+196,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-03,Prostate,Fail
+197,Pass,Excluded,Excluded,Excluded,Pass,,Pass,Pass,Pass,Excluded,Excluded,Fail,Fail,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-04,Prostate,Fail
+198,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-05,Prostate,Fail
+199,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Pass,Fail,Fail,Excluded,Excluded,Pass,Dallas,Excluded,Pass,Pass,Excluded,Pass,Pass,549-Prostate-06,Prostate,Fail
+200,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-07,Prostate,Fail
+201,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Fail,Excluded,549-Prostate-08,Prostate,Fail
+202,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-09,Prostate,Fail
+203,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-10,Prostate,Fail
+204,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Pass,Excluded,549-Prostate-11,Prostate,Fail
+205,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Dallas,Excluded,Excluded,Pass,Excluded,Fail,Excluded,549-Prostate-12,Prostate,Fail
+206,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Fail,Excluded,Fail,Excluded,549-Prostate-13,Prostate,Fail
+207,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Dallas,Excluded,Excluded,Fail,Excluded,Fail,Excluded,549-Prostate-14,Prostate,Fail
+208,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-01,Prostate Surgery,Fail
+209,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-02,Prostate Surgery,Fail
+210,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-03,Prostate Surgery,Fail
+211,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-04,Prostate Surgery,Fail
+212,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-05,Prostate Surgery,Fail
+213,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dallas,Pass,Excluded,Excluded,Green,Excluded,Excluded,549-Prostate_Surgery-06,Prostate Surgery,Fail
+214,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Dayton,Excluded,Excluded,Fail,Excluded,Fail,Excluded,552-Prostate-01,Prostate,Fail
+215,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Fail,Excluded,Fail,Pass,552-Prostate-02,Prostate,Fail
+216,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Pass,Fail,Fail,Pass,Fail,Pass,Dayton,Excluded,Excluded,Fail,Excluded,Fail,Excluded,552-Prostate-03,Prostate,Fail
+217,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Pass,Excluded,Fail,Pass,552-Prostate-04,Prostate,Fail
+218,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Pass,Excluded,Fail,Pass,552-Prostate-05,Prostate,Fail
+219,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Pass,Excluded,Fail,Pass,552-Prostate-06,Prostate,Fail
+220,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Pass,Excluded,Fail,Pass,552-Prostate-07,Prostate,Fail
+221,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Fail,Pass,Excluded,Fail,Pass,552-Prostate-08,Prostate,Fail
+222,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Dayton,Excluded,Excluded,Pass,Excluded,Fail,Excluded,552-Prostate-09,Prostate,Fail
+223,Excluded,Excluded,Excluded,Excluded,Fail,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-01,Prostate Surgery,Fail
+224,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-02,Prostate Surgery,Fail
+225,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-03,Prostate Surgery,Fail
+226,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-04,Prostate Surgery,Fail
+227,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,552-Prostate_Surgery-05,Prostate Surgery,Fail
+228,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-06,Prostate Surgery,Fail
+229,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-07,Prostate Surgery,Fail
+230,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Dayton,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,552-Prostate_Surgery-08,Prostate Surgery,Fail
+231,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-09,Prostate Surgery,Fail
+232,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Dayton,Pass,Excluded,Excluded,Green,Excluded,Excluded,552-Prostate_Surgery-10,Prostate Surgery,Fail
+233,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Excluded,Pass,Detroit,Excluded,Pass,Pass,Excluded,Pass,Pass,553-Prostate-01,Prostate,Fail
+234,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-02,Prostate,Fail
+235,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Detroit,Excluded,Pass,Pass,Excluded,Pass,Pass,553-Prostate-03,Prostate,Fail
+236,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-04,Prostate,Fail
+237,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Detroit,Excluded,Pass,Pass,Excluded,Pass,Pass,553-Prostate-05,Prostate,Fail
+238,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-06,Prostate,Fail
+239,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-07,Prostate,Fail
+240,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-08,Prostate,Fail
+241,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Pass,Excluded,Excluded,Pass,Detroit,Excluded,Pass,Pass,Excluded,Pass,Pass,553-Prostate-09,Prostate,Fail
+242,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Fail,Excluded,553-Prostate-10,Prostate,Fail
+243,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Detroit,Excluded,Excluded,Pass,Excluded,Pass,Excluded,553-Prostate-12,Prostate,Fail
+244,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-01,Prostate Surgery,Fail
+245,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-02,Prostate Surgery,Fail
+246,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-03,Prostate Surgery,Fail
+247,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-04,Prostate Surgery,Fail
+248,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Pass,Pass,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-05,Prostate Surgery,Fail
+249,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-06,Prostate Surgery,Fail
+250,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-07,Prostate Surgery,Fail
+251,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-08,Prostate Surgery,Fail
+252,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Pass,Pass,Fail,Excluded,Excluded,Pass,Detroit,Pass,Excluded,Excluded,Green,Excluded,Excluded,553-Prostate_Surgery-09,Prostate Surgery,Fail
+253,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-01,Prostate,Fail
+254,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Fail,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-02,Prostate,Fail
+255,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-03,Prostate,Fail
+256,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-04,Prostate,Fail
+257,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-05,Prostate,Fail
+258,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-07,Prostate,Fail
+259,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-08,Prostate,Fail
+260,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-09,Prostate,Fail
+261,Excluded,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-10,Prostate,Fail
+262,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-11,Prostate,Fail
+263,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-13,Prostate,Fail
+264,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-14,Prostate,Fail
+265,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Fail,Pass,Excluded,Pass,Pass,558-Prostate-15,Prostate,Fail
+266,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Durham,Excluded,Excluded,Pass,Excluded,Pass,Excluded,558-Prostate-17,Prostate,Fail
+267,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-01,Prostate Surgery,Pass
+268,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-02,Prostate Surgery,Fail
+269,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-03,Prostate Surgery,Pass
+270,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-04,Prostate Surgery,Fail
+271,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-05,Prostate Surgery,Fail
+272,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Durham,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,558-Prostate_Surgery-06,Prostate Surgery,Fail
+273,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Fail,East Orange,Excluded,Excluded,Pass,Excluded,Pass,Excluded,561-Prostate-01,Prostate,Fail
+274,Pass,Pass,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Fail,Pass,Excluded,Pass,Pass,561-Prostate-02,Prostate,Fail
+275,Pass,Excluded,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,East Orange,Excluded,Excluded,Pass,Excluded,Pass,Excluded,561-Prostate-03,Prostate,Fail
+276,Pass,Pass,Excluded,Excluded,Pass,Fail,Excluded,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Fail,Pass,Excluded,Pass,Pass,561-Prostate-06,Prostate,Fail
+277,Pass,Pass,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Fail,Pass,Excluded,Pass,Pass,561-Prostate-08,Prostate,Fail
+278,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Pass,Pass,Excluded,Pass,Pass,561-Prostate-09,Prostate,Fail
+279,Pass,Excluded,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,East Orange,Excluded,Excluded,Pass,Excluded,Pass,Excluded,561-Prostate-10,Prostate,Fail
+280,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,East Orange,Excluded,Excluded,Pass,Excluded,Pass,Excluded,561-Prostate-11,Prostate,Fail
+281,Pass,Pass,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Fail,Pass,Excluded,Pass,Pass,561-Prostate-12,Prostate,Fail
+282,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Pass,Pass,Excluded,Pass,Pass,561-Prostate-14,Prostate,Fail
+283,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,East Orange,Excluded,Excluded,Pass,Excluded,Pass,Excluded,561-Prostate-15,Prostate,Fail
+284,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Pass,Pass,Excluded,Pass,Pass,561-Prostate-16,Prostate,Fail
+285,Pass,Pass,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Pass,Pass,Excluded,Pass,Pass,561-Prostate-17,Prostate,Fail
+286,Pass,Pass,Excluded,Excluded,Pass,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Pass,Pass,Excluded,Pass,Pass,561-Prostate-18,Prostate,Fail
+287,Pass,Pass,Excluded,Excluded,Pass,Pass,Excluded,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,East Orange,Excluded,Fail,Pass,Excluded,Pass,Pass,561-Prostate-19,Prostate,Fail
+288,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,East Orange,Pass,Excluded,Excluded,Green,Excluded,Excluded,561-Prostate_Surgery-01,Prostate Surgery,Fail
+289,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,East Orange,Pass,Excluded,Excluded,Green,Excluded,Excluded,561-Prostate_Surgery-02,Prostate Surgery,Fail
+290,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Pass,Excluded,Excluded,Green,Excluded,Excluded,561-Prostate_Surgery-03,Prostate Surgery,Fail
+291,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,East Orange,Pass,Excluded,Excluded,Green,Excluded,Excluded,561-Prostate_Surgery-04,Prostate Surgery,Fail
+292,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-01,Prostate,Fail
+293,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-02,Prostate,Fail
+294,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-05,Prostate,Fail
+295,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Hines,Excluded,Fail,Pass,Excluded,Pass,Pass,578-Prostate-07,Prostate,Fail
+296,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-08,Prostate,Fail
+297,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-11,Prostate,Fail
+298,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Hines,Excluded,Fail,Pass,Excluded,Pass,Pass,578-Prostate-14,Prostate,Fail
+299,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-16,Prostate,Fail
+300,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-17,Prostate,Fail
+301,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-18,Prostate,Fail
+302,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Hines,Excluded,Fail,Pass,Excluded,Pass,Pass,578-Prostate-19,Prostate,Fail
+303,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Hines,Excluded,Fail,Pass,Excluded,Pass,Pass,578-Prostate-22,Prostate,Fail
+304,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-24,Prostate,Fail
+305,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Hines,Excluded,Excluded,Fail,Excluded,Pass,Excluded,578-Prostate-25,Prostate,Pass
+306,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Hines,Excluded,Excluded,Pass,Excluded,Pass,Excluded,578-Prostate-26,Prostate,Fail
+307,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Hines,Excluded,Fail,Pass,Excluded,Pass,Pass,578-Prostate-27,Prostate,Fail
+308,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Hines,Pass,Excluded,Excluded,Green,Excluded,Excluded,578-Prostate_Surgery-02,Prostate Surgery,Fail
+309,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Hines,Pass,Excluded,Excluded,Green,Excluded,Excluded,578-Prostate_Surgery-03,Prostate Surgery,Fail
+310,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Hines,Pass,Excluded,Excluded,Green,Excluded,Excluded,578-Prostate_Surgery-04,Prostate Surgery,Fail
+311,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-01,Prostate,Fail
+312,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-02,Prostate,Fail
+313,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-03,Prostate,Fail
+314,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-04,Prostate,Fail
+315,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-05,Prostate,Fail
+316,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-06,Prostate,Fail
+317,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-07,Prostate,Fail
+318,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-08,Prostate,Fail
+319,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-09,Prostate,Fail
+320,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-10,Prostate,Fail
+321,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-11,Prostate,Fail
+322,Pass,Excluded,Excluded,Excluded,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-12,Prostate,Fail
+323,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-13,Prostate,Fail
+324,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Houston,Excluded,Pass,Pass,Excluded,Pass,Pass,580-Prostate-14,Prostate,Fail
+325,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-16,Prostate,Fail
+326,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Houston,Excluded,Excluded,Pass,Excluded,Pass,Excluded,580-Prostate-17,Prostate,Fail
+327,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Houston,Pass,Excluded,Excluded,Yellow,Excluded,Excluded,580-Prostate_Surgery-01,Prostate Surgery,Fail
+328,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Houston,Pass,Excluded,Excluded,Green,Excluded,Excluded,580-Prostate_Surgery-02,Prostate Surgery,Fail
+329,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Houston,Pass,Excluded,Excluded,Green,Excluded,Excluded,580-Prostate_Surgery-03,Prostate Surgery,Fail
+330,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Houston,Pass,Excluded,Excluded,Green,Excluded,Excluded,580-Prostate_Surgery-04,Prostate Surgery,Fail
+331,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Indianapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,583-Prostate-01,Prostate,Fail
+332,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Indianapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,583-Prostate-02,Prostate,Fail
+333,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Indianapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,583-Prostate-03,Prostate,Fail
+334,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-04,Prostate,Fail
+335,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-05,Prostate,Fail
+336,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-06,Prostate,Fail
+337,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Indianapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,583-Prostate-07,Prostate,Fail
+338,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-08,Prostate,Fail
+339,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-09,Prostate,Fail
+340,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Indianapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,583-Prostate-10,Prostate,Fail
+341,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-11,Prostate,Fail
+342,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-12,Prostate,Fail
+343,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,583-Prostate-13,Prostate,Fail
+344,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-01,Prostate Surgery,Fail
+345,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-02,Prostate Surgery,Fail
+346,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-03,Prostate Surgery,Fail
+347,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-04,Prostate Surgery,Fail
+348,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-05,Prostate Surgery,Fail
+349,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-06,Prostate Surgery,Fail
+350,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Pass,Fail,Excluded,Excluded,Pass,Indianapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,583-Prostate_Surgery-07,Prostate Surgery,Fail
+351,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Jackson,Excluded,Fail,Pass,Excluded,Pass,Pass,586-Prostate-01,Prostate,Fail
+352,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-02,Prostate,Fail
+353,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-03,Prostate,Fail
+354,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-04,Prostate,Fail
+355,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Jackson,Excluded,Fail,Pass,Excluded,Pass,Pass,586-Prostate-05,Prostate,Fail
+356,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-06,Prostate,Fail
+357,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Jackson,Excluded,Fail,Pass,Excluded,Pass,Pass,586-Prostate-07,Prostate,Fail
+358,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-08,Prostate,Fail
+359,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-09,Prostate,Fail
+360,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-10,Prostate,Fail
+361,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-11,Prostate,Fail
+362,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-12,Prostate,Fail
+363,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Jackson,Excluded,Fail,Pass,Excluded,Pass,Pass,586-Prostate-14,Prostate,Fail
+364,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-15,Prostate,Fail
+365,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-16,Prostate,Fail
+366,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Jackson,Excluded,Excluded,Pass,Excluded,Pass,Excluded,586-Prostate-17,Prostate,Fail
+367,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Jackson,Excluded,Fail,Pass,Excluded,Pass,Pass,586-Prostate-21,Prostate,Fail
+368,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Jackson,Pass,Excluded,Excluded,Green,Excluded,Excluded,586-Prostate_Surgery-01,Prostate Surgery,Fail
+369,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Jackson,Pass,Excluded,Excluded,Green,Excluded,Excluded,586-Prostate_Surgery-02,Prostate Surgery,Fail
+370,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Jackson,Pass,Excluded,Excluded,Green,Excluded,Excluded,586-Prostate_Surgery-04,Prostate Surgery,Fail
+371,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-01,Prostate,Pass
+372,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-02,Prostate,Pass
+373,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-03,Prostate,Pass
+374,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-04,Prostate,Pass
+375,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-05,Prostate,Fail
+376,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-06,Prostate,Pass
+377,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-07,Prostate,Pass
+378,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-08,Prostate,Pass
+379,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Kansas City,Excluded,Pass,Pass,Excluded,Pass,Pass,589-Prostate-09,Prostate,Pass
+380,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-10,Prostate,Pass
+381,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-11,Prostate,Pass
+382,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-12,Prostate,Pass
+383,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-13,Prostate,Pass
+384,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Excluded,Excluded,Pass,Kansas City,Excluded,Pass,Pass,Excluded,Pass,Pass,589-Prostate-14,Prostate,Fail
+385,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,Excluded,Pass,Kansas City,Excluded,Fail,Pass,Excluded,Pass,Pass,589-Prostate-15,Prostate,Fail
+386,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Kansas City,Excluded,Pass,Pass,Excluded,Pass,Pass,589-Prostate-16,Prostate,Pass
+387,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-17,Prostate,Pass
+388,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Kansas City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,589-Prostate-18,Prostate,Pass
+389,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Kansas City,Excluded,Pass,Pass,Excluded,Pass,Pass,589-Prostate-19,Prostate,Pass
+390,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Kansas City,Excluded,Pass,Pass,Excluded,Pass,Pass,589-Prostate-20,Prostate,Fail
+391,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Fail,Pass,Excluded,Pass,Pass,600-Prostate-01,Prostate,Fail
+392,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-02,Prostate,Fail
+393,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-03,Prostate,Fail
+394,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-04,Prostate,Fail
+395,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-05,Prostate,Fail
+396,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-06,Prostate,Fail
+397,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-07,Prostate,Fail
+398,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-08,Prostate,Fail
+399,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-09,Prostate,Fail
+400,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-10,Prostate,Fail
+401,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-11,Prostate,Fail
+402,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-12,Prostate,Fail
+403,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-13,Prostate,Fail
+404,Pass,Excluded,Excluded,Excluded,Pass,Pass,Fail,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-14,Prostate,Fail
+405,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-15,Prostate,Fail
+406,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Pass,Pass,Excluded,Pass,Pass,600-Prostate-16,Prostate,Fail
+407,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-17,Prostate,Fail
+408,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Excluded,Fail,Pass,Excluded,Pass,Pass,600-Prostate-18,Prostate,Fail
+409,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Long Beach,Excluded,Excluded,Pass,Excluded,Pass,Excluded,600-Prostate-19,Prostate,Fail
+410,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Long Beach,Pass,Excluded,Excluded,Green,Excluded,Excluded,600-Prostate_Surgery-01,Prostate Surgery,Fail
+411,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Memphis,Excluded,Excluded,Pass,Excluded,Fail,Excluded,614-Prostate-01,Prostate,Fail
+412,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Memphis,Excluded,Fail,Pass,Excluded,Fail,Pass,614-Prostate-02,Prostate,Fail
+413,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Memphis,Excluded,Excluded,Pass,Excluded,Fail,Excluded,614-Prostate-03,Prostate,Fail
+414,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Memphis,Excluded,Pass,Pass,Excluded,Fail,Pass,614-Prostate-04,Prostate,Fail
+415,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Pass,Memphis,Excluded,Excluded,Pass,Excluded,Fail,Excluded,614-Prostate-05,Prostate,Fail
+416,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Excluded,Fail,Pass,Excluded,Fail,Fail,614-Prostate-06,Prostate,Fail
+417,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Memphis,Excluded,Fail,Pass,Excluded,Fail,Pass,614-Prostate-07,Prostate,Fail
+418,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Memphis,Excluded,Excluded,Pass,Excluded,Fail,Excluded,614-Prostate-08,Prostate,Fail
+419,Pass,Excluded,Excluded,Excluded,Fail,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Fail,Pass,Pass,Memphis,Excluded,Excluded,Pass,Excluded,Fail,Excluded,614-Prostate-09,Prostate,Fail
+420,Fail,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Memphis,Excluded,Pass,Fail,Excluded,Pass,Pass,614-Prostate-10,Prostate,Fail
+421,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Memphis,Pass,Excluded,Excluded,Green,Excluded,Excluded,614-Prostate_Surgery-01,Prostate Surgery,Fail
+422,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Memphis,Fail,Excluded,Excluded,Red,Excluded,Excluded,614-Prostate_Surgery-02,Prostate Surgery,Fail
+423,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Pass,Excluded,Excluded,Green,Excluded,Excluded,614-Prostate_Surgery-03,Prostate Surgery,Fail
+424,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Fail,Excluded,Excluded,Red,Excluded,Excluded,614-Prostate_Surgery-04,Prostate Surgery,Fail
+425,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Memphis,Pass,Excluded,Excluded,Yellow,Excluded,Excluded,614-Prostate_Surgery-05,Prostate Surgery,Fail
+426,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Pass,Excluded,Excluded,Green,Excluded,Excluded,614-Prostate_Surgery-06,Prostate Surgery,Fail
+427,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Fail,Excluded,Excluded,Red,Excluded,Excluded,614-Prostate_Surgery-07,Prostate Surgery,Fail
+428,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Pass,Excluded,Excluded,Green,Excluded,Excluded,614-Prostate_Surgery-08,Prostate Surgery,Fail
+429,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Fail,Excluded,Excluded,Red,Excluded,Excluded,614-Prostate_Surgery-09,Prostate Surgery,Fail
+430,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Memphis,Fail,Excluded,Excluded,Red,Excluded,Excluded,614-Prostate_Surgery-10,Prostate Surgery,Fail
+431,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,618-Prostate-01,Prostate,Fail
+432,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Pass,Pass,Excluded,Pass,Pass,618-Prostate-03,Prostate,Fail
+433,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Pass,Pass,Excluded,Pass,Pass,618-Prostate-05,Prostate,Fail
+434,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Pass,Pass,Excluded,Pass,Pass,618-Prostate-07,Prostate,Fail
+435,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Minneapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,618-Prostate-09,Prostate,Fail
+436,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Pass,Pass,Excluded,Pass,Pass,618-Prostate-11,Prostate,Fail
+437,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,618-Prostate-12,Prostate,Fail
+438,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Minneapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,618-Prostate-14,Prostate,Fail
+439,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Minneapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,618-Prostate-15,Prostate,Fail
+440,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Minneapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,618-Prostate-16,Prostate,Fail
+441,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,618-Prostate-17,Prostate,Fail
+442,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Fail,Pass,Excluded,Pass,Pass,618-Prostate-18,Prostate,Fail
+443,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Fail,Excluded,Fail,Fail,Fail,Fail,Pass,Minneapolis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,618-Prostate-19,Prostate,Fail
+444,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Minneapolis,Excluded,Pass,Pass,Excluded,Pass,Pass,618-Prostate-20,Prostate,Fail
+445,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Minneapolis,Pass,Excluded,Excluded,Green,Excluded,Excluded,618-Prostate_Surgery-01,Prostate Surgery,Fail
+446,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-01,Prostate,Fail
+447,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Pass,Excluded,621-Prostate-02,Prostate,Fail
+448,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Pass,621-Prostate-03,Prostate,Fail
+449,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Pass,Pass,621-Prostate-04,Prostate,Fail
+450,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-05,Prostate,Fail
+451,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-06,Prostate,Fail
+452,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-07,Prostate,Fail
+453,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Pass,Pass,Excluded,Pass,Pass,621-Prostate-09,Prostate,Fail
+454,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Pass,Excluded,621-Prostate-10,Prostate,Fail
+455,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-11,Prostate,Fail
+456,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Pass,621-Prostate-12,Prostate,Fail
+457,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Pass,Excluded,621-Prostate-13,Prostate,Fail
+458,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,"Mountain Home, TN",Excluded,Excluded,Pass,Excluded,Fail,Excluded,621-Prostate-14,Prostate,Fail
+459,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Fail,621-Prostate-15,Prostate,Fail
+460,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Fail,621-Prostate-16,Prostate,Fail
+461,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Pass,621-Prostate-17,Prostate,Fail
+462,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Pass,621-Prostate-18,Prostate,Fail
+463,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Pass,Pass,621-Prostate-20,Prostate,Fail
+464,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Pass,Pass,621-Prostate-22,Prostate,Fail
+465,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,"Mountain Home, TN",Excluded,Fail,Pass,Excluded,Fail,Pass,621-Prostate-23,Prostate,Fail
+466,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Excluded,Excluded,Pass,Excluded,630-Prostate-05,Prostate,Fail
+467,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-07,Prostate,Fail
+468,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-09,Prostate,Fail
+469,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Brooklyn,Excluded,Excluded,Excluded,Excluded,Pass,Excluded,630-Prostate-10,Prostate,Fail
+470,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-11,Prostate,Fail
+471,Excluded,Pass,Pass,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Excluded,Pass,Excluded,Excluded,Pass,Fail,630-Prostate-12,Prostate,Fail
+472,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-13,Prostate,Fail
+473,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Excluded,Pass,Pass,Excluded,Pass,Pass,630-Prostate-14,Prostate,Fail
+474,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-15,Prostate,Fail
+475,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Excluded,Pass,Pass,Excluded,Pass,Pass,630-Prostate-16,Prostate,Fail
+476,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-17,Prostate,Fail
+477,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Brooklyn,Excluded,Excluded,Pass,Excluded,Pass,Excluded,630-Prostate-18,Prostate,Fail
+478,Pass,Pass,Excluded,Excluded,Fail,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Excluded,Pass,Pass,Excluded,Pass,Pass,630-Prostate-20,Prostate,Fail
+479,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Excluded,Pass,Excluded,Excluded,Pass,Pass,630-Prostate-21,Prostate,Fail
+480,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Pass,Excluded,Excluded,Green,Excluded,Excluded,630-Prostate_Surgery-01,Prostate Surgery,Fail
+481,Excluded,Excluded,Excluded,Excluded,Fail,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Pass,Excluded,Excluded,Green,Excluded,Excluded,630-Prostate_Surgery-02,Prostate Surgery,Fail
+482,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Brooklyn,Pass,Excluded,Excluded,Green,Excluded,Excluded,630-Prostate_Surgery-03,Prostate Surgery,Fail
+483,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-01,Prostate,Fail
+484,Pass,Excluded,Excluded,Excluded,Pass,Fail,Fail,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-02,Prostate,Fail
+485,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-05,Prostate,Fail
+486,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-06,Prostate,Fail
+487,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-08,Prostate,Fail
+488,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Northport,Excluded,Pass,Fail,Excluded,Pass,Pass,632-Prostate-09,Prostate,Fail
+489,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-11,Prostate,Fail
+490,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-12,Prostate,Fail
+491,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Northport,Excluded,Fail,Fail,Excluded,Pass,Pass,632-Prostate-13,Prostate,Fail
+492,Pass,Excluded,Excluded,Excluded,Pass,,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Pass,Excluded,632-Prostate-15,Prostate,Fail
+493,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Northport,Excluded,Fail,Fail,Excluded,Pass,Pass,632-Prostate-16,Prostate,Fail
+494,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Pass,Northport,Excluded,Excluded,Pass,Excluded,Pass,Excluded,632-Prostate-17,Prostate,Fail
+495,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Northport,Excluded,Excluded,Pass,Excluded,Pass,Excluded,632-Prostate-18,Prostate,Fail
+496,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Northport,Excluded,Fail,Fail,Excluded,Pass,Pass,632-Prostate-19,Prostate,Fail
+497,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Northport,Excluded,Excluded,Fail,Excluded,Fail,Excluded,632-Prostate-20,Prostate,Fail
+498,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-01,Prostate,Fail
+499,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-02,Prostate,Fail
+500,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-03,Prostate,Fail
+501,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-04,Prostate,Fail
+502,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-05,Prostate,Fail
+503,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-06,Prostate,Fail
+504,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-07,Prostate,Fail
+505,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Excluded,Pass,Pass,Excluded,Pass,Pass,635-Prostate-08,Prostate,Fail
+506,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-09,Prostate,Fail
+507,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-10,Prostate,Fail
+508,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Excluded,Pass,Pass,Excluded,Pass,Pass,635-Prostate-11,Prostate,Fail
+509,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-12,Prostate,Fail
+510,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-13,Prostate,Fail
+511,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-14,Prostate,Fail
+512,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Excluded,Pass,Pass,Excluded,Pass,Pass,635-Prostate-15,Prostate,Fail
+513,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-16,Prostate,Fail
+514,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Oklahoma City,Excluded,Excluded,Pass,Excluded,Pass,Excluded,635-Prostate-17,Prostate,Fail
+515,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Pass,Excluded,Excluded,Green,Excluded,Excluded,635-Prostate_Surgery-01,Prostate Surgery,Fail
+516,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Pass,Excluded,Excluded,Green,Excluded,Excluded,635-Prostate_Surgery-02,Prostate Surgery,Fail
+517,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Oklahoma City,Pass,Excluded,Excluded,Green,Excluded,Excluded,635-Prostate_Surgery-03,Prostate Surgery,Fail
+518,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-01,Prostate,Fail
+519,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-02,Prostate,Fail
+520,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-03,Prostate,Fail
+521,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-04,Prostate,Fail
+522,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-05,Prostate,Fail
+523,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-06,Prostate,Fail
+524,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-07,Prostate,Fail
+525,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-08,Prostate,Fail
+526,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-09,Prostate,Fail
+527,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-10,Prostate,Fail
+528,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-11,Prostate,Fail
+529,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-12,Prostate,Fail
+530,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-13,Prostate,Fail
+531,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Philadelphia,Excluded,Excluded,Pass,Excluded,Pass,Excluded,642-Prostate-14,Prostate,Fail
+532,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-15,Prostate,Fail
+533,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-16,Prostate,Pass
+534,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-17,Prostate,Fail
+535,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Fail,Pass,Excluded,Pass,Pass,642-Prostate-18,Prostate,Fail
+536,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Excluded,Pass,Pass,Excluded,Pass,Pass,642-Prostate-19,Prostate,Fail
+537,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Philadelphia,Pass,Excluded,Excluded,Green,Excluded,Excluded,642-Prostate_Surgery-01,Prostate Surgery,Fail
+538,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Fail,Pass,Excluded,Pass,Pass,646-Prostate-01,Prostate,Fail
+539,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Pittsburgh,Excluded,Excluded,Pass,Excluded,Pass,Excluded,646-Prostate-02,Prostate,Fail
+540,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Fail,Pass,Excluded,Pass,Pass,646-Prostate-03,Prostate,Fail
+541,Pass,Pass,Excluded,Excluded,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-04,Prostate,Fail
+542,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-05,Prostate,Fail
+543,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pittsburgh,Excluded,Excluded,Pass,Excluded,Pass,Excluded,646-Prostate-06,Prostate,Fail
+544,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Fail,Pass,Excluded,Pass,Pass,646-Prostate-07,Prostate,Fail
+545,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Fail,646-Prostate-08,Prostate,Fail
+546,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Fail,Pass,Excluded,Pass,Pass,646-Prostate-09,Prostate,Fail
+547,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Pittsburgh,Excluded,Excluded,Pass,Excluded,Pass,Excluded,646-Prostate-10,Prostate,Fail
+548,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Pittsburgh,Excluded,Excluded,Pass,Excluded,Pass,Excluded,646-Prostate-11,Prostate,Fail
+549,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-12,Prostate,Fail
+550,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-14,Prostate,Fail
+551,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-15,Prostate,Fail
+552,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Pittsburgh,Excluded,Excluded,Pass,Excluded,Pass,Excluded,646-Prostate-16,Prostate,Fail
+553,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Fail,Pass,Excluded,Pass,Pass,646-Prostate-17,Prostate,Fail
+554,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Pass,Pass,Excluded,Pass,Pass,646-Prostate-18,Prostate,Fail
+555,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,646-Prostate_Surgery-01,Prostate Surgery,Fail
+556,Excluded,Excluded,Excluded,Excluded,Fail,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Pittsburgh,Pass,Excluded,Excluded,Green,Excluded,Excluded,646-Prostate_Surgery-02,Prostate Surgery,Fail
+557,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Pittsburgh,Pass,Excluded,Excluded,Green,Excluded,Excluded,646-Prostate_Surgery-03,Prostate Surgery,Fail
+558,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Fail,Excluded,Excluded,Pass,Pass,652-Prostate-02,Prostate,Fail
+559,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Richmond,Excluded,Excluded,Pass,Excluded,Fail,Excluded,652-Prostate-05,Prostate,Fail
+560,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Fail,Excluded,Excluded,Pass,Pass,652-Prostate-06,Prostate,Fail
+561,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Excluded,Excluded,Pass,Pass,652-Prostate-07,Prostate,Fail
+562,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Excluded,Excluded,Pass,Pass,652-Prostate-09,Prostate,Fail
+563,Excluded,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Fail,Excluded,Excluded,Pass,Pass,652-Prostate-11,Prostate,Fail
+564,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Pass,Excluded,Pass,Pass,652-Prostate-12,Prostate,Fail
+565,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Pass,Excluded,Pass,Pass,652-Prostate-13,Prostate,Fail
+566,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Excluded,Excluded,Pass,Pass,652-Prostate-14,Prostate,Fail
+567,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Pass,Excluded,Pass,Pass,652-Prostate-15,Prostate,Fail
+568,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Excluded,Excluded,Pass,Pass,652-Prostate-18,Prostate,Fail
+569,Excluded,Pass,Pass,Pass,Pass,,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Excluded,Pass,Excluded,Excluded,Pass,Pass,652-Prostate-19,Prostate,Fail
+570,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Richmond,Excluded,Excluded,Pass,Excluded,Pass,Excluded,652-Prostate-21,Prostate,Fail
+571,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Richmond,Excluded,Excluded,Excluded,Excluded,Pass,Excluded,652-Prostate-22,Prostate,Fail
+572,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Richmond,Excluded,Excluded,Pass,Excluded,Pass,Excluded,652-Prostate-24,Prostate,Fail
+573,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Richmond,Pass,Excluded,Excluded,Green,Excluded,Excluded,652-Prostate_Surgery-01,Prostate Surgery,Fail
+574,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Richmond,Pass,Excluded,Excluded,Green,Excluded,Excluded,652-Prostate_Surgery-02,Prostate Surgery,Fail
+575,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-01,Prostate,Fail
+576,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-02,Prostate,Fail
+577,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-03,Prostate,Fail
+578,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-04,Prostate,Fail
+579,Excluded,Excluded,Excluded,Excluded,Pass,,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-05,Prostate,Fail
+580,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-06,Prostate,Fail
+581,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-07,Prostate,Fail
+582,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-09,Prostate,Fail
+583,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-10,Prostate,Fail
+584,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-11,Prostate,Fail
+585,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-12,Prostate,Fail
+586,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-13,Prostate,Fail
+587,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-15,Prostate,Fail
+588,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-16,Prostate,Fail
+589,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-17,Prostate,Fail
+590,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-18,Prostate,Fail
+591,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,St. Louis,Excluded,Pass,Pass,Excluded,Pass,Pass,657-Prostate-19,Prostate,Fail
+592,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,St. Louis,Excluded,Excluded,Pass,Excluded,Pass,Excluded,657-Prostate-20,Prostate,Fail
+593,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,St. Louis,Fail,Excluded,Excluded,Red,Excluded,Excluded,657-Prostate_Surgery-01,Prostate Surgery,Fail
+594,Excluded,Fail,Excluded,Excluded,Pass,Fail,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Pass,663-Prostate-01,Prostate,Fail
+595,Excluded,Excluded,Excluded,Excluded,Pass,,Fail,Fail,Pass,Excluded,Excluded,Fail,Fail,Pass,Pass,Seattle,Excluded,Excluded,Pass,Excluded,Pass,Excluded,663-Prostate-02,Prostate,Fail
+596,Excluded,Excluded,Excluded,Excluded,Pass,,Fail,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Seattle,Excluded,Excluded,Pass,Excluded,Pass,Excluded,663-Prostate-03,Prostate,Fail
+597,Excluded,Fail,Excluded,Excluded,Pass,,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Pass,663-Prostate-04,Prostate,Fail
+598,Excluded,Excluded,Excluded,Excluded,Pass,,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Seattle,Excluded,Excluded,Pass,Excluded,Pass,Excluded,663-Prostate-05,Prostate,Fail
+599,Excluded,Fail,Excluded,Excluded,Pass,,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Fail,663-Prostate-07,Prostate,Fail
+600,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Fail,663-Prostate-08,Prostate,Fail
+601,Excluded,Pass,Excluded,Excluded,Pass,Fail,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Pass,663-Prostate-14,Prostate,Fail
+602,Excluded,Pass,Excluded,Excluded,Pass,Fail,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Fail,663-Prostate-15,Prostate,Fail
+603,Excluded,Fail,Excluded,Excluded,Pass,Fail,Fail,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Excluded,Fail,Pass,Excluded,Pass,Pass,663-Prostate-16,Prostate,Fail
+604,Excluded,Excluded,Excluded,Excluded,Pass,,Fail,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Seattle,Pass,Excluded,Excluded,Yellow,Excluded,Excluded,663-Prostate_Surgery-01,Prostate Surgery,Fail
+605,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-01,Prostate,Fail
+606,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-02,Prostate,Fail
+607,Fail,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Fail,Pass,667-Prostate-03,Prostate,Fail
+608,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Fail,Pass,667-Prostate-04,Prostate,Fail
+609,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-05,Prostate,Fail
+610,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-06,Prostate,Fail
+611,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-07,Prostate,Fail
+612,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Pass,Pass,667-Prostate-08,Prostate,Fail
+613,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Pass,Pass,667-Prostate-09,Prostate,Fail
+614,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Pass,Pass,667-Prostate-10,Prostate,Fail
+615,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-11,Prostate,Fail
+616,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Fail,Pass,667-Prostate-12,Prostate,Fail
+617,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Excluded,Pass,Fail,Fail,Fail,Pass,Shreveport,Excluded,Excluded,Pass,Excluded,Fail,Excluded,667-Prostate-13,Prostate,Fail
+618,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Fail,Pass,667-Prostate-14,Prostate,Fail
+619,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Fail,Pass,Excluded,Fail,Pass,667-Prostate-15,Prostate,Fail
+620,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Shreveport,Excluded,Pass,Pass,Excluded,Pass,Pass,667-Prostate-16,Prostate,Fail
+621,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Pass,Excluded,Excluded,Green,Excluded,Excluded,667-Prostate_Surgery-01,Prostate Surgery,Fail
+622,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Shreveport,Pass,Excluded,Excluded,Green,Excluded,Excluded,667-Prostate_Surgery-02,Prostate Surgery,Fail
+623,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Shreveport,Pass,Excluded,Excluded,Green,Excluded,Excluded,667-Prostate_Surgery-03,Prostate Surgery,Fail
+624,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Shreveport,Pass,Excluded,Excluded,Green,Excluded,Excluded,667-Prostate_Surgery-04,Prostate Surgery,Fail
+625,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Pass,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-01,Prostate,Fail
+626,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Excluded,Pass,Pass,Excluded,Pass,Pass,671-Prostate-02,Prostate,Pass
+627,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-05,Prostate,Fail
+628,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-06,Prostate,Pass
+629,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-07,Prostate,Pass
+630,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Pass,Pass,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-08,Prostate,Fail
+631,Excluded,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Pass,Excluded,Excluded,Pass,San Antonio,Excluded,Fail,Pass,Excluded,Pass,Fail,671-Prostate-09,Prostate,Fail
+632,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,San Antonio,Excluded,Pass,Pass,Excluded,Pass,Pass,671-Prostate-10,Prostate,Fail
+633,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-11,Prostate,Pass
+634,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-12,Prostate,Fail
+635,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-13,Prostate,Pass
+636,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,San Antonio,Excluded,Excluded,Pass,Excluded,Pass,Excluded,671-Prostate-14,Prostate,Fail
+637,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-01,Prostate Surgery,Fail
+638,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-02,Prostate Surgery,Fail
+639,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,671-Prostate_Surgery-03,Prostate Surgery,Fail
+640,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-04,Prostate Surgery,Fail
+641,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Excluded,Fail,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-05,Prostate Surgery,Fail
+642,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-06,Prostate Surgery,Fail
+643,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Pass,Excluded,Excluded,Pass,San Antonio,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,671-Prostate_Surgery-07,Prostate Surgery,Pass
+644,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,San Antonio,Pass,Excluded,Excluded,Green,Excluded,Excluded,671-Prostate_Surgery-08,Prostate Surgery,Fail
+645,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-01,Prostate,Fail
+646,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-02,Prostate,Fail
+647,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Pass,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-03,Prostate,Fail
+648,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Pass,Pass,Excluded,Pass,Pass,672-Prostate-04,Prostate,Fail
+649,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-05,Prostate,Fail
+650,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-06,Prostate,Fail
+651,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-07,Prostate,Fail
+652,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Fail,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-08,Prostate,Fail
+653,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-09,Prostate,Fail
+654,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-10,Prostate,Fail
+655,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-11,Prostate,Fail
+656,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-12,Prostate,Fail
+657,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-13,Prostate,Fail
+658,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-14,Prostate,Fail
+659,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-15,Prostate,Fail
+660,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,San Juan,Excluded,Fail,Pass,Excluded,Pass,Pass,672-Prostate-16,Prostate,Fail
+661,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-17,Prostate,Fail
+662,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-18,Prostate,Fail
+663,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-19,Prostate,Fail
+664,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Fail,Fail,Fail,Pass,Pass,San Juan,Excluded,Excluded,Pass,Excluded,Pass,Excluded,672-Prostate-20,Prostate,Fail
+665,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-01,Prostate,Fail
+666,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-02,Prostate,Fail
+667,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-03,Prostate,Fail
+668,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-04,Prostate,Fail
+669,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Tampa,Excluded,Pass,Pass,Excluded,Pass,Pass,673-Prostate-05,Prostate,Fail
+670,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Tampa,Excluded,Pass,Pass,Excluded,Pass,Pass,673-Prostate-06,Prostate,Fail
+671,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-07,Prostate,Fail
+672,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-08,Prostate,Fail
+673,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-09,Prostate,Fail
+674,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-10,Prostate,Fail
+675,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-11,Prostate,Fail
+676,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-12,Prostate,Fail
+677,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-13,Prostate,Fail
+678,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-14,Prostate,Fail
+679,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-15,Prostate,Fail
+680,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Tampa,Excluded,Excluded,Pass,Excluded,Pass,Excluded,673-Prostate-16,Prostate,Fail
+681,Excluded,Excluded,Excluded,Excluded,Fail,Fail,Pass,Fail,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Tampa,Fail,Excluded,Excluded,Red,Excluded,Excluded,673-Prostate_Surgery-01,Prostate Surgery,Fail
+682,Excluded,Excluded,Excluded,Excluded,Pass,,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Tampa,Pass,Excluded,Excluded,Green,Excluded,Excluded,673-Prostate_Surgery-02,Prostate Surgery,Fail
+683,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Tampa,Fail,Excluded,Excluded,Red,Excluded,Excluded,673-Prostate_Surgery-03,Prostate Surgery,Fail
+684,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Tampa,Pass,Excluded,Excluded,Green,Excluded,Excluded,673-Prostate_Surgery-04,Prostate Surgery,Fail
+685,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Pass,Pass,Excluded,Pass,Pass,675-Prostate-01,Prostate,Fail
+686,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-02,Prostate,Fail
+687,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Pass,Pass,Excluded,Pass,Pass,675-Prostate-03,Prostate,Fail
+688,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-04,Prostate,Fail
+689,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-05,Prostate,Fail
+690,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-06,Prostate,Fail
+691,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-07,Prostate,Fail
+692,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-08,Prostate,Fail
+693,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-09,Prostate,Fail
+694,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Fail,Pass,Excluded,Pass,Pass,675-Prostate-10,Prostate,Fail
+695,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Fail,Pass,Excluded,Pass,Pass,675-Prostate-11,Prostate,Fail
+696,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-12,Prostate,Fail
+697,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Fail,Pass,Excluded,Pass,Pass,675-Prostate-13,Prostate,Fail
+698,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Orlando,Excluded,Pass,Fail,Excluded,Pass,Pass,675-Prostate-14,Prostate,Fail
+699,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-15,Prostate,Fail
+700,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Orlando,Excluded,Excluded,Pass,Excluded,Pass,Excluded,675-Prostate-16,Prostate,Fail
+701,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Pass,Excluded,Excluded,Green,Excluded,Excluded,675-Prostate_Surgery-01,Prostate Surgery,Fail
+702,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Fail,Excluded,Excluded,Red,Excluded,Excluded,675-Prostate_Surgery-02,Prostate Surgery,Fail
+703,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Orlando,Pass,Excluded,Excluded,Green,Excluded,Excluded,675-Prostate_Surgery-03,Prostate Surgery,Fail
+704,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Orlando,Pass,Excluded,Excluded,Green,Excluded,Excluded,675-Prostate_Surgery-04,Prostate Surgery,Fail
+705,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-01,Prostate,Fail
+706,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-02,Prostate,Fail
+707,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-04,Prostate,Fail
+708,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-05,Prostate,Fail
+709,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-06,Prostate,Fail
+710,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-07,Prostate,Fail
+711,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-08,Prostate,Fail
+712,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-10,Prostate,Fail
+713,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-11,Prostate,Fail
+714,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Washington,Excluded,Excluded,Pass,Excluded,Fail,Excluded,688-Prostate-12,Prostate,Fail
+715,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-13,Prostate,Fail
+716,Pass,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-14,Prostate,Fail
+717,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-15,Prostate,Fail
+718,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-16,Prostate,Fail
+719,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-17,Prostate,Fail
+720,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-18,Prostate,Fail
+721,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-19,Prostate,Fail
+722,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-20,Prostate,Fail
+723,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Washington,Excluded,Fail,Pass,Excluded,Pass,Pass,688-Prostate-21,Prostate,Fail
+724,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Washington,Excluded,Excluded,Pass,Excluded,Pass,Excluded,688-Prostate-22,Prostate,Fail
+725,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Fail,Los Angeles,Excluded,Fail,Pass,Excluded,Pass,Pass,691-Prostate-01,Prostate,Pass
+726,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Los Angeles,Excluded,Excluded,Pass,Excluded,Pass,Excluded,691-Prostate-02,Prostate,Fail
+727,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Los Angeles,Excluded,Excluded,Pass,Excluded,Pass,Excluded,691-Prostate-03,Prostate,Fail
+728,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-04,Prostate,Fail
+729,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-05,Prostate,Fail
+730,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-06,Prostate,Fail
+731,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-07,Prostate,Fail
+732,Pass,Pass,Excluded,Excluded,Fail,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-08,Prostate,Fail
+733,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-10,Prostate,Fail
+734,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Fail,Pass,691-Prostate-11,Prostate,Fail
+735,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Los Angeles,Excluded,Excluded,Pass,Excluded,Pass,Excluded,691-Prostate-12,Prostate,Pass
+736,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-13,Prostate,Fail
+737,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Pass,Pass,691-Prostate-14,Prostate,Fail
+738,Pass,Excluded,Excluded,Excluded,Fail,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Fail,Fail,Pass,Los Angeles,Excluded,Excluded,Pass,Excluded,Pass,Excluded,691-Prostate-15,Prostate,Fail
+739,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Pass,Fail,Pass,Los Angeles,Excluded,Excluded,Pass,Excluded,Pass,Excluded,691-Prostate-16,Prostate,Fail
+740,Excluded,Pass,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Pass,Pass,Excluded,Fail,Pass,691-Prostate-17,Prostate,Pass
+741,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Pass,Excluded,Excluded,Green,Excluded,Excluded,691-Prostate_Surgery-01,Prostate Surgery,Fail
+742,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Pass,Excluded,Excluded,Green,Excluded,Excluded,691-Prostate_Surgery-02,Prostate Surgery,Fail
+743,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Excluded,Excluded,Excluded,Excluded,Excluded,Excluded,691-Prostate_Surgery-03,Prostate Surgery,Pass
+744,Excluded,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Los Angeles,Pass,Excluded,Excluded,Green,Excluded,Excluded,691-Prostate_Surgery-04,Prostate Surgery,Fail
+745,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-01,Prostate,Fail
+746,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-02,Prostate,Fail
+747,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-03,Prostate,Fail
+748,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-04,Prostate,Fail
+749,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-05,Prostate,Fail
+750,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-06,Prostate,Fail
+751,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-07,Prostate,Fail
+752,Pass,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-08,Prostate,Fail
+753,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Fail,Fail,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-09,Prostate,Fail
+754,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-10,Prostate,Fail
+755,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-11,Prostate,Fail
+756,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-12,Prostate,Fail
+757,Pass,Pass,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-13,Prostate,Fail
+758,Excluded,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-14,Prostate,Pass
+759,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-15,Prostate,Fail
+760,Pass,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-17,Prostate,Fail
+761,Pass,Pass,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Excluded,Pass,Pass,Excluded,Pass,Pass,695-Prostate-19,Prostate,Fail
+762,Pass,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Milwaukee,Excluded,Excluded,Pass,Excluded,Pass,Excluded,695-Prostate-20,Prostate,Fail
+763,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Pass,Excluded,Excluded,Green,Excluded,Excluded,695-Prostate_Surgery-01,Prostate Surgery,Fail
+764,Excluded,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Excluded,Excluded,Pass,Milwaukee,Pass,Excluded,Excluded,Green,Excluded,Excluded,695-Prostate_Surgery-02,Prostate Surgery,Fail

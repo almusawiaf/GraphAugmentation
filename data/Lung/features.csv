@@ -1,0 +1,54 @@
+BrachialPlexus_D0.035cc,object
+BrachialPlexus_D0_035cc,object
+BrachialPlexus_DMax,object
+cancer_type,object
+center_id,int64
+center_name,object
+Esophagus_D0.035cc,object
+Esophagus_D0_035cc,object
+Esophagus_DMax,object
+Esophagus_DMean,object
+Esophagus_V60Gy,object
+Heart_V45Gy,object
+LU_DVH_23,object
+LU_DVH_24,object
+LU_DVH_25,object
+LU_DVH_26,object
+LU_DVH_27,object
+LU_DVH_28,object
+Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_DMean,object
+Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_V20Gy,object
+Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_V5Gy,object
+Lung_Contra_Already_Subtracted_DMean,object
+Lung_Contra_Already_Subtracted_V20Gy,object
+Lung_Contra_Already_Subtracted_V5Gy,object
+Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_DMean,object
+Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_V20Gy,object
+Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_V5Gy,object
+Lung_Ipsi + Lung_Contra - Lung_Subtraction_Structure ((Lung_Ipsi + Lung_Contra) - Lung_Subtraction_Structure)_DMean,object
+Lung_Ipsi + Lung_Contra - Lung_Subtraction_Structure ((Lung_Ipsi + Lung_Contra) - Lung_Subtraction_Structure)_V20Gy,object
+Lung_Ipsi + Lung_Contra - Lung_Subtraction_Structure ((Lung_Ipsi + Lung_Contra) - Lung_Subtraction_Structure)_V5Gy,object
+Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_DMean,object
+Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_V20Gy,object
+Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_V5Gy,object
+Lung_Ipsi_Already_Subtracted_DMean,object
+Lung_Ipsi_Already_Subtracted_V20Gy,object
+Lung_Ipsi_Already_Subtracted_V5Gy,object
+Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_DMean,object
+Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_V20Gy,object
+Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_V5Gy,object
+Lung_Total_Already_Subtracted_DMean,object
+Lung_Total_Already_Subtracted_V20Gy,object
+Lung_Total_Already_Subtracted_V5Gy,object
+LungEsophagitisTotal,int64
+LungEsophagitisWithGrade,int64
+LungPneumonitisTotal,int64
+LungPneumonitisWithGrade,int64
+NumberOfNotesWithToxicityInitialized,int64
+PTV_D95%,object
+PTV_DMin,object
+SpinalCord_D0.035cc,object
+SpinalCord_D0_035cc,object
+SpinalCord_DMax,object
+TotalNumberOfNotes,int64
+vha_id,object

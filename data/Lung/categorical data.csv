@@ -1,0 +1,774 @@
+,Unnamed: 0,Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_V20Gy,Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_DMean,SpinalCord_DMax,Esophagus_DMean,Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_V5Gy,Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_V5Gy,BrachialPlexus_DMax,Esophagus_DMax,Esophagus_D0.035cc,Heart_V45Gy,BrachialPlexus_D0.035cc,Esophagus_V60Gy,SpinalCord_D0.035cc,Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_V5Gy,Lung_Total_Already_Subtracted_V5Gy,center_name,Lung_Total_Already_Subtracted_V20Gy,Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_DMean,Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_DMean,Lung_Total_Already_Subtracted_DMean,Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_DMean,Lung_Ipsi - Lung_Subtraction_Structure (Lung_Ipsi - Lung_Subtraction_Structure)_V20Gy,PTV_DMin,Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted (Lung_Ipsi_Already_Subtracted + Lung_Contra_Already_Subtracted)_V20Gy,Lung_Total - Lung_Subtraction_Structure (Lung_Total - Lung_Subtraction_Structure)_V20Gy,vha_id,cancer_type,Lung_Contra - Lung_Subtraction_Structure (Lung_Contra - Lung_Subtraction_Structure)_V5Gy,PTV_D95%
+0,0,,,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,,Red,Ann Arbor,Green,,,Yellow,Green,,Yellow,,Green,506-NSCLC-01,NSCLC,,Yellow
+1,1,Red,Green,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-02,NSCLC,Green,Yellow
+2,2,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Ann Arbor,,Red,,,Green,Red,Green,,Green,506-NSCLC-03,NSCLC,Green,Yellow
+3,3,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-04,NSCLC,Green,Yellow
+4,4,Green,Green,Green,Yellow,,,,Green,Green,Green,,Red,Green,Red,Red,Ann Arbor,Yellow,Red,,Yellow,,Red,Green,,,506-NSCLC-05,NSCLC,Yellow,Green
+5,5,Red,Red,Green,Green,,,,Green,Green,Green,,Red,Green,Green,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-07,NSCLC,Green,Yellow
+6,6,Green,Yellow,Green,Yellow,,,Green,Green,Green,Green,Green,Red,Green,Red,Red,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-08,NSCLC,Red,Yellow
+7,7,Red,Red,Yellow,Green,Red,,,Green,Green,Green,,Green,Yellow,Red,Red,Ann Arbor,Yellow,Red,Green,Yellow,,Red,Red,Green,,506-NSCLC-09,NSCLC,Red,Red
+8,8,Green,Green,Green,Green,,Yellow,Yellow,Green,Green,Green,Green,Green,Green,Red,Yellow,Ann Arbor,Red,Red,,Yellow,Green,Red,Yellow,,Green,506-NSCLC-10,NSCLC,Green,Red
+9,9,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Ann Arbor,Yellow,Red,,Yellow,,Red,Red,,,506-NSCLC-12,NSCLC,Green,Yellow
+10,10,Green,Green,Green,Red,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Yellow,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-13,NSCLC,Green,Yellow
+11,11,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Ann Arbor,Green,Red,,Green,,Red,Red,,,506-NSCLC-14,NSCLC,Green,Red
+12,12,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-15,NSCLC,Green,Yellow
+13,13,Red,Red,Green,Red,,Red,,Green,Green,Green,,Red,Green,Red,Red,Ann Arbor,Green,Red,,Green,Green,Red,Red,,Green,506-NSCLC-16,NSCLC,Red,Yellow
+14,14,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-17,NSCLC,Green,Red
+15,15,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Ann Arbor,Green,Red,,Green,,Red,Red,,,506-NSCLC-18,NSCLC,Yellow,Green
+16,16,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-NSCLC-19,NSCLC,Green,Yellow
+17,17,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Ann Arbor,Green,,,Green,,,Green,,,506-NSCLC-20,NSCLC,,Yellow
+18,18,Red,Yellow,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Ann Arbor,Green,Red,,Green,,Red,Red,,,506-NSCLC-21,NSCLC,Green,Red
+19,19,Red,Yellow,Green,Green,,Red,,Green,Green,Green,,Yellow,Green,Red,,Ann Arbor,,Red,,,Green,Red,Green,,Green,506-NSCLC_Surgery-02,NSCLC Surgery,Red,Green
+20,20,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Ann Arbor,Green,Red,,Green,,Red,Yellow,,,506-SCLC-01,SCLC,Green,Yellow
+21,21,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-SCLC-02,SCLC,Green,Yellow
+22,22,Yellow,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Ann Arbor,Yellow,Red,,Green,,Red,Green,,,506-SCLC-03,SCLC,Green,Yellow
+23,23,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-SCLC-04,SCLC,Green,Yellow
+24,24,Green,Green,Green,Yellow,,,,Green,Green,Green,,Green,Green,Red,Green,Ann Arbor,Green,Red,,Green,,Red,Green,,,506-SCLC-05,SCLC,Green,Green
+25,25,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Atlanta,Yellow,,,Yellow,Yellow,,Red,,Yellow,508-NSCLC-01,NSCLC,Red,Red
+26,26,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Atlanta,,,,,Red,,Red,,Yellow,508-NSCLC-02,NSCLC,,Red
+27,27,Green,Yellow,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Atlanta,Yellow,Red,,Yellow,Yellow,Red,Yellow,,Yellow,508-NSCLC-03,NSCLC,Yellow,Yellow
+28,28,,,Yellow,Green,,Green,,Yellow,Yellow,Green,,Red,Yellow,,Green,Atlanta,Green,,,Green,Yellow,,Green,,Green,508-NSCLC-04,NSCLC,,Yellow
+29,29,,,Yellow,Green,,Green,,Yellow,Yellow,Green,,Red,Green,,,Atlanta,,,,,Green,,Red,,Green,508-NSCLC-05,NSCLC,,Red
+30,30,Red,Red,Green,Red,,Yellow,,Green,Green,Green,,Red,Green,,Yellow,Atlanta,Green,,,Green,Yellow,,Red,,Yellow,508-NSCLC-06,NSCLC,Yellow,Red
+31,31,,,Yellow,Yellow,,Green,,Green,Green,Yellow,,Red,Yellow,,Green,Atlanta,Yellow,,,Yellow,Red,,Red,,Red,508-NSCLC-07,NSCLC,,Red
+32,32,Green,Green,Yellow,Green,,Red,,Yellow,Yellow,Green,,Green,Green,,Red,Atlanta,Green,,,Green,Green,,Green,,Green,508-NSCLC-08,NSCLC,Green,Green
+33,33,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Atlanta,Yellow,,,Yellow,Red,,Red,,Red,508-NSCLC-09,NSCLC,,Yellow
+34,34,Green,Green,Yellow,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Atlanta,,Red,,,Green,Red,Yellow,,Green,508-NSCLC-10,NSCLC,Green,Yellow
+35,35,Green,Green,Green,Red,,Red,,Green,Green,Green,,Red,Green,Red,Red,Atlanta,Green,Red,,Green,Green,Red,Yellow,,Green,508-NSCLC-11,NSCLC,Red,Green
+36,36,Green,Green,Yellow,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Atlanta,Yellow,Red,,Yellow,Red,Red,Red,,Red,508-NSCLC-12,NSCLC,Green,Yellow
+37,37,,,Green,Green,,Green,,Green,Green,Green,,Yellow,Green,,,Atlanta,,,,,Yellow,,Red,,Green,508-NSCLC-13,NSCLC,,Red
+38,38,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Atlanta,Yellow,Red,,Yellow,Red,Red,Red,,Yellow,508-NSCLC-14,NSCLC,Green,Red
+39,39,Green,Green,Green,Green,,Green,,Green,Green,Red,,Green,Green,Red,,Atlanta,,Red,,,Green,Red,Red,,Green,508-NSCLC-15,NSCLC,Green,Red
+40,40,Red,Green,Yellow,Green,,Green,,Yellow,Yellow,Green,,Red,Yellow,Yellow,,Atlanta,,Red,,,Green,Red,Yellow,,Green,508-NSCLC-16,NSCLC,Green,Yellow
+41,41,,,Green,Yellow,,Red,,Green,Green,Green,,Green,Green,,Red,Atlanta,Yellow,,,Yellow,Red,,Yellow,,Red,508-NSCLC-17,NSCLC,,Red
+42,42,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Atlanta,,,,,Red,,Yellow,,Green,508-NSCLC-18,NSCLC,,Yellow
+43,43,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Atlanta,,,,,Green,,Green,,Green,508-NSCLC_Surgery-01,NSCLC Surgery,,Yellow
+44,44,,,Green,Green,,Green,,Yellow,Yellow,Green,,Red,Green,,,Atlanta,,,,,Green,,Green,,Green,508-NSCLC_Surgery-02,NSCLC Surgery,,Yellow
+45,45,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Atlanta,,,,,Green,,Red,,Yellow,508-SCLC-01,SCLC,,Yellow
+46,46,Red,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Red,Green,Green,,Baltimore,,Red,,,Green,Red,Green,,Green,512-NSCLC-01,NSCLC,Green,Green
+47,47,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Baltimore,,Red,,,Green,Red,Green,,Green,512-NSCLC-02,NSCLC,Green,Green
+48,48,Green,Green,Green,Green,,Green,,Yellow,Yellow,Green,,Red,Green,Yellow,Green,Baltimore,Green,Red,,Green,Green,Red,Green,,Green,512-NSCLC-03,NSCLC,Green,Yellow
+49,49,Red,Red,Green,Yellow,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Yellow,Baltimore,Green,Red,,Green,Yellow,Red,Yellow,,Yellow,512-NSCLC-05,NSCLC,Red,Red
+50,50,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,Yellow,Baltimore,Green,Red,,Green,Green,Red,Yellow,,Green,512-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+51,51,Green,Green,Green,Red,,Red,,Yellow,Green,Green,,Red,Green,Red,Red,Baltimore,Green,Red,,Green,Yellow,Red,Green,,Green,512-SCLC-01,SCLC,Green,Yellow
+52,52,Yellow,Green,Green,Green,,,,Yellow,Green,Green,,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-01,NSCLC,Green,Yellow
+53,53,Red,Red,Green,Yellow,,,Yellow,Yellow,Green,Green,Yellow,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-02,NSCLC,Yellow,Yellow
+54,54,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Yellow,,,516-NSCLC-03,NSCLC,Yellow,Red
+55,55,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Green,Bay Pines,Green,Red,,Green,,Red,Yellow,,,516-NSCLC-06,NSCLC,Green,Green
+56,56,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-07,NSCLC,Green,Yellow
+57,57,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-08,NSCLC,Green,Yellow
+58,58,Green,Green,Green,Green,,,,Red,Red,Green,,Green,Green,Red,Yellow,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-10,NSCLC,Green,Green
+59,59,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-11,NSCLC,Green,Yellow
+60,60,Green,Green,Green,Green,,Yellow,,Yellow,Yellow,Green,,Green,Green,Red,,Bay Pines,,Red,,,Green,Red,Green,,Green,516-NSCLC-12,NSCLC,Green,Yellow
+61,61,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Yellow,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-13,NSCLC,Yellow,Yellow
+62,62,Red,Red,Green,Red,,,Yellow,Yellow,Green,Green,Green,Red,Green,Green,Red,Bay Pines,Green,Red,,Green,,Red,Red,,,516-NSCLC-15,NSCLC,Red,Red
+63,63,Green,Green,Yellow,Green,,,,Red,Red,Green,,Green,Yellow,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-16,NSCLC,Yellow,Green
+64,64,Green,Green,Green,Green,,,,Red,Red,Green,,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC-17,NSCLC,Green,Yellow
+65,65,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Yellow,,,516-NSCLC-18,NSCLC,Yellow,Yellow
+66,66,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Bay Pines,,Red,,,Green,Red,Red,,Green,516-NSCLC-19,NSCLC,Green,Yellow
+67,67,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Bay Pines,,Red,,,Green,Red,Green,,Green,516-NSCLC-20,NSCLC,Green,Yellow
+68,68,,,Green,Green,,,,Red,Yellow,Green,,Green,Green,,Yellow,Bay Pines,Green,,,Green,,,Green,,,516-NSCLC_Surgery-01,NSCLC Surgery,,Yellow
+69,69,Red,Yellow,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Yellow,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC_Surgery-02,NSCLC Surgery,Green,Green
+70,70,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Bay Pines,Green,Red,,Green,,Red,Green,,,516-NSCLC_Surgery-03,NSCLC Surgery,Green,Yellow
+71,71,Green,Green,Yellow,Green,,Green,,Yellow,Yellow,Green,,Green,Yellow,Green,,Bay Pines,,Red,,,Green,Red,Green,,Green,516-NSCLC_Surgery-04,NSCLC Surgery,Green,Yellow
+72,72,Red,Red,Yellow,Yellow,,,,Yellow,Yellow,Green,,Red,Yellow,Red,,Bay Pines,,Red,,,,Red,Green,,,516-SCLC-01,SCLC,Green,Yellow
+73,73,Red,Red,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Green,,,516-SCLC-02,SCLC,Red,Yellow
+74,74,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,,Bay Pines,,Red,,,,Red,Red,,,516-SCLC-04,SCLC,Red,Red
+75,75,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Red,Bay Pines,Green,Red,,Green,Green,Red,Green,,Green,516-SCLC-06,SCLC,Green,Green
+76,76,Red,Red,Green,Green,,,,Red,Yellow,Yellow,,Green,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Yellow,,,516-SCLC-07,SCLC,Green,Yellow
+77,77,Green,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Bay Pines,Green,Red,,Green,,Red,Red,,,516-SCLC-08,SCLC,Red,Yellow
+78,78,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Boston,Green,Red,,Green,Green,Red,Green,,Green,523-NSCLC-01,NSCLC,Yellow,Green
+79,79,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,Green,Boston,Green,Red,,Green,Green,Red,Green,,Green,523-NSCLC-02,NSCLC,Green,Green
+80,80,Red,Green,Green,Green,,Green,,Green,Green,,,Green,Green,Green,,Boston,,Green,,,Green,Red,Green,,Green,523-NSCLC-04,NSCLC,Green,Green
+81,81,Green,Green,Green,Green,,Red,,Green,Green,,,Green,Green,Red,Red,Boston,Green,Red,,Green,Yellow,Red,Yellow,,Green,523-NSCLC-07,NSCLC,Green,Yellow
+82,82,Red,Red,Yellow,Green,,Yellow,,Yellow,Yellow,,,Red,Yellow,Yellow,Yellow,Boston,Green,Red,,Green,Green,Red,Green,,Green,523-NSCLC-09,NSCLC,Yellow,Green
+83,83,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Boston,Green,Red,,Yellow,,Red,Yellow,,,523-NSCLC-11,NSCLC,Green,Green
+84,84,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Red,Green,Boston,Green,Red,,Green,,Red,Yellow,,,523-NSCLC-12,NSCLC,Green,Green
+85,85,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,,Yellow,Boston,Green,,,Green,Green,,Red,,Green,523-NSCLC-13,NSCLC,Yellow,Green
+86,86,Green,Green,Green,Green,,,,Yellow,Green,Green,,Green,Green,Red,Green,Boston,Green,Red,,Green,,Red,Red,,,523-NSCLC-14,NSCLC,Green,Green
+87,87,Red,Red,Green,Red,,,,Green,Green,Green,,Red,Green,,Yellow,Boston,Green,,,Green,,,Yellow,,,523-NSCLC-15,NSCLC,Green,Yellow
+88,88,Red,Yellow,Yellow,Yellow,,,,Yellow,Yellow,Green,,Red,Yellow,,Green,Boston,Green,,,Green,,,Green,,,523-NSCLC-17,NSCLC,Green,Green
+89,89,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Boston,,Red,,,Green,Red,Yellow,,Green,523-NSCLC_Surgery-01,NSCLC Surgery,Green,Green
+90,90,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Boston,Green,Red,,Green,,Red,Green,,,523-NSCLC_Surgery-02,NSCLC Surgery,Yellow,Green
+91,91,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Boston,,Red,,,Green,Red,Green,,Green,523-NSCLC_Surgery-03,NSCLC Surgery,Green,Green
+92,92,Green,Green,Yellow,Green,,Green,,Yellow,Green,,,Green,Yellow,Red,,Boston,,Red,,,Yellow,Red,Red,,Yellow,523-NSCLC_Surgery-04,NSCLC Surgery,Green,Yellow
+93,93,Green,Green,Yellow,Yellow,,,,Yellow,Yellow,Green,,Yellow,Green,Red,,Boston,,Red,,,,Red,Green,,,523-NSCLC_Surgery-05,NSCLC Surgery,Green,Green
+94,94,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Boston,Green,Red,,Green,,Red,Green,,,523-NSCLC_Surgery-06,NSCLC Surgery,Red,Green
+95,95,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Boston,,Red,,,Green,Red,Yellow,,Green,523-SCLC-01,SCLC,Green,Green
+96,96,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Boston,Green,,,Green,,,Green,,,523-SCLC-02,SCLC,Green,Green
+97,97,Red,Red,Yellow,Yellow,,,,Green,Green,,,Green,Yellow,,Red,Boston,Green,,,Yellow,,,Red,,,523-SCLC-04,SCLC,Green,Yellow
+98,98,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Boston,Green,,,Green,,,Green,,,523-SCLC-05,SCLC,Green,Yellow
+99,99,Red,Red,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Yellow,Yellow,Bronx,Green,Red,,Yellow,,Red,Green,,,526-NSCLC-01,NSCLC,Green,Green
+100,100,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Bronx,Green,Red,,Green,,Red,Green,,,526-NSCLC-02,NSCLC,Green,Green
+101,101,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Bronx,Yellow,Red,,Red,Red,Red,Yellow,,Yellow,526-NSCLC-03,NSCLC,Green,Yellow
+102,102,Green,Green,Green,Green,,,Yellow,Yellow,Yellow,Green,Yellow,Red,Green,Red,Yellow,Bronx,Green,Red,,Yellow,,Red,Green,,,526-NSCLC-04,NSCLC,Green,Yellow
+103,103,Red,Yellow,Green,Red,,,Yellow,Yellow,Yellow,Green,Yellow,Red,Green,Green,Green,Bronx,Green,Red,,Green,,Red,Red,,,526-NSCLC-05,NSCLC,Green,Green
+104,104,Green,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Bronx,Red,Red,,Red,,Red,Yellow,,,526-NSCLC-06,NSCLC,Red,Yellow
+105,105,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Bronx,Yellow,Red,,Red,,Red,Green,,,526-NSCLC-07,NSCLC,Green,Green
+106,106,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Red,Green,Green,Green,Bronx,Green,Red,,Green,,Red,Red,,,526-NSCLC-08,NSCLC,Green,Yellow
+107,107,Red,Green,Green,Green,,,Red,Green,Green,Green,Red,Green,Green,Green,Green,Bronx,Green,Red,,Green,,Red,Red,,,526-NSCLC-09,NSCLC,Green,Red
+108,108,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Bronx,Yellow,Red,,Red,,Red,Green,,,526-NSCLC-10,NSCLC,Green,Yellow
+109,109,Red,Red,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Yellow,Bronx,Red,Red,,Red,,Red,Yellow,,,526-NSCLC-11,NSCLC,Green,Green
+110,110,Red,Red,Green,Green,,,,Green,Green,Green,,Yellow,Green,Red,,Bronx,,Red,,,,Red,Red,,,526-NSCLC-12,NSCLC,Green,Red
+111,111,,,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,Bronx,,,,,,,Red,,,526-NSCLC_Surgery-01,NSCLC Surgery,,Red
+112,112,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Bronx,,Red,,,Yellow,Red,Green,,Red,526-NSCLC_Surgery-02,NSCLC Surgery,Red,Yellow
+113,113,Green,Yellow,Green,Yellow,,,Green,Yellow,Yellow,Green,Green,Yellow,Green,Red,Red,Bronx,Green,Red,,Yellow,,Red,Green,,,526-SCLC-01,SCLC,Red,Yellow
+114,114,Green,Green,Green,Green,,Red,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Red,Bronx,Yellow,Red,,Red,Red,Red,Red,,Red,526-SCLC-02,SCLC,Red,Yellow
+115,115,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Bronx,Green,Red,,Green,,Red,Red,,,526-SCLC-03,SCLC,Green,Green
+116,116,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Yellow,Green,Bronx,Green,Red,,Green,,Red,Green,,,526-SCLC-04,SCLC,Green,Yellow
+117,117,Green,Green,Green,Green,,Yellow,Yellow,Green,Green,Green,Yellow,Green,Green,Red,,Albany,,Red,,,Green,Red,Yellow,,Green,528-NSCLC-01,NSCLC,Green,Yellow
+118,118,Red,Red,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Green,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-02,NSCLC,Green,Green
+119,119,,,Yellow,Green,Red,,,Green,Green,Green,,Green,Yellow,,,Albany,,,Yellow,,,,Green,Red,,528-NSCLC-04,NSCLC,,Yellow
+120,120,Red,Red,Green,Red,Red,Red,Yellow,Green,Green,Green,Yellow,Green,Green,Red,,Albany,,Red,Yellow,,Yellow,Red,Red,Yellow,Red,528-NSCLC-05,NSCLC,Red,Yellow
+121,121,Red,Yellow,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Yellow,528-NSCLC-06,NSCLC,Green,Yellow
+122,122,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Albany,,Red,,,Yellow,Red,Green,,Yellow,528-NSCLC-07,NSCLC,Yellow,Green
+123,123,Red,Red,Green,Yellow,,Green,,Green,Green,Green,,Green,Green,Green,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-08,NSCLC,Yellow,Green
+124,124,Red,Red,Green,Yellow,Red,Red,,Green,Green,Green,,Red,Green,Red,Red,Albany,Green,Red,Green,Green,Yellow,Red,Green,Green,Green,528-NSCLC-10,NSCLC,Red,Green
+125,125,Red,Red,Green,Green,Green,Green,,Green,Green,Green,,Green,Green,Green,Green,Albany,Green,Red,Green,Green,Green,Red,Green,Green,Green,528-NSCLC-11,NSCLC,Green,Green
+126,126,Red,Red,Green,Green,Green,Yellow,,Yellow,Yellow,Green,,Red,Green,Red,,Albany,,Red,Green,,Green,Red,Green,Green,Green,528-NSCLC-12,NSCLC,Green,Green
+127,127,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Yellow,528-NSCLC-13,NSCLC,Red,Yellow
+128,128,Red,Red,Green,Red,,Red,,Green,Green,Green,,Red,Green,Red,,Albany,,Red,,,Green,Red,Red,,Green,528-NSCLC-15,NSCLC,Red,Green
+129,129,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Yellow,Green,Red,,Albany,,Red,,,Yellow,Red,Green,,Green,528-NSCLC-17,NSCLC,Red,Green
+130,130,Red,Yellow,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Green,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-19,NSCLC,Green,Green
+131,131,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-20,NSCLC,Yellow,Green
+132,132,Green,Red,Green,Green,,Red,Green,Green,Green,Green,Green,Green,Green,Yellow,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-21,NSCLC,Red,Yellow
+133,133,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC-23,NSCLC,Red,Green
+134,134,Red,Red,Green,Red,,Yellow,,Green,Green,Green,,Red,Green,Green,,Albany,,Red,,,Yellow,Red,Green,,Green,528-NSCLC-25,NSCLC,Yellow,Green
+135,135,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC_Surgery-01,NSCLC Surgery,Red,Green
+136,136,Yellow,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,,Albany,,Red,,,Green,Red,Green,,Green,528-NSCLC_Surgery-02,NSCLC Surgery,Red,Green
+137,137,Red,Red,Green,Green,Yellow,Yellow,,Green,Green,Green,,Green,Green,Yellow,,Albany,,Red,Green,,Green,Red,Yellow,Green,Green,528-SCLC-01,SCLC,Yellow,Yellow
+138,138,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Albany,Green,Red,,Green,Green,Red,Green,,Green,528-SCLC-02,SCLC,Red,Green
+139,139,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Yellow,,Albany,,Red,,,Green,Red,Green,,Green,528-SCLC-03,SCLC,Red,Green
+140,140,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,,Albany,,Red,,,Yellow,Red,Green,,Yellow,528-SCLC-04,SCLC,Red,Yellow
+141,141,Red,Red,Yellow,Yellow,,Red,Yellow,Green,Green,Green,Yellow,Green,Yellow,Red,Red,Cleveland,Green,Red,,Green,Green,Red,Green,,Green,541-NSCLC-01,NSCLC,Green,Green
+142,142,Red,Red,Green,Yellow,,Red,Yellow,Green,Green,Green,Yellow,Green,Green,Green,Yellow,Cleveland,Green,Red,,Green,Green,Red,Green,,Yellow,541-NSCLC-02,NSCLC,Red,Green
+143,143,Red,Red,Yellow,Green,,Red,,Green,Green,Green,,Green,Yellow,Red,Red,Cleveland,Red,Red,,Yellow,Red,Red,Red,,Red,541-NSCLC-03,NSCLC,Red,Red
+144,144,Red,Red,Green,Yellow,,Yellow,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Yellow,Cleveland,Green,Red,,Green,Green,Red,Green,,Green,541-NSCLC-05,NSCLC,Yellow,Green
+145,145,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Yellow,Cleveland,Green,Red,,Green,Yellow,Red,Green,,Green,541-NSCLC-06,NSCLC,Green,Green
+146,146,Green,Green,Green,Yellow,,Red,,Green,Green,Green,,Red,Green,Red,Red,Cleveland,Yellow,Red,,Yellow,Red,Red,Green,,Yellow,541-NSCLC-07,NSCLC,Green,Green
+147,147,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Cleveland,,Red,,,Green,Red,Yellow,,Yellow,541-NSCLC-08,NSCLC,Green,Yellow
+148,148,Yellow,Green,Green,Yellow,,Yellow,Yellow,Green,Green,Green,Yellow,Red,Green,Red,,Cleveland,,Red,,,Green,Red,Yellow,,Yellow,541-NSCLC-09,NSCLC,Green,Green
+149,149,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Cleveland,Green,Red,,Green,,Red,Green,,,541-NSCLC-10,NSCLC,Green,Green
+150,150,,,Green,Yellow,Red,,Yellow,Green,Green,Green,Yellow,Red,Green,,Red,Cleveland,Yellow,,Green,Green,,,Green,Yellow,,541-NSCLC-11,NSCLC,,Yellow
+151,151,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Cleveland,,Red,,,Green,Red,Green,,Green,541-NSCLC-12,NSCLC,Green,Green
+152,152,Green,Green,Green,Green,,,,Yellow,Green,Green,,Green,Green,,Green,Cleveland,Green,,,Green,,,Green,,,541-NSCLC-13,NSCLC,Green,Green
+153,153,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Cleveland,Green,,,Green,,,Green,,,541-NSCLC-14,NSCLC,Green,Green
+154,154,Red,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,,Green,Cleveland,Yellow,,,Red,,,Green,,,541-NSCLC-23,NSCLC,Green,Yellow
+155,155,,,Green,Yellow,Red,,,Yellow,Yellow,Green,,Red,Green,,Red,Cleveland,Red,,Red,Red,,,Green,Red,,541-NSCLC-24,NSCLC,,Green
+156,156,,,Green,Red,,,,Yellow,Yellow,Red,,Red,Green,,,Cleveland,,,,,,,,,,541-NSCLC-25,NSCLC,,
+157,157,Green,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,,Red,Cleveland,Green,,,Green,,,Red,,,541-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+158,158,,,Green,Red,Green,,,Green,Green,Green,,Green,Green,,Green,Cleveland,Green,,Green,Green,,,Green,Green,,541-NSCLC_Surgery-03,NSCLC Surgery,,Green
+159,159,Red,Red,Green,Green,,,,Green,Green,Green,,Red,Green,,Red,Cleveland,Green,,,Green,,,Green,,,541-NSCLC_Surgery-04,NSCLC Surgery,Red,Green
+160,160,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Cleveland,Green,Red,,Green,Green,Red,Green,,Green,541-NSCLC_Surgery-05,NSCLC Surgery,Green,Yellow
+161,161,Green,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Cleveland,Green,Red,Green,Green,,Red,Yellow,Green,,541-SCLC-02,SCLC,Green,Green
+162,162,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Red,Cleveland,Red,,,Yellow,,,Green,,,541-SCLC-03,SCLC,Green,Green
+163,163,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Cleveland,,Red,,,Green,Red,Green,,Green,541-SCLC-04,SCLC,Green,Green
+164,164,Green,Green,Yellow,Yellow,,,,Green,Green,Green,,Green,Yellow,,Red,Cleveland,Green,,,Red,,,Green,,,541-SCLC-05,SCLC,Red,Green
+165,165,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Yellow,Cleveland,Green,,,Green,,,Red,,,541-SCLC-06,SCLC,Green,Red
+166,166,Red,Yellow,Yellow,Green,,,,Yellow,Yellow,Green,,Green,Yellow,,Red,Cleveland,Red,,,Red,,,Green,,,541-SCLC-07,SCLC,Green,Green
+167,167,,,Yellow,,,,,,,Green,,,Yellow,,,Cleveland,,,,,,,,,,541-SCLC-09,SCLC,,
+168,168,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC-01,NSCLC,Green,Green
+169,169,Green,Green,Green,Red,,Red,,Green,Green,Green,,Green,Green,Red,,Miami,,Red,,,Yellow,Red,Green,,Red,546-NSCLC-02,NSCLC,Red,Green
+170,170,Green,Green,Green,Green,,Yellow,,Yellow,Green,Green,,Green,Green,Red,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC-03,NSCLC,Green,Green
+171,171,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC-04,NSCLC,Green,Green
+172,172,Red,Red,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Miami,,Green,,,Green,Green,Green,,Green,546-NSCLC-05,NSCLC,Green,Yellow
+173,173,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC-06,NSCLC,Green,Green
+174,174,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Miami,,Red,,,Green,Red,Green,,Yellow,546-NSCLC-08,NSCLC,Red,Green
+175,175,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC-09,NSCLC,Red,Green
+176,176,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Miami,,Red,,,Green,Red,Green,,Green,546-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+177,177,Red,Red,Green,,,,,,,Green,,,Green,Red,Red,West Palm Beach,Yellow,Red,,Yellow,,Red,Yellow,,,548-NSCLC-01,NSCLC,Red,Red
+178,178,Green,Green,Green,,,,,,,Green,,,Green,Green,Green,West Palm Beach,Green,Red,,Green,,Red,Green,,,548-NSCLC-03,NSCLC,Green,Yellow
+179,179,Red,Yellow,Green,,,,,,,Green,,,Green,Yellow,Green,West Palm Beach,Green,Red,,Green,,Red,Green,,,548-NSCLC-04,NSCLC,Green,Yellow
+180,180,Green,Green,Green,,,,,,,Green,,,Green,Green,Green,West Palm Beach,Green,Yellow,,Green,,Red,Green,,,548-NSCLC-05,NSCLC,Green,Yellow
+181,181,Green,Yellow,Green,,,,,,,Green,,,Green,Red,Red,West Palm Beach,Green,Red,,Green,,Red,Yellow,,,548-NSCLC-06,NSCLC,Red,Yellow
+182,182,,,Yellow,,,,,,,Red,,,Yellow,,,West Palm Beach,,,,,,,,,,548-NSCLC-07,NSCLC,,
+183,183,Red,Red,Green,,,,,,,Red,,,Green,Red,Red,West Palm Beach,Red,Red,,Yellow,,Red,Yellow,,,548-NSCLC-08,NSCLC,Red,Yellow
+184,184,Red,Green,Yellow,,,,,,,Green,,,Yellow,Green,Green,West Palm Beach,Green,Red,,Green,,Red,Red,,,548-NSCLC-09,NSCLC,Green,Yellow
+185,185,Red,Red,Green,,,,,,,Green,,,Green,Yellow,Yellow,West Palm Beach,Green,Red,,Green,,Red,Yellow,,,548-NSCLC-10,NSCLC,Red,Yellow
+186,186,Green,Green,Green,,,,,,,,,,Green,Green,Green,West Palm Beach,Green,Green,,Green,,Red,Green,,,548-NSCLC-11,NSCLC,Green,Yellow
+187,187,Red,Red,Green,,,,,,,Green,,,Green,Red,Red,West Palm Beach,Green,Red,,Green,,Red,Yellow,,,548-NSCLC-12,NSCLC,Red,Yellow
+188,188,Red,Red,Green,,,,,,,Green,,,Green,Red,Red,West Palm Beach,Red,Red,,Yellow,,Red,Green,,,548-NSCLC-13,NSCLC,Red,Yellow
+189,189,,,Green,,,Yellow,,,,Green,,,Green,,Yellow,West Palm Beach,Green,,,Green,Green,,Yellow,,Green,548-NSCLC-14,NSCLC,,Yellow
+190,190,,,Green,,,Green,,,,,,,Green,,,West Palm Beach,,,,,Yellow,,Green,,Green,548-NSCLC-15,NSCLC,,Green
+191,191,Red,Red,Green,,,,,,,Green,,,Green,Red,Yellow,West Palm Beach,Green,Red,,Green,,Red,Green,,,548-SCLC-01,SCLC,Yellow,Yellow
+192,192,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Dallas,,Red,,,Green,Red,Green,,Green,549-NSCLC-01,NSCLC,Green,Yellow
+193,193,,,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Yellow,,Green,549-NSCLC-02,NSCLC,,Green
+194,194,Red,Red,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Dallas,,Red,,,Green,Red,Green,,Green,549-NSCLC-03,NSCLC,Green,Green
+195,195,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Dallas,,Red,,,Green,Red,Green,,Green,549-NSCLC-04,NSCLC,Green,Green
+196,196,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Dallas,,Red,,,Green,Red,Yellow,,Green,549-NSCLC-05,NSCLC,Green,Yellow
+197,197,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-06,NSCLC,,Green
+198,198,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-07,NSCLC,,Yellow
+199,199,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Dallas,Green,,,Green,Green,,Green,,Green,549-NSCLC-08,NSCLC,,Green
+200,200,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Dallas,Green,,,Green,Green,,Yellow,,Green,549-NSCLC-10,NSCLC,,Red
+201,201,,,Green,Green,,Green,,Green,Green,Green,,Red,Green,,Green,Dallas,Green,,,Green,Green,,Green,,Green,549-NSCLC-11,NSCLC,,Green
+202,202,,,Green,Green,,Red,,Green,Green,Green,,Red,Green,,Red,Dallas,Green,,,Green,Green,,Yellow,,Green,549-NSCLC-13,NSCLC,,Yellow
+203,203,Yellow,Yellow,Green,Yellow,,Red,,Green,Green,Green,,Green,Green,Red,Red,Dallas,Green,Red,,Yellow,Red,Red,Green,,Yellow,549-NSCLC-22,NSCLC,Red,Green
+204,204,,,Green,Red,,Red,,Yellow,Yellow,Green,,Red,Green,,Red,Dallas,Green,,,Green,Yellow,,Green,,Green,549-NSCLC-23,NSCLC,,Green
+205,205,,,Green,,,Green,,,,Green,,,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-24,NSCLC,,Yellow
+206,206,,,,,,,,,,,,,,,,Dallas,,,,,,,Green,,,549-NSCLC-25,NSCLC,,Green
+207,207,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-SCLC-01,SCLC,,Green
+208,208,,,Yellow,Green,,Green,,Green,Green,Green,,Green,Yellow,,,Dallas,,,,,Green,,Red,,Green,549-SCLC-02,SCLC,,Red
+209,209,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Red,,Green,549-SCLC-06,SCLC,,Red
+210,210,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Red,,Green,549-SCLC-07,SCLC,,Yellow
+211,211,,,Green,,,Green,,,,Green,,,Green,,,Dallas,,,,,Green,,Green,,Green,549-SCLC-08,SCLC,,Green
+212,212,,,,,,Green,,,,,,,,,,Dallas,,,,,Green,,Green,,Green,549-SCLC-09,SCLC,,Yellow
+213,213,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-01,NSCLC,Green,Green
+214,214,Red,Yellow,Green,Green,,Yellow,,Yellow,Yellow,Green,,Red,Green,Yellow,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-03,NSCLC,Green,Green
+215,215,Green,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-04,NSCLC,Red,Green
+216,216,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Dayton,,Red,,,Yellow,Red,Green,,Yellow,552-NSCLC-05,NSCLC,Red,Green
+217,217,Red,Yellow,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Yellow,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-07,NSCLC,Yellow,Green
+218,218,Red,Green,Yellow,Green,,Green,,Yellow,Yellow,Green,,Red,Green,Green,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-09,NSCLC,Green,Green
+219,219,Red,Red,Yellow,Green,,Red,,Yellow,Yellow,Green,,Red,Yellow,Red,,Dayton,,Red,,,Yellow,Red,Green,,Yellow,552-NSCLC-10,NSCLC,Red,Green
+220,220,Green,Green,Green,Green,,Yellow,,Yellow,Yellow,Green,,Green,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-11,NSCLC,Green,Green
+221,221,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-12,NSCLC,Red,Green
+222,222,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC-13,NSCLC,Red,Green
+223,223,Green,Yellow,Green,Yellow,,Red,,Green,Green,Green,,Red,Green,Red,,Dayton,,Red,,,Yellow,Red,Green,,Green,552-NSCLC-15,NSCLC,Red,Yellow
+224,224,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,Green,Dayton,Green,Red,,Green,Green,Red,Green,,Green,552-NSCLC-17,NSCLC,Green,Yellow
+225,225,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC_Surgery-01,NSCLC Surgery,Green,Green
+226,226,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Green,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC_Surgery-02,NSCLC Surgery,Yellow,Green
+227,227,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC_Surgery-05,NSCLC Surgery,Yellow,Green
+228,228,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Dayton,,Red,,,Green,Red,Green,,Green,552-NSCLC_Surgery-06,NSCLC Surgery,Green,Green
+229,229,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Dayton,,Red,,,Green,Red,Green,,Green,552-SCLC-01,SCLC,Red,Green
+230,230,Yellow,Red,Yellow,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Dayton,,Red,,,Green,Yellow,Green,,Green,552-SCLC-03,SCLC,Red,Green
+231,231,Green,Green,Yellow,Green,,,,Green,Green,Green,,Red,Yellow,Red,Yellow,Dayton,Yellow,Red,,Yellow,,Red,Green,,,552-SCLC-04,SCLC,Green,Yellow
+232,232,Green,Green,Green,,,Red,,,,Green,,,Green,Red,,Detroit,,Red,,,Yellow,Red,Green,,Green,553-NSCLC-01,NSCLC,Green,Green
+233,233,Red,Yellow,Green,Green,,Green,,Yellow,Yellow,Green,,Red,Green,Yellow,,Detroit,,Red,,,Green,Red,Green,,Green,553-NSCLC-02,NSCLC,Green,Green
+234,234,Green,Green,Yellow,,,Green,,,,Green,,,Yellow,,,Detroit,,,,,Green,,Green,,Green,553-NSCLC-03,NSCLC,Green,Green
+235,235,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Green,Detroit,Green,Red,,Green,,Red,Green,,,553-NSCLC-04,NSCLC,Green,Yellow
+236,236,Green,Green,Yellow,Green,,Red,,Green,Green,Green,,Green,Yellow,Red,,Detroit,,Red,,,Green,Red,Green,,Green,553-NSCLC-05,NSCLC,Yellow,Yellow
+237,237,Red,Red,Yellow,Red,,Yellow,,Yellow,Yellow,Green,,Red,Yellow,Red,,Detroit,,Red,,,Green,Red,Green,,Green,553-NSCLC-06,NSCLC,Green,Yellow
+238,238,Green,Green,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Red,,Detroit,,Red,,,Green,Red,Red,,Green,553-NSCLC-07,NSCLC,Green,Yellow
+239,239,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Green,Green,Detroit,Green,Red,,Green,,Red,Yellow,,,553-NSCLC-08,NSCLC,Green,Green
+240,240,Green,Green,Green,Green,,,,Yellow,Green,Green,,Green,Green,Green,Green,Detroit,Green,Red,,Green,,Red,Green,,,553-NSCLC-09,NSCLC,Green,Green
+241,241,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Green,Detroit,Green,Red,,Green,,Red,Yellow,,,553-NSCLC-10,NSCLC,Green,Yellow
+242,242,Green,Green,Green,Green,,,,Yellow,Green,Green,,Green,Green,Red,Green,Detroit,Yellow,Red,,Red,,Red,Green,,,553-NSCLC-11,NSCLC,Green,Green
+243,243,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Green,Detroit,Green,Red,,Green,,Red,Yellow,,,553-NSCLC-12,NSCLC,Green,Green
+244,244,Green,Red,Yellow,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Red,Detroit,Green,Red,,Yellow,,Red,Green,,,553-NSCLC-13,NSCLC,Yellow,Green
+245,245,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Yellow,Green,Green,Green,Detroit,Green,Red,,Green,,Red,Green,,,553-NSCLC-14,NSCLC,Green,Yellow
+246,246,Red,Red,Yellow,Red,,,,Green,Green,Green,,Red,Green,Red,Red,Detroit,Yellow,Red,,Red,,Red,Green,,,553-NSCLC-15,NSCLC,Red,Green
+247,247,Red,Red,Yellow,Green,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Red,Detroit,Red,Red,,Red,,Red,Yellow,,,553-NSCLC-16,NSCLC,Red,Yellow
+248,248,Green,Red,Yellow,Red,,,,Yellow,Yellow,Red,,Red,Yellow,Red,Red,Detroit,Red,Red,,Red,,Red,Green,,,553-NSCLC-17,NSCLC,Red,Green
+249,249,Red,Yellow,Yellow,Green,,Green,,Red,Yellow,Green,,Green,Yellow,,,Detroit,,,,,Green,,Green,,Green,553-NSCLC-18,NSCLC,Green,Green
+250,250,Red,Red,Green,Yellow,,,,Yellow,Yellow,Yellow,,Red,Green,Red,Red,Detroit,Yellow,Red,,Red,,Red,Green,,,553-NSCLC-19,NSCLC,Red,Green
+251,251,Green,Green,Red,Green,,,,Green,Green,Green,,Green,Red,Red,Red,Detroit,Green,Red,,Red,,Red,Green,,,553-NSCLC_Surgery-01,NSCLC Surgery,Red,Green
+252,252,Green,Green,Green,Green,,Green,,Yellow,Yellow,Green,,Red,Green,Red,,Detroit,,Red,,,Red,Red,Green,,Green,553-SCLC-01,SCLC,Green,Green
+253,253,Red,Red,Yellow,Red,,,,Green,Green,Red,,Red,Yellow,Red,Red,Detroit,Red,Red,,Red,,Red,Green,,,553-SCLC-02,SCLC,Red,Green
+254,254,Red,Red,Yellow,Yellow,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Yellow,Detroit,Yellow,Red,,Red,,Red,Yellow,,,553-SCLC-03,SCLC,Green,Yellow
+255,255,Red,Yellow,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Red,Detroit,Yellow,Red,,Yellow,,Red,Green,,,553-SCLC-04,SCLC,Green,Green
+256,256,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Detroit,Green,Red,,Green,,Red,Green,,,553-SCLC-05,SCLC,Green,Green
+257,257,Red,Green,Yellow,Green,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Red,Detroit,Green,Red,,Green,,Red,Green,,,553-SCLC-06,SCLC,Green,Yellow
+258,258,,,Green,Red,,Red,,Green,Green,Green,,Red,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-01,NSCLC,,Green
+259,259,,,Green,Red,,Red,,Green,Green,Green,,Red,Green,,Red,Durham,Red,,,Red,Red,,Yellow,,Red,558-NSCLC-02,NSCLC,,Yellow
+260,260,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-03,NSCLC,,Yellow
+261,261,,,Green,Yellow,,Red,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-04,NSCLC,,Yellow
+262,262,,,Yellow,Yellow,,Green,,Yellow,Yellow,Green,,Red,Yellow,,,Durham,,,,,Green,,Green,,Green,558-NSCLC-05,NSCLC,,Green
+263,263,,,Green,Yellow,,Red,,Green,Green,Green,,Red,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-06,NSCLC,,Yellow
+264,264,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Durham,Green,,,Green,,,Green,,,558-NSCLC-07,NSCLC,,Green
+265,265,,,Yellow,Green,,Red,,Green,Green,Green,,Green,Green,,Yellow,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-08,NSCLC,,Green
+266,266,,,Green,Red,,Red,,Green,Green,Green,,Red,Green,,Red,Durham,Yellow,,,Red,Red,,Yellow,,Red,558-NSCLC-09,NSCLC,,Green
+267,267,Green,Yellow,Green,,,Red,,,,Green,,,Green,Red,Red,Durham,Green,Red,,Green,Green,Red,Yellow,,Yellow,558-NSCLC-10,NSCLC,Red,Yellow
+268,268,,,Green,Yellow,,Red,,Yellow,Yellow,Green,,Red,Green,,Red,Durham,Green,,,Green,Green,,Yellow,,Green,558-NSCLC-11,NSCLC,,Yellow
+269,269,,,Green,Green,,Red,,Green,Green,Green,,Yellow,Green,,Red,Durham,Green,,,Green,Green,,Yellow,,Green,558-NSCLC-12,NSCLC,,Green
+270,270,,,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,,Red,Durham,Yellow,,,Green,Green,,Yellow,,Yellow,558-NSCLC-13,NSCLC,,Yellow
+271,271,,,Green,Yellow,,,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Yellow,,,Green,,,558-NSCLC-14,NSCLC,,Green
+272,272,,,Yellow,Red,,,,Green,Green,Green,,Red,Yellow,,Green,Durham,Green,,,Yellow,,,Green,,,558-NSCLC-15,NSCLC,,Green
+273,273,,,Yellow,Green,,,,Yellow,Yellow,Yellow,,Yellow,Green,,Green,Durham,Green,,,Green,,,Green,,,558-NSCLC-16,NSCLC,,Green
+274,274,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC-17,NSCLC,,Yellow
+275,275,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Durham,Green,,,Green,Green,,Green,,Green,558-NSCLC_Surgery-02,NSCLC Surgery,,Green
+276,276,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-NSCLC_Surgery-03,NSCLC Surgery,,Green
+277,277,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-SCLC-01,SCLC,,Green
+278,278,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-SCLC-02,SCLC,,Yellow
+279,279,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-SCLC-04,SCLC,,Yellow
+280,280,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-SCLC-05,SCLC,,Green
+281,281,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-SCLC-06,SCLC,,Yellow
+282,282,,,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-SCLC-07,SCLC,,Green
+283,283,,,Green,Yellow,,Yellow,,Yellow,Yellow,Green,,Red,Green,,,Durham,,,,,Green,,Red,,Green,558-SCLC-09,SCLC,,Red
+284,284,Red,Red,Yellow,Red,,,,Yellow,Yellow,Yellow,,Red,Yellow,Red,Yellow,East Orange,Yellow,Red,,Red,,Red,Red,,,561-NSCLC-01,NSCLC,Green,Green
+285,285,Red,Red,Yellow,Red,,,,Green,Green,Green,,Red,Yellow,Red,Red,East Orange,Green,Red,,Green,,Red,Green,,,561-NSCLC-02,NSCLC,Yellow,Green
+286,286,Green,Yellow,Yellow,Red,,,,Yellow,Green,Green,,Red,Yellow,Red,Red,East Orange,Yellow,Red,,Red,,Red,Red,,,561-NSCLC-03,NSCLC,Green,Yellow
+287,287,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,East Orange,,Red,,,Green,Red,Yellow,,Green,561-NSCLC-04,NSCLC,Red,Green
+288,288,Red,Red,Yellow,Green,,Yellow,,Green,Green,Green,,Green,Yellow,Yellow,,East Orange,,Red,,,Green,Red,Red,,Green,561-NSCLC-05,NSCLC,Yellow,Yellow
+289,289,Red,Red,Red,Green,,Red,,Green,Green,Green,,Red,Yellow,Green,,East Orange,,Green,,,Yellow,Green,Yellow,,Green,561-NSCLC-08,NSCLC,Red,Yellow
+290,290,Red,Red,Yellow,Green,,Red,,Green,Green,Green,,Red,Yellow,Red,,East Orange,,Red,,,Yellow,Red,Yellow,,Yellow,561-NSCLC-09,NSCLC,Green,Yellow
+291,291,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,East Orange,,Red,,,Green,Red,Green,,Green,561-NSCLC-10,NSCLC,Green,Green
+292,292,Red,Yellow,Green,,,Red,,,,Green,,,Green,Red,Yellow,East Orange,Green,Red,,Yellow,Red,Red,Yellow,,Yellow,561-NSCLC-11,NSCLC,Green,Green
+293,293,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,East Orange,,Red,,,Green,Red,Red,,Green,561-NSCLC-12,NSCLC,Green,Red
+294,294,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,East Orange,,Red,,,,Red,Green,,,561-NSCLC_Surgery-01,NSCLC Surgery,Yellow,Green
+295,295,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,East Orange,,Red,,,Green,Red,Red,,Green,561-SCLC-02,SCLC,Green,Green
+296,296,Green,Red,Yellow,Green,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-02,NSCLC,Red,Green
+297,297,Red,Red,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Yellow,Green,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-03,NSCLC,Green,Yellow
+298,298,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-04,NSCLC,Green,Green
+299,299,Green,Green,Yellow,Yellow,,,Green,Green,Green,Green,Green,Red,Yellow,Red,Red,Hines,Green,Red,,Yellow,,Red,Green,,,578-NSCLC-05,NSCLC,Red,Yellow
+300,300,Red,Red,Yellow,Red,,,,Green,Green,Red,,Red,Yellow,Red,Red,Hines,Yellow,Red,,Red,,Red,Green,,,578-NSCLC-06,NSCLC,Red,Yellow
+301,301,Red,Red,Yellow,Red,,,Green,Green,Green,Red,Green,Green,Yellow,Red,Red,Hines,Red,Red,,Red,,Red,Red,,,578-NSCLC-07,NSCLC,Red,Yellow
+302,302,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Hines,Green,Red,,Green,,Red,Yellow,,,578-NSCLC-08,NSCLC,Green,Green
+303,303,Green,Green,Yellow,Yellow,,,,Green,Green,Green,,Red,Yellow,Red,Red,Hines,Yellow,Red,,Green,,Red,Green,,,578-NSCLC-09,NSCLC,Green,Yellow
+304,304,Red,Red,Green,Red,,,,Green,Green,Green,,Yellow,Green,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-10,NSCLC,Red,Yellow
+305,305,Green,Green,Yellow,Green,,,,Green,Green,Green,,Red,Yellow,Green,Green,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-11,NSCLC,Green,Yellow
+306,306,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Red,Green,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-12,NSCLC,Green,Green
+307,307,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,Green,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-13,NSCLC,Green,Yellow
+308,308,Yellow,Red,Yellow,Yellow,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-14,NSCLC,Red,Yellow
+309,309,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-15,NSCLC,Red,Yellow
+310,310,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-16,NSCLC,Green,Yellow
+311,311,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Red,,Red,Green,,,578-NSCLC-17,NSCLC,Red,Green
+312,312,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Yellow,,Red,Green,,,578-NSCLC-19,NSCLC,Yellow,Yellow
+313,313,Green,Green,Green,Red,,,,Yellow,Yellow,Green,,Red,Green,Red,Yellow,Hines,Green,Red,,Green,,Red,Green,,,578-NSCLC-20,NSCLC,Green,Green
+314,314,Red,Red,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Red,Hines,Green,Red,,Green,,Red,Yellow,,,578-NSCLC-21,NSCLC,Red,Yellow
+315,315,Green,Yellow,Yellow,Green,,,,Yellow,Green,Green,,Red,Yellow,Red,Red,Hines,Yellow,Red,,Yellow,,Red,Green,,,578-NSCLC_Surgery-01,NSCLC Surgery,Red,Green
+316,316,Green,Green,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Red,Hines,Green,Red,,Green,,Red,Red,,,578-SCLC-01,SCLC,Yellow,Yellow
+317,317,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-SCLC-02,SCLC,Yellow,Yellow
+318,318,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Hines,Green,Red,,Green,,Red,Green,,,578-SCLC-03,SCLC,Green,Yellow
+319,319,Green,Green,Yellow,Green,,,Yellow,Green,Green,Green,Yellow,Red,Yellow,Red,Green,Hines,Green,Red,,Green,,Red,Red,,,578-SCLC-05,SCLC,Green,Yellow
+320,320,Green,Green,Green,Yellow,,,,Yellow,Yellow,Green,,Red,Green,Red,Yellow,Hines,Green,Red,,Green,,Red,Yellow,,,578-SCLC-06,SCLC,Green,Yellow
+321,321,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,,Hines,,Red,,,,Red,Red,,,578-SCLC-07,SCLC,Green,Yellow
+322,322,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Yellow,,Hines,,Red,,,,Red,Green,,,578-SCLC-08,SCLC,Green,Yellow
+323,323,Red,Red,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-01,NSCLC,Green,Green
+324,324,Green,Green,Green,Green,,Yellow,,Yellow,Yellow,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-02,NSCLC,Green,Green
+325,325,Green,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Yellow,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-04,NSCLC,Green,Green
+326,326,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-05,NSCLC,Yellow,Green
+327,327,Yellow,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-06,NSCLC,Green,Yellow
+328,328,Red,Red,Green,Green,,Red,,Yellow,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-07,NSCLC,Red,Green
+329,329,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-08,NSCLC,Green,Green
+330,330,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-09,NSCLC,Green,Green
+331,331,Red,Yellow,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-10,NSCLC,Green,Yellow
+332,332,,,,Green,,,,Yellow,Yellow,Green,,Green,,,,Houston,,,,,,,Green,,,580-NSCLC-11,NSCLC,,Green
+333,333,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Yellow,,Green,580-NSCLC-12,NSCLC,Green,Yellow
+334,334,Green,Yellow,Green,Yellow,,Red,,Yellow,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Yellow,,Green,580-NSCLC-13,NSCLC,Red,Green
+335,335,Green,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,Red,,Houston,,Red,,,Green,Red,Yellow,,Green,580-NSCLC-14,NSCLC,Red,Green
+336,336,Green,Green,Green,Green,,Green,Red,Green,Green,Green,Yellow,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-15,NSCLC,Green,Yellow
+337,337,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Houston,,Red,,,Yellow,Red,Yellow,,Green,580-NSCLC-16,NSCLC,Red,Green
+338,338,Green,Green,,Green,,,,Green,Green,Green,,Green,,Yellow,,Houston,,Red,,,,Red,Green,,,580-NSCLC-17,NSCLC,Green,Green
+339,339,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Red,Houston,Green,Red,,Green,Green,Red,Green,,Green,580-NSCLC-19,NSCLC,Green,Green
+340,340,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Yellow,Green,Red,Red,Houston,Green,Red,,Green,Green,Red,Green,,Green,580-NSCLC-20,NSCLC,Yellow,Green
+341,341,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+342,342,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Yellow,,Houston,,Red,,,Green,Red,Green,,Green,580-SCLC-01,SCLC,Yellow,Green
+343,343,Green,Green,Green,Yellow,,Yellow,,Green,Green,Green,,Green,Green,Red,,Houston,,Red,,,Green,Red,Green,,Green,580-SCLC-02,SCLC,Green,Green
+344,344,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Houston,,Red,,,Green,Red,Green,,Green,580-SCLC-03,SCLC,Green,Green
+345,345,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Houston,Green,Red,,Green,,Red,Green,,,580-SCLC-04,SCLC,Green,Green
+346,346,Green,Green,Green,Green,,Green,,Yellow,Green,Green,,Green,Green,Yellow,,Houston,,Red,,,Green,Red,Green,,Green,580-SCLC-06,SCLC,Green,Green
+347,347,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Yellow,Houston,Green,Red,,Green,Green,Red,Green,,Green,580-SCLC-07,SCLC,Green,Green
+348,348,Red,Yellow,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Green,Green,Houston,Green,Red,,Green,Green,Red,Green,,Green,580-SCLC-08,SCLC,Green,Green
+349,349,Green,Yellow,Green,Yellow,,,,Green,Green,Green,,Red,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Red,,,583-NSCLC-01,NSCLC,Red,Yellow
+350,350,,,Green,Green,,,Green,Green,Green,Green,Green,Red,Green,,Green,Indianapolis,Green,,,Green,,,Green,,,583-NSCLC-02,NSCLC,,Yellow
+351,351,Red,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Indianapolis,Yellow,Red,,Yellow,,Red,Green,,,583-NSCLC-03,NSCLC,Green,Yellow
+352,352,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Yellow,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Yellow,,,583-NSCLC-04,NSCLC,Yellow,Green
+353,353,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Red,,,583-NSCLC-06,NSCLC,Yellow,Yellow
+354,354,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Yellow,,,583-NSCLC-07,NSCLC,Green,Yellow
+355,355,Red,Red,Yellow,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Green,,,583-NSCLC-08,NSCLC,Yellow,Yellow
+356,356,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Green,,,583-NSCLC-09,NSCLC,Green,Yellow
+357,357,Green,Green,Yellow,Green,,,Yellow,Green,Green,Green,Yellow,Green,Yellow,Red,Yellow,Indianapolis,Yellow,Red,,Yellow,,Red,Green,,,583-NSCLC-10,NSCLC,Green,Yellow
+358,358,Green,Green,Yellow,Green,,,Yellow,Green,Green,Green,Yellow,Red,Yellow,Red,Yellow,Indianapolis,Green,Red,,Green,,Red,Red,,,583-NSCLC-11,NSCLC,Green,Red
+359,359,Red,Red,Yellow,Red,,,Green,Green,Green,Green,Green,Red,Green,Red,Red,Indianapolis,Yellow,Red,,Yellow,,Red,Red,,,583-NSCLC-12,NSCLC,Red,Yellow
+360,360,Green,Green,Yellow,Green,,,Yellow,Green,Green,Green,Yellow,Green,Yellow,Green,Green,Indianapolis,Green,Green,,Green,,Red,Red,,,583-NSCLC-13,NSCLC,Green,Red
+361,361,Red,Red,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Indianapolis,Green,Red,,Yellow,,Red,Green,,,583-NSCLC-14,NSCLC,Green,Yellow
+362,362,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Indianapolis,Yellow,Red,,Yellow,,Red,Green,,,583-NSCLC-15,NSCLC,Red,Red
+363,363,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Green,,,583-NSCLC-16,NSCLC,Red,Yellow
+364,364,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Red,,,583-NSCLC-18,NSCLC,Yellow,Yellow
+365,365,Green,Green,Red,Red,,,Yellow,Green,Green,Green,Yellow,Green,Red,Green,Green,Indianapolis,Green,Green,,Green,,Red,Red,,,583-NSCLC-19,NSCLC,Green,Yellow
+366,366,Green,Green,Green,Green,,Red,Green,Green,Green,Green,Green,Green,Green,Red,,Indianapolis,,Red,,,Green,Red,Yellow,,Green,583-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+367,367,Red,Yellow,Green,Red,,,,Green,Green,Green,,Green,Green,Red,Green,Indianapolis,Green,Red,,Green,,Red,Green,,,583-NSCLC_Surgery-02,NSCLC Surgery,Green,Yellow
+368,368,,,Green,Green,,Red,Green,Green,Green,Green,Green,Green,Green,,Red,Indianapolis,Green,,,Green,Green,,Green,,Green,583-SCLC-01,SCLC,,Yellow
+369,369,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,Yellow,Indianapolis,Green,Red,,Green,Green,Red,Green,,Green,583-SCLC-02,SCLC,Green,Yellow
+370,370,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Indianapolis,Green,Red,,Green,,Red,Green,,,583-SCLC-03,SCLC,Green,Yellow
+371,371,Green,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Yellow,Green,Red,Yellow,Indianapolis,Green,Red,,Green,,Red,Green,,,583-SCLC-04,SCLC,Green,Green
+372,372,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Yellow,Indianapolis,Yellow,Red,,Green,,Red,Green,,,583-SCLC-05,SCLC,Yellow,Yellow
+373,373,Green,Green,Yellow,Green,,,Green,Green,Green,Green,Green,Yellow,Yellow,Red,Green,Indianapolis,Green,Red,,Green,,Red,Green,,,583-SCLC-06,SCLC,Green,Yellow
+374,374,Red,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Indianapolis,Green,Red,,Green,,Red,Green,,,583-SCLC-07,SCLC,Green,Yellow
+375,375,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Indianapolis,Green,Red,,Green,,Red,Green,,,583-SCLC-08,SCLC,Green,Yellow
+376,376,Green,Green,Yellow,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Yellow,Green,,Indianapolis,,Red,,,Green,Red,Yellow,,Green,583-SCLC-09,SCLC,Green,Yellow
+377,377,Red,Red,Yellow,Green,,Green,,Green,Green,Green,,Red,Yellow,Yellow,,Indianapolis,,Red,,,Green,Red,Green,,Green,583-SCLC-10,SCLC,Green,Yellow
+378,378,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-02,NSCLC,Green,Yellow
+379,379,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-04,NSCLC,Green,Yellow
+380,380,,,Green,Green,Green,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,Green,Green,,,Green,Green,,586-NSCLC-05,NSCLC,,Yellow
+381,381,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,,Yellow,Jackson,Green,,,Green,,,Green,,,586-NSCLC-07,NSCLC,Green,Yellow
+382,382,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-08,NSCLC,Green,Yellow
+383,383,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-10,NSCLC,Green,Yellow
+384,384,,,Green,Green,Green,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,Green,Green,,,Green,Green,,586-NSCLC-15,NSCLC,,Yellow
+385,385,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-19,NSCLC,Green,Yellow
+386,386,Green,Green,Yellow,Green,,,,Green,Green,,,Green,Green,,Green,Jackson,Green,,,Green,,,Yellow,,,586-NSCLC-22,NSCLC,Green,Green
+387,387,Red,Yellow,Green,Green,,,,Green,Green,Green,,Red,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+388,388,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Jackson,Green,Red,,Green,Green,Red,Green,,Green,586-SCLC-01,SCLC,Green,Yellow
+389,389,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-SCLC-02,SCLC,Green,Yellow
+390,390,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Jackson,,Red,,,Green,Red,Green,,Green,586-SCLC-04,SCLC,Green,Yellow
+391,391,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-SCLC-05,SCLC,Green,Yellow
+392,392,Red,Yellow,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Yellow,Green,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-NSCLC-01,NSCLC,Green,Green
+393,393,Green,Yellow,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-NSCLC-03,NSCLC,Yellow,Green
+394,394,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Red,Kansas City,Green,Red,,Green,Red,Red,Green,,Yellow,589-NSCLC-04,NSCLC,Red,Green
+395,395,Red,Red,Green,Yellow,,Green,,Green,Green,Green,,Red,Green,Red,Green,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-NSCLC-05,NSCLC,Green,Green
+396,396,Red,Red,Green,Yellow,,Red,,Red,Red,Green,,Red,Green,Red,Red,Kansas City,Red,Red,,Yellow,Red,Red,Green,,Red,589-NSCLC-06,NSCLC,Red,Yellow
+397,397,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,Red,Kansas City,Green,Red,,Yellow,Red,Red,Green,,Green,589-NSCLC-07,NSCLC,Green,Yellow
+398,398,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Yellow,Yellow,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-NSCLC-08,NSCLC,Yellow,Green
+399,399,Green,Green,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,Red,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-NSCLC-10,NSCLC,Red,Green
+400,400,Red,Red,Green,Red,,Red,,Green,Green,Green,,Red,Green,Red,Red,Kansas City,Red,Red,,Yellow,Red,Red,Green,,Red,589-NSCLC-11,NSCLC,Red,Green
+401,401,Red,Red,Green,Red,,,Red,Yellow,Yellow,Green,Red,Red,Green,Red,Red,Kansas City,Green,Red,,Green,,Red,Green,,,589-NSCLC-12,NSCLC,Red,Green
+402,402,,,Green,Green,Red,,,Green,Green,Green,,Red,Green,,Red,Kansas City,Green,,Green,Green,,,Yellow,Green,,589-NSCLC-14,NSCLC,,Yellow
+403,403,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Kansas City,Green,,,Green,,,Green,,,589-NSCLC-16,NSCLC,Green,Yellow
+404,404,Red,Green,Green,Green,,,,Green,Green,Green,,Red,Green,Green,Green,Kansas City,Green,Red,,Green,,Red,Green,,,589-NSCLC-17,NSCLC,Green,Yellow
+405,405,Yellow,Red,Yellow,Green,,Red,,Yellow,Yellow,Green,,Green,Yellow,Red,Red,Kansas City,Yellow,Red,,Yellow,Red,Red,Red,,Red,589-NSCLC-18,NSCLC,Red,Red
+406,406,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,,Red,Kansas City,Green,,,Green,,,Yellow,,,589-NSCLC_Surgery-01,NSCLC Surgery,Green,Red
+407,407,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Kansas City,Green,Red,,Green,Green,Red,Green,,Yellow,589-SCLC-01,SCLC,Red,Green
+408,408,Red,Red,Green,Red,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Red,Kansas City,Yellow,Red,,Green,Green,Red,Green,,Yellow,589-SCLC-02,SCLC,Red,Green
+409,409,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Yellow,Kansas City,Green,Red,,Green,Yellow,Red,Green,,Green,589-SCLC-04,SCLC,Green,Green
+410,410,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Kansas City,Green,Red,,Green,Green,Red,Green,,Green,589-SCLC-05,SCLC,Green,Green
+411,411,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Kansas City,Green,,,Green,,,Yellow,,,589-SCLC-06,SCLC,Green,Yellow
+412,412,Red,Red,Green,Red,,Red,,Yellow,Yellow,Green,,Red,Green,Red,Red,Kansas City,Yellow,Red,,Yellow,Yellow,Red,Green,,Red,589-SCLC-07,SCLC,Red,Green
+413,413,,,Green,Green,Green,,,Yellow,Green,Green,,Red,Green,,Green,Kansas City,Green,,Green,Green,,,Red,Green,,589-SCLC-08,SCLC,,Yellow
+414,414,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Long Beach,,Red,,,Green,Red,Green,,Green,600-NSCLC-02,NSCLC,Green,Yellow
+415,415,,,Green,Green,,Red,,Yellow,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Green,,Green,600-NSCLC-03,NSCLC,,Yellow
+416,416,,,Green,Red,,,,Green,Green,Green,,Green,Green,,Red,Long Beach,Red,,,Red,,,Green,,,600-NSCLC-04,NSCLC,,Green
+417,417,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Green,,Green,600-NSCLC-05,NSCLC,,Green
+418,418,,,Green,Yellow,,Red,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Green,,Yellow,600-NSCLC-06,NSCLC,,Green
+419,419,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Long Beach,Green,Red,,Green,Green,Red,Yellow,,Green,600-NSCLC-07,NSCLC,,Yellow
+420,420,Red,Red,Green,Red,,Green,,Green,Green,Green,,Green,Green,Green,,Long Beach,,Green,,,Green,Red,Yellow,,Green,600-NSCLC-08,NSCLC,Green,Yellow
+421,421,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Red,,Green,600-NSCLC-11,NSCLC,,Yellow
+422,422,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Yellow,,Green,600-NSCLC-12,NSCLC,,Green
+423,423,,,Green,,,Yellow,,,,Green,,,Green,,Green,Long Beach,Green,,,Green,Green,,Yellow,,Green,600-NSCLC-13,NSCLC,,Red
+424,424,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Green,,Green,600-NSCLC-14,NSCLC,,Green
+425,425,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Red,,Green,600-NSCLC-15,NSCLC,,Red
+426,426,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Red,,Green,600-NSCLC-16,NSCLC,,Green
+427,427,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Yellow,,Green,600-NSCLC-18,NSCLC,,Red
+428,428,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Red,,Green,,Yellow,600-NSCLC-19,NSCLC,,Red
+429,429,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Green,,Green,,Green,600-NSCLC_Surgery-01,NSCLC Surgery,,Green
+430,430,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Red,,Green,600-NSCLC_Surgery-02,NSCLC Surgery,,Red
+431,431,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Long Beach,,,,,Yellow,,Green,,Yellow,600-SCLC-01,SCLC,,Yellow
+432,432,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Green,,Green,600-SCLC-02,SCLC,,Green
+433,433,Red,Red,Green,,,,,,,Green,,,Green,,Red,Memphis,Red,,,Red,,,Green,,,614-NSCLC-01,NSCLC,Red,Yellow
+434,434,Red,Red,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,,Red,Memphis,Green,,,Green,,,Yellow,,,614-NSCLC-02,NSCLC,Red,Yellow
+435,435,Red,Red,Green,,,,,,,Green,,,Green,,Red,Memphis,Yellow,,,Yellow,,,Green,,,614-NSCLC-03,NSCLC,Red,Yellow
+436,436,Red,Red,Green,,,,,,,Green,,,Green,,Red,Memphis,Green,,,Green,,,Yellow,,,614-NSCLC-04,NSCLC,Red,Yellow
+437,437,Red,Red,Green,,,,,,,Green,,,Green,,Red,Memphis,Green,,,Yellow,,,Yellow,,,614-NSCLC-05,NSCLC,Red,Yellow
+438,438,Yellow,Red,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,,Red,Memphis,Green,,,Yellow,,,Green,,,614-NSCLC-06,NSCLC,Red,Yellow
+439,439,Green,Green,Green,,,,Yellow,,,Green,Yellow,,Green,,Green,Memphis,Green,,,Green,,,Green,,,614-NSCLC-07,NSCLC,Green,Yellow
+440,440,Red,Red,Green,,,Red,,,,,,,Green,Red,,Memphis,,Red,,,Red,Red,Green,,Red,614-NSCLC-08,NSCLC,Red,Yellow
+441,441,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Memphis,Green,,,Green,,,Green,,,614-NSCLC-09,NSCLC,Green,Red
+442,442,Red,Green,Green,,,,,,,Green,,,Green,,Green,Memphis,Green,,,Green,,,Green,,,614-NSCLC-10,NSCLC,Green,Yellow
+443,443,Green,Green,Yellow,,,,,,,,,,Yellow,Red,,Memphis,,Red,,,,Red,Yellow,,,614-NSCLC-12,NSCLC,Green,Red
+444,444,Green,Green,Green,,,,,,,Red,,,Green,,Green,Memphis,Green,,,Green,,,Green,,,614-NSCLC-13,NSCLC,Green,Green
+445,445,Red,Green,Green,,,Yellow,,,,Red,,,Green,Red,,Memphis,,Red,,,Red,Red,Green,,Red,614-NSCLC-15,NSCLC,Green,Green
+446,446,Green,Green,Yellow,,,,,,,Green,,,Yellow,,Green,Memphis,Green,,,Green,,,Red,,,614-NSCLC-16,NSCLC,Green,Red
+447,447,Yellow,Green,Yellow,,,Green,,,,Green,,,Yellow,Red,,Memphis,,Red,,,Green,Red,Red,,Green,614-NSCLC_Surgery-01,NSCLC Surgery,Green,Red
+448,448,Green,Green,Green,,,,,,,Green,,,Green,,Green,Memphis,Green,,,Green,,,Green,,,614-NSCLC_Surgery-02,NSCLC Surgery,Green,Green
+449,449,Red,Red,Green,Green,,,,Green,Green,,,Green,Green,Red,,Memphis,,Red,,,,Red,Red,,,614-SCLC-01,SCLC,Red,Red
+450,450,Red,Red,Green,,,,,,,,,,Green,Red,,Memphis,,Red,,,,Red,Yellow,,,614-SCLC-02,SCLC,Red,Yellow
+451,451,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-01,NSCLC,Green,Green
+452,452,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Red,,,618-NSCLC-02,NSCLC,Green,Green
+453,453,,,Green,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,,Green,Minneapolis,Green,,,Green,,,Green,,,618-NSCLC-03,NSCLC,,Green
+454,454,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-04,NSCLC,Green,Green
+455,455,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-05,NSCLC,Green,Yellow
+456,456,Red,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Green,Minneapolis,Yellow,Red,,Green,,Red,Yellow,,,618-NSCLC-06,NSCLC,Green,Yellow
+457,457,Green,Green,Green,Green,,,,Yellow,Yellow,Yellow,,Red,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-07,NSCLC,Green,Yellow
+458,458,Green,Green,Red,Green,,Green,Red,Red,Yellow,Green,Red,Green,Yellow,Green,,Minneapolis,,Red,,,Green,Red,Yellow,,Green,618-NSCLC-08,NSCLC,Green,Green
+459,459,Red,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Red,Minneapolis,Red,Red,,Red,Green,Red,Green,,Green,618-NSCLC-09,NSCLC,Green,Green
+460,460,Red,Green,Green,Green,,Green,Yellow,Yellow,Yellow,Green,Yellow,Red,Green,Green,,Minneapolis,,Red,,,Green,Red,Green,,Green,618-NSCLC-11,NSCLC,Green,Green
+461,461,,,Green,Yellow,,Yellow,,Green,Green,Green,,Green,Green,,Yellow,Minneapolis,Green,,,Green,Green,,Red,,Green,618-NSCLC-12,NSCLC,,Green
+462,462,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-13,NSCLC,Green,Yellow
+463,463,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Minneapolis,Green,,,Green,Green,,Green,,Green,618-NSCLC-15,NSCLC,,Green
+464,464,Green,Green,Green,Green,,Green,,Green,Green,Red,,Green,Green,Red,Green,Minneapolis,Red,Red,,Yellow,Red,Red,Green,,Red,618-NSCLC-16,NSCLC,Green,Yellow
+465,465,Red,Green,Green,Green,,Green,,Green,Green,Green,,Red,Green,Red,Green,Minneapolis,Green,Red,,Green,Green,Red,Green,,Green,618-NSCLC-18,NSCLC,Green,Green
+466,466,Red,Red,Green,Yellow,,,,Green,Green,Green,,Red,Green,Red,Red,Minneapolis,Red,Red,,Yellow,,Red,Yellow,,,618-NSCLC-19,NSCLC,Red,Green
+467,467,Green,Green,Green,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC-20,NSCLC,Green,Green
+468,468,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+469,469,Red,Green,Green,Yellow,,,Yellow,Yellow,Yellow,Green,Yellow,Red,Green,Green,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-NSCLC_Surgery-03,NSCLC Surgery,Green,Yellow
+470,470,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Minneapolis,,Red,,,Green,Red,Green,,Green,618-SCLC-01,SCLC,Green,Yellow
+471,471,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Minneapolis,Yellow,Red,,Yellow,Yellow,Red,Green,,Yellow,618-SCLC-02,SCLC,Red,Green
+472,472,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,,Red,Green,,,618-SCLC-03,SCLC,Green,Green
+473,473,Green,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Minneapolis,Red,Red,,Yellow,,Red,Yellow,,,618-SCLC-04,SCLC,Red,Yellow
+474,474,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Minneapolis,Green,Red,,Green,Green,Red,Green,,Green,618-SCLC-05,SCLC,Green,Green
+475,475,,,Green,Green,,Green,Red,Yellow,Yellow,Green,Red,Green,Green,,Green,Minneapolis,Green,,,Green,Green,,Green,,Green,618-SCLC-06,SCLC,,Yellow
+476,476,Green,Green,Green,,,Green,,,,Green,,,Green,Red,,"Mountain Home, TN",,Red,,,Green,Red,Yellow,,Green,621-NSCLC-01,NSCLC,Green,Yellow
+477,477,Green,Green,Green,,,Green,,,,Green,,,Green,Red,,"Mountain Home, TN",,Red,,,Yellow,Red,Yellow,,Green,621-NSCLC-02,NSCLC,Green,Yellow
+478,478,Red,Green,Green,,,Yellow,,,,Green,,,Green,Red,,"Mountain Home, TN",,Red,,,Yellow,Red,Green,,Yellow,621-NSCLC-03,NSCLC,Green,Green
+479,479,Green,Green,Yellow,,,Green,,,,Green,,,Yellow,Red,,"Mountain Home, TN",,Red,,,Green,Red,Red,,Green,621-NSCLC-04,NSCLC,Green,Red
+480,480,Red,Red,Yellow,,,Red,,,,Green,,,Yellow,Red,,"Mountain Home, TN",,Red,,,Yellow,Red,Green,,Red,621-NSCLC-05,NSCLC,Green,Yellow
+481,481,Green,Green,Green,Red,,Green,,Green,Green,Green,,Green,Green,Red,,"Mountain Home, TN",,Red,,,Green,Red,Green,,Green,621-SCLC-01,SCLC,Green,Green
+482,482,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Brooklyn,,Red,,,Green,Red,Green,,Green,630-NSCLC-02,NSCLC,Green,Yellow
+483,483,Red,Green,Green,Green,,,Yellow,Green,Green,Green,Yellow,Red,Green,Red,Red,Brooklyn,Green,Red,,Yellow,,Red,Red,,,630-NSCLC-04,NSCLC,Green,Yellow
+484,484,Green,Green,Green,Green,,Yellow,Yellow,Green,Green,Green,Yellow,Green,Green,Red,,Brooklyn,,Red,,,Green,Red,Red,,Green,630-NSCLC-06,NSCLC,Green,Yellow
+485,485,Yellow,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Green,,Brooklyn,,Red,,,,Red,Red,,,630-NSCLC-11,NSCLC,Green,Yellow
+486,486,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Brooklyn,,Red,,,Green,Red,Green,,Green,630-NSCLC-14,NSCLC,Green,Yellow
+487,487,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Brooklyn,,Red,,,Green,Red,Green,,Green,630-NSCLC-15,NSCLC,Green,Green
+488,488,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Brooklyn,,Red,,,Green,Red,Green,,Green,630-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+489,489,Green,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Brooklyn,,Red,,,Green,Red,Green,,Green,630-SCLC-01,SCLC,Red,Green
+490,490,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Brooklyn,,Red,,,Green,Red,Yellow,,Green,630-SCLC-03,SCLC,Green,Green
+491,491,Green,Green,Green,,,,,,,Green,,,Green,Green,,Northport,,Red,,,,Red,Red,,,632-NSCLC-01,NSCLC,Green,Red
+492,492,Green,Green,Green,,,,,,,Green,,,Green,Green,,Northport,,Red,,,,Red,Green,,,632-NSCLC-02,NSCLC,Green,Red
+493,493,,,Green,,,Green,,,,Green,,,Green,,,Northport,,,,,Green,,Green,,Green,632-NSCLC-05,NSCLC,,Yellow
+494,494,Red,Red,Yellow,,,,,,,Green,,,Yellow,Red,,Northport,,Red,,,,Red,Red,,,632-NSCLC-07,NSCLC,Green,Yellow
+495,495,Green,Green,Green,,,,,,,Green,,,Green,Red,Green,Northport,Yellow,Red,,Red,,Red,Green,,,632-SCLC-01,SCLC,Green,Yellow
+496,496,Yellow,Green,Green,,,,,,,Green,,,Green,Red,Yellow,Northport,Green,Red,,Green,,Red,Yellow,,,632-SCLC-02,SCLC,Green,Yellow
+497,497,,,Green,,,Green,,,,Green,,,Green,,,Northport,,,,,Green,,Red,,Green,632-SCLC-03,SCLC,,Yellow
+498,498,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Yellow,,Green,635-NSCLC-01,NSCLC,Green,Yellow
+499,499,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Oklahoma City,,Red,,,Red,Red,Red,,Red,635-NSCLC-03,NSCLC,Red,Red
+500,500,Green,Green,Green,Green,,Red,,Red,Red,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-NSCLC-05,NSCLC,Green,Green
+501,501,Green,Green,Green,,,Green,,,,Green,,,Green,Green,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-NSCLC-07,NSCLC,Green,Yellow
+502,502,Green,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Red,,Green,635-NSCLC-08,NSCLC,Red,Yellow
+503,503,Red,Red,Yellow,Red,,Red,,Red,Red,Green,,Red,Yellow,Red,,Oklahoma City,,Red,,,Red,Red,Green,,Red,635-NSCLC-09,NSCLC,Red,Yellow
+504,504,Red,Red,Green,Yellow,,Red,,Yellow,Yellow,Green,,Red,Green,Red,,Oklahoma City,,Red,,,Green,Red,Yellow,,Green,635-NSCLC-10,NSCLC,Red,Yellow
+505,505,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Oklahoma City,Green,Red,,Green,,Red,Green,,,635-NSCLC-11,NSCLC,Green,Green
+506,506,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Oklahoma City,,Yellow,,,Green,Red,Red,,Green,635-NSCLC-12,NSCLC,Green,Red
+507,507,Red,Red,Green,Red,,Red,,Green,Green,Green,,Red,Green,Red,,Oklahoma City,,Red,,,Green,Red,Yellow,,Green,635-NSCLC-13,NSCLC,Yellow,Yellow
+508,508,Green,Green,Green,Green,,Red,,Red,Red,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-NSCLC-14,NSCLC,Red,Green
+509,509,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-NSCLC-15,NSCLC,Green,Green
+510,510,Red,Red,Green,Red,,Yellow,,Yellow,Yellow,Green,,Red,Green,Yellow,,Oklahoma City,,Red,,,Green,Red,Red,,Green,635-NSCLC-16,NSCLC,Yellow,Red
+511,511,Green,Green,Green,,,Red,,,,Green,,,Green,Red,Red,Oklahoma City,Green,Red,,Green,Green,Red,Green,,Green,635-NSCLC-19,NSCLC,Yellow,Green
+512,512,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+513,513,,,Green,Green,,,,Green,Green,Green,,Green,Green,,,Oklahoma City,,,,,,,Green,,,635-NSCLC_Surgery-02,NSCLC Surgery,,Yellow
+514,514,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-SCLC-01,SCLC,Green,Green
+515,515,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-SCLC-02,SCLC,Red,Yellow
+516,516,Green,Green,Green,,,Green,,,,Green,,,Green,Green,,Oklahoma City,,Red,,,Green,Red,Green,,Green,635-SCLC-06,SCLC,Green,Green
+517,517,Green,Green,Green,Green,,Yellow,Green,Yellow,Yellow,Green,Green,Yellow,Green,Red,Yellow,Philadelphia,Yellow,Red,,Yellow,Yellow,Red,Red,,Yellow,642-NSCLC-01,NSCLC,Green,Yellow
+518,518,Green,Green,Green,Red,,,,Yellow,Yellow,Green,,Red,Green,Red,Yellow,Philadelphia,Green,Red,,Yellow,,Red,Green,,,642-NSCLC-02,NSCLC,Green,Yellow
+519,519,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Yellow,Green,Philadelphia,Green,Red,,Green,,Red,Green,,,642-NSCLC-03,NSCLC,Green,Yellow
+520,520,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Philadelphia,Green,Red,,Green,,Red,Green,,,642-NSCLC-04,NSCLC,Green,Green
+521,521,Green,Green,Green,Green,,,Red,Yellow,Yellow,Green,Red,Red,Green,Red,Red,Philadelphia,Yellow,Red,,Red,,Red,Yellow,,,642-NSCLC-05,NSCLC,Green,Red
+522,522,Red,Red,Green,Green,,,Red,Yellow,Yellow,Green,Red,Red,Green,Yellow,Green,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC-06,NSCLC,Green,Yellow
+523,523,Green,Green,Green,Green,,,Green,Yellow,Yellow,Green,Green,Green,Green,Yellow,Green,Philadelphia,Green,Red,,Green,,Red,Green,,,642-NSCLC-07,NSCLC,Green,Yellow
+524,524,Green,Green,Green,Green,,,Green,Yellow,Yellow,Green,Green,Green,Green,Red,Yellow,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC-08,NSCLC,Green,Red
+525,525,Green,Green,Green,Red,,,,Yellow,Yellow,Green,,Red,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Red,,,642-NSCLC-09,NSCLC,Green,Yellow
+526,526,Red,Green,Green,Green,,,Green,Yellow,Yellow,Green,Green,Red,Green,Red,Green,Philadelphia,Yellow,Red,,Yellow,,Red,Yellow,,,642-NSCLC-10,NSCLC,Green,Yellow
+527,527,Green,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Red,Philadelphia,Yellow,Red,,Yellow,,Red,Yellow,,,642-NSCLC-11,NSCLC,Green,Yellow
+528,528,Green,Green,Green,Green,,,Green,Yellow,Yellow,Green,Green,Green,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC-12,NSCLC,Green,Red
+529,529,Green,Green,Green,,,,,,,Green,,,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Red,,,642-NSCLC-13,NSCLC,Green,Red
+530,530,Red,Red,Green,Green,,,Green,Green,Green,Green,Green,Red,Green,Red,Red,Philadelphia,Yellow,Red,,Red,,Red,Red,,,642-NSCLC-14,NSCLC,Yellow,Yellow
+531,531,Red,Green,Green,Yellow,,,,Yellow,Yellow,Yellow,,Red,Green,Red,Green,Philadelphia,Yellow,Red,,Yellow,,Red,Yellow,,,642-NSCLC-15,NSCLC,Green,Yellow
+532,532,Green,Yellow,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Philadelphia,Green,Red,,Green,Green,Red,Green,,Green,642-NSCLC_Surgery-01,NSCLC Surgery,Yellow,Yellow
+533,533,Green,Green,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC_Surgery-02,NSCLC Surgery,Green,Green
+534,534,Green,Green,Green,Red,,Green,Red,Green,Green,Green,Red,Red,Green,Red,,Philadelphia,,Red,,,Green,Red,Green,,Green,642-NSCLC_Surgery-03,NSCLC Surgery,Green,Yellow
+535,535,Red,Red,Green,Green,,,Green,Yellow,Yellow,Green,Green,Red,Green,Red,Yellow,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC_Surgery-04,NSCLC Surgery,Green,Yellow
+536,536,Red,Yellow,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-NSCLC_Surgery-05,NSCLC Surgery,Green,Red
+537,537,Green,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Philadelphia,Green,Red,,Green,,Red,Yellow,,,642-SCLC-01,SCLC,Green,Yellow
+538,538,Yellow,Green,Green,Yellow,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,Philadelphia,Green,Red,,Green,,Red,Red,,,642-SCLC-02,SCLC,Green,Yellow
+539,539,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,Yellow,Philadelphia,Green,Red,,Green,Green,Red,Yellow,,Green,642-SCLC-03,SCLC,Yellow,Yellow
+540,540,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Philadelphia,Yellow,,,Green,,,Yellow,,,642-SCLC-04,SCLC,,Red
+541,541,Red,Yellow,Green,Red,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Red,,,646-NSCLC-02,NSCLC,Green,Yellow
+542,542,Red,Yellow,Green,Red,,,,Green,Green,Red,,Red,Green,,,Pittsburgh,,,,,,,Red,,,646-NSCLC-03,NSCLC,Green,Red
+543,543,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-04,NSCLC,Green,Yellow
+544,544,Green,Green,Green,Green,,,,Green,Green,Green,,Red,Green,Red,Red,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-05,NSCLC,Green,Red
+545,545,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-06,NSCLC,Green,Yellow
+546,546,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-07,NSCLC,Green,Red
+547,547,Green,Green,Green,Red,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Red,,,646-NSCLC-08,NSCLC,Green,Yellow
+548,548,Red,Red,Green,Yellow,,,,Green,Green,Green,,Red,Green,Red,Red,Pittsburgh,Green,Red,,Green,,Red,Red,,,646-NSCLC-09,NSCLC,Green,Yellow
+549,549,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Pittsburgh,Red,Red,,Yellow,Yellow,Red,Yellow,,Red,646-NSCLC-10,NSCLC,Yellow,Yellow
+550,550,Green,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Green,,Pittsburgh,,Red,,,Green,Red,Green,,Green,646-NSCLC-11,NSCLC,Green,Green
+551,551,Yellow,Green,Green,Yellow,,,,Green,Green,Green,,Green,Green,Red,Yellow,Pittsburgh,Green,Red,,Green,,Red,Yellow,,,646-NSCLC-12,NSCLC,Green,Red
+552,552,Red,Red,Yellow,Green,,,,Green,Green,Green,,Red,Yellow,Red,Red,Pittsburgh,Green,Red,,Green,,Red,Red,,,646-NSCLC-13,NSCLC,Red,Red
+553,553,Red,Red,Green,Yellow,,,,Green,Green,Green,,Green,Green,Green,Yellow,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-15,NSCLC,Red,Yellow
+554,554,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,Pittsburgh,,Red,,,,Red,Green,,,646-NSCLC-16,NSCLC,Green,Yellow
+555,555,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-19,NSCLC,Green,Yellow
+556,556,Red,Red,Green,Yellow,,,,Green,Green,Green,,Green,Green,Yellow,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC-20,NSCLC,Green,Yellow
+557,557,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Yellow,,,646-NSCLC-21,NSCLC,Green,Yellow
+558,558,Red,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+559,559,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Pittsburgh,Green,Red,,Green,,Red,Green,,,646-SCLC-01,SCLC,Green,Yellow
+560,560,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Pittsburgh,Green,Red,,Green,,Red,Yellow,,,646-SCLC-03,SCLC,Green,Yellow
+561,561,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Pittsburgh,Yellow,Red,,Green,,Red,Yellow,,,646-SCLC-04,SCLC,Yellow,Yellow
+562,562,Red,Green,Green,Yellow,,,,Yellow,Yellow,Green,,Red,Green,Yellow,Green,Pittsburgh,Green,Red,,Green,,Red,Red,,,646-SCLC-05,SCLC,Green,Red
+563,563,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Richmond,,,,,Green,,Yellow,,Green,652-NSCLC-01,NSCLC,,Green
+564,564,Green,Green,Green,Green,,Green,Green,Yellow,Yellow,Green,Green,Red,Green,Green,Green,Richmond,Green,Red,,Green,Green,Red,Yellow,,Green,652-NSCLC-03,NSCLC,Green,Yellow
+565,565,Green,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Richmond,Green,Red,,Green,Green,Red,Green,,Green,652-NSCLC-05,NSCLC,Red,Green
+566,566,Green,Green,,,,Green,Yellow,,,,Green,,,Yellow,Green,Richmond,Green,Red,,Green,Green,Red,Yellow,,Green,652-NSCLC-07,NSCLC,Green,Yellow
+567,567,,,Green,Yellow,,Red,Green,Green,Green,Green,Green,Red,Green,,,Richmond,,,,,Green,,Yellow,,Green,652-NSCLC-09,NSCLC,,Green
+568,568,Green,Green,Green,Green,,Green,Yellow,Yellow,Yellow,Green,Yellow,Green,Green,Green,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-10,NSCLC,Green,Green
+569,569,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,Red,Richmond,Yellow,Red,,Yellow,Yellow,Red,Green,,Yellow,652-NSCLC-11,NSCLC,,Green
+570,570,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-12,NSCLC,Green,Green
+571,571,Green,Yellow,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Green,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-13,NSCLC,Yellow,Green
+572,572,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-14,NSCLC,Green,Yellow
+573,573,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-15,NSCLC,Green,Green
+574,574,Red,Green,Green,Green,,Green,,Yellow,Yellow,Green,,Red,Green,Green,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-17,NSCLC,Green,Green
+575,575,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC-18,NSCLC,Green,Green
+576,576,,,Yellow,Green,,Green,,Green,Green,Yellow,,Green,Yellow,,,Richmond,,,,,Green,,Green,,Green,652-NSCLC-19,NSCLC,,Green
+577,577,,,Yellow,Green,,Green,,Green,Green,Green,,Green,Yellow,,,Richmond,,,,,Green,,Green,,Green,652-NSCLC-20,NSCLC,,Green
+578,578,,,Green,Yellow,,Yellow,,Green,Green,Green,,Green,Green,,,Richmond,,,,,Green,,Yellow,,Green,652-NSCLC-21,NSCLC,,Green
+579,579,Green,Green,Green,Green,,Green,,Green,Green,Red,,Green,Green,Red,,Richmond,,Red,,,Green,Red,Yellow,,Green,652-NSCLC-22,NSCLC,Green,Green
+580,580,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Richmond,Green,,,Green,Green,,Yellow,,Green,652-NSCLC_Surgery-01,NSCLC Surgery,,Yellow
+581,581,Yellow,Yellow,Green,Green,,Yellow,Green,Green,Green,Green,Green,Green,Green,Red,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC_Surgery-02,NSCLC Surgery,Yellow,Yellow
+582,582,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Richmond,,Red,,,Green,Red,Green,,Green,652-NSCLC_Surgery-03,NSCLC Surgery,Green,Green
+583,583,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Richmond,,,,,Green,,Green,,Green,652-SCLC-01,SCLC,,Green
+584,584,,,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,,,Richmond,,,,,Green,,Green,,Green,652-SCLC-02,SCLC,,Green
+585,585,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Richmond,Green,Red,,Green,Green,Red,Green,,Green,652-SCLC-03,SCLC,Green,Green
+586,586,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Richmond,,Red,,,Green,Red,Green,,Green,652-SCLC-05,SCLC,Red,Green
+587,587,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Richmond,,Red,,,Green,Red,Green,,Green,652-SCLC-06,SCLC,Green,Green
+588,588,,,Yellow,Green,,Red,,Green,Green,Green,,Green,Yellow,,,Richmond,,,,,Yellow,,Yellow,,Yellow,652-SCLC-07,SCLC,,Red
+589,589,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Richmond,,Red,,,Green,Red,Green,,Green,652-SCLC-08,SCLC,Green,Green
+590,590,Red,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Richmond,Green,,,Green,Green,,Red,,Green,652-SCLC-10,SCLC,Red,Yellow
+591,591,Red,Red,Green,Green,,Yellow,Green,Green,Green,Green,Green,Green,Green,Yellow,Yellow,St. Louis,Green,Red,,Green,Green,Red,Green,,Green,657-NSCLC-01,NSCLC,Green,Green
+592,592,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,St. Louis,Green,Red,,Green,Green,Red,Green,,Green,657-NSCLC-02,NSCLC,Green,Green
+593,593,Red,Red,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Red,Green,Yellow,,St. Louis,,Red,,,Green,Red,Red,,Green,657-NSCLC-03,NSCLC,Green,Green
+594,594,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Yellow,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-04,NSCLC,Green,Green
+595,595,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Red,Green,Red,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-05,NSCLC,Green,Green
+596,596,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Red,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-07,NSCLC,Green,Green
+597,597,Red,Red,Yellow,Red,,Red,,Green,Green,Green,,Red,Green,Red,Red,St. Louis,Yellow,Red,,Yellow,Yellow,Red,Yellow,,Yellow,657-NSCLC-08,NSCLC,Red,Yellow
+598,598,Red,Red,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-09,NSCLC,Green,Green
+599,599,Green,Green,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Red,Green,St. Louis,Green,Red,,Green,Green,Red,Green,,Green,657-NSCLC-10,NSCLC,Green,Green
+600,600,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,St. Louis,,Red,,,Green,Red,Red,,Green,657-NSCLC-12,NSCLC,Green,Yellow
+601,601,Green,Red,Green,Yellow,,Red,,Yellow,Yellow,Red,,Red,Green,Red,,St. Louis,,Red,,,Yellow,Red,Green,,Green,657-NSCLC-13,NSCLC,Red,Green
+602,602,Green,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Green,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-14,NSCLC,Green,Green
+603,603,Red,Yellow,Green,Green,,Green,,Yellow,Yellow,Green,,Green,Green,Red,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-15,NSCLC,Green,Green
+604,604,Red,Yellow,Green,Yellow,,Green,,Yellow,Yellow,Green,,Red,Green,Yellow,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-16,NSCLC,Green,Green
+605,605,Red,Red,Green,Red,,Red,,Green,Green,Red,,Red,Green,Red,,St. Louis,,Red,,,Red,Red,Yellow,,Red,657-NSCLC-17,NSCLC,Red,Green
+606,606,Green,Green,Yellow,Green,,Green,,Green,Green,Green,,Red,Yellow,Green,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-18,NSCLC,Green,Red
+607,607,Green,Green,Green,Green,,Green,,Yellow,Green,Green,,Green,Green,Yellow,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-19,NSCLC,Green,Red
+608,608,Green,Green,Yellow,Green,,Green,,Green,Green,Green,,Red,Yellow,Green,,St. Louis,,Red,,,Green,Red,Green,,Green,657-NSCLC-20,NSCLC,Green,Green
+609,609,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,St. Louis,Green,Green,,Green,Green,Red,Green,,Green,657-NSCLC_Surgery-01,NSCLC Surgery,Green,Green
+610,610,Yellow,Red,Green,Green,,Red,Yellow,Yellow,Yellow,Green,Yellow,Green,Green,Red,,St. Louis,,Red,,,Yellow,Red,Yellow,,Green,657-NSCLC_Surgery-02,NSCLC Surgery,Red,Green
+611,611,Green,Green,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,Yellow,St. Louis,Yellow,Red,,Green,Green,Red,Green,,Yellow,657-SCLC-02,SCLC,Green,Green
+612,612,Green,Red,Yellow,Yellow,,Red,,Green,Green,Green,,Red,Yellow,Red,Red,St. Louis,Yellow,Red,,Red,Red,Red,Green,,Yellow,657-SCLC-03,SCLC,Red,Yellow
+613,613,Red,Green,Green,Green,,Green,,Green,Green,Green,,Red,Green,Yellow,Green,Seattle,Green,Red,,Green,Green,Red,Yellow,,Green,663-NSCLC-01,NSCLC,Green,Yellow
+614,614,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,Green,Seattle,Green,Red,,Green,Green,Red,Yellow,,Green,663-NSCLC-02,NSCLC,Green,Red
+615,615,,,Yellow,,,Green,,,,Green,,,Yellow,,Green,Seattle,Green,,,Green,Green,,Yellow,,Green,663-NSCLC-03,NSCLC,,Yellow
+616,616,,,Green,,,Green,,,,Green,,,Green,,Green,Seattle,Green,,,Green,Green,,Green,,Green,663-NSCLC-04,NSCLC,,Yellow
+617,617,,,Green,,,Green,,,,Red,,,Green,,,Seattle,,,,,Green,,Red,,Green,663-NSCLC-05,NSCLC,,Yellow
+618,618,,,Yellow,Red,,Red,,Green,Green,Red,,Red,Yellow,,,Seattle,,,,,Red,,Red,,Yellow,663-NSCLC-07,NSCLC,,Red
+619,619,,,Yellow,Red,,Red,,Green,Green,Red,,Red,Yellow,,,Seattle,,,,,Yellow,,Red,,Yellow,663-NSCLC-08,NSCLC,,Red
+620,620,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Yellow,Seattle,Green,,,Green,Yellow,,Yellow,,Green,663-NSCLC-09,NSCLC,,Red
+621,621,,,Green,,,Green,,,,Red,,,Green,,Green,Seattle,Green,,,Green,Green,,Red,,Green,663-NSCLC-10,NSCLC,,Red
+622,622,,,Yellow,,,Red,,,,Green,,,Yellow,,,Seattle,,,,,Green,,Yellow,,Green,663-NSCLC-11,NSCLC,,Red
+623,623,,,Green,Red,,Red,,Green,Green,Red,,Red,Green,,,Seattle,,,,,Green,,Yellow,,Green,663-NSCLC-15,NSCLC,,Yellow
+624,624,Green,Green,Green,,,Green,,,,Green,,,Green,,Green,Seattle,Green,,,Green,Green,,Yellow,,Green,663-NSCLC-16,NSCLC,Green,Red
+625,625,Red,Red,Yellow,,,Red,,,,Green,,,Yellow,Red,,Seattle,,Red,,,Green,Red,Red,,Green,663-NSCLC-17,NSCLC,Green,Red
+626,626,,,Red,,,Yellow,,,,Green,,,Red,,Yellow,Seattle,Green,,,Green,Green,,Red,,Green,663-NSCLC-18,NSCLC,,Red
+627,627,,,Yellow,Red,,Yellow,,Green,Green,Green,,Red,Yellow,,Yellow,Seattle,Green,,,Green,Green,,Red,,Green,663-NSCLC-19,NSCLC,,Red
+628,628,Green,Green,Yellow,,,,,,,Green,,,Yellow,Red,Yellow,Seattle,Green,Red,,Green,,Red,Red,,,663-NSCLC-20,NSCLC,Green,Red
+629,629,Red,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Yellow,Red,Green,,Yellow,667-NSCLC-01,NSCLC,Yellow,Yellow
+630,630,Red,Yellow,Yellow,Green,,Green,Green,Green,Green,Green,Green,Red,Green,Green,,Shreveport,,Red,,,Green,Red,Red,,Green,667-NSCLC-03,NSCLC,Green,Red
+631,631,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Green,,Green,667-NSCLC-05,NSCLC,Green,Yellow
+632,632,Red,Red,Green,Green,,Red,Yellow,Green,Green,Green,Green,Green,Green,Red,Red,Shreveport,Green,Red,,Green,Yellow,Red,Green,,Green,667-NSCLC-06,NSCLC,Red,Red
+633,633,Green,Green,Green,Green,,Green,Yellow,Green,Green,Green,Green,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Red,,Green,667-NSCLC-07,NSCLC,Green,Yellow
+634,634,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Red,,Green,667-NSCLC-09,NSCLC,Green,Yellow
+635,635,Green,Red,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Yellow,Red,Red,,Green,667-NSCLC-10,NSCLC,Red,Yellow
+636,636,Red,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Yellow,,Green,667-NSCLC-11,NSCLC,Green,Yellow
+637,637,Red,Red,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,Shreveport,,Green,,,Green,Red,Yellow,,Green,667-NSCLC-12,NSCLC,Green,Red
+638,638,Red,Red,Green,Green,,Yellow,Green,Green,Green,Green,Green,Yellow,Green,Yellow,,Shreveport,,Red,,,Green,Red,Green,,Green,667-NSCLC-13,NSCLC,Red,Yellow
+639,639,Green,Yellow,Green,Yellow,,Red,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Yellow,Red,Red,,Green,667-NSCLC-14,NSCLC,Red,Red
+640,640,Green,Green,Green,Green,,Green,,Green,Green,Red,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Yellow,,Green,667-NSCLC-15,NSCLC,Green,Yellow
+641,641,Green,Green,Green,Yellow,,,Yellow,Green,Green,Green,Yellow,Green,Green,Red,Green,Shreveport,Green,Red,,Green,,Red,Red,,,667-NSCLC-16,NSCLC,Green,Red
+642,642,Red,Red,,Green,,,,Green,Green,Green,,Green,,Red,Yellow,Shreveport,Yellow,Red,,Green,,Red,Red,,,667-NSCLC-17,NSCLC,Green,Red
+643,643,Red,Red,Green,Yellow,,,,Green,Green,Green,,Green,Green,Green,Yellow,Shreveport,Green,Red,,Green,,Red,Yellow,,,667-NSCLC-18,NSCLC,Red,Yellow
+644,644,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Red,Shreveport,Red,,,Red,,,Red,,,667-NSCLC-19,NSCLC,,Red
+645,645,Red,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Shreveport,Green,Red,,Green,,Red,Yellow,,,667-NSCLC-20,NSCLC,Green,Red
+646,646,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Red,,Green,667-NSCLC-21,NSCLC,Green,Red
+647,647,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Yellow,,Shreveport,,Red,,,Green,Red,Green,,Green,667-NSCLC_Surgery-02,NSCLC Surgery,Green,Yellow
+648,648,Red,Green,Green,Yellow,,Green,,Green,Green,Green,,Green,Green,Yellow,,Shreveport,,Red,,,Green,Red,Green,,Green,667-SCLC-01,SCLC,Green,Green
+649,649,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Green,,Shreveport,,Red,,,Green,Red,Red,,Green,667-SCLC-02,SCLC,Red,Yellow
+650,650,Red,Red,Green,,,Green,,,,Green,,,Green,Yellow,,Shreveport,,Red,,,Green,Red,Green,,Green,667-SCLC-04,SCLC,Green,Yellow
+651,651,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Shreveport,Green,Red,,Green,,Red,Red,,,667-SCLC-05,SCLC,Green,Red
+652,652,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Red,Shreveport,Green,,,Yellow,,,Green,,,667-SCLC-06,SCLC,,Yellow
+653,653,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Green,,Green,667-SCLC-07,SCLC,Green,Green
+654,654,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Green,,Green,667-SCLC-08,SCLC,Green,Yellow
+655,655,Green,Green,Green,Green,,,Red,Yellow,Yellow,Green,Yellow,Green,Green,Red,Yellow,San Antonio,Green,Red,,Green,,Red,Red,,,671-NSCLC-01,NSCLC,Green,Yellow
+656,656,Green,Green,Yellow,Yellow,,,,Green,Green,Green,,Green,Green,Red,Red,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-02,NSCLC,Green,Yellow
+657,657,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-03,NSCLC,Green,Yellow
+658,658,Red,Red,Green,Red,,,,Green,Green,Green,,Green,Green,Red,Red,San Antonio,Yellow,Red,,Red,,Red,Red,,,671-NSCLC-04,NSCLC,Red,Red
+659,659,Red,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,,Green,San Antonio,Green,,,Green,,,Green,,,671-NSCLC-05,NSCLC,Green,Yellow
+660,660,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-06,NSCLC,Green,Yellow
+661,661,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,San Antonio,,Red,,,,Red,Green,,,671-NSCLC-07,NSCLC,Green,Yellow
+662,662,Red,Red,Green,Yellow,,,,Green,Green,Green,,Green,Green,,Red,San Antonio,Yellow,,,Yellow,,,Yellow,,,671-NSCLC-09,NSCLC,Red,Yellow
+663,663,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,San Antonio,,Red,,,Green,Red,Green,,Green,671-NSCLC-10,NSCLC,Green,Yellow
+664,664,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-11,NSCLC,Green,Yellow
+665,665,Red,Yellow,Green,Green,,,,Green,Green,Green,,Yellow,Green,Red,Red,San Antonio,Green,Red,,Green,,Red,Red,,,671-NSCLC-12,NSCLC,Green,Red
+666,666,Green,Green,Green,Yellow,,,,Green,Green,Green,,Yellow,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-13,NSCLC,Green,Yellow
+667,667,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Yellow,,,671-NSCLC-14,NSCLC,Green,Yellow
+668,668,Green,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-15,NSCLC,Red,Yellow
+669,669,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-16,NSCLC,Green,Yellow
+670,670,Green,Green,Yellow,Green,,,,Yellow,Yellow,Green,,Red,Yellow,Red,Red,San Antonio,Green,Red,,Green,,Red,Yellow,,,671-NSCLC-17,NSCLC,Green,Yellow
+671,671,Red,Red,Red,Red,,Red,,Green,Green,Green,,Green,Yellow,Red,Red,San Antonio,Yellow,Red,,Yellow,Yellow,Red,Yellow,,Yellow,671-NSCLC-18,NSCLC,Red,Red
+672,672,Red,Red,Yellow,,,,,,,Yellow,,,Yellow,Red,Yellow,San Antonio,Green,Red,,Yellow,,Red,Red,,,671-NSCLC-19,NSCLC,Green,Yellow
+673,673,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,San Antonio,Yellow,Red,,Yellow,,Red,Yellow,,,671-SCLC-01,SCLC,Red,Yellow
+674,674,Yellow,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Green,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-SCLC-03,SCLC,Green,Yellow
+675,675,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Yellow,,,671-SCLC-04,SCLC,Green,Yellow
+676,676,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Green,,,671-SCLC-05,SCLC,Green,Yellow
+677,677,Red,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Red,Yellow,San Antonio,Yellow,Red,,Green,,Red,Red,,,671-SCLC-07,SCLC,Green,Yellow
+678,678,Red,Red,Yellow,Red,,,Yellow,Green,Green,Green,Yellow,Green,Yellow,Red,Yellow,San Antonio,Green,Red,,Green,,Red,Green,,,671-SCLC-08,SCLC,Green,Yellow
+679,679,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,San Juan,,Red,,,Green,Red,Green,,Green,672-NSCLC-01,NSCLC,Green,Yellow
+680,680,Green,Green,Green,Green,,Red,,Green,Green,Green,,Green,Green,Red,,San Juan,,Red,,,Yellow,Red,Red,,Yellow,672-NSCLC-02,NSCLC,Green,Yellow
+681,681,Green,Green,Yellow,Yellow,,,,Green,Green,Green,,Red,Green,Red,,San Juan,,Red,,,,Red,Green,,,672-NSCLC-03,NSCLC,Green,Red
+682,682,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Tampa,Green,,,Green,,,Green,,,673-NSCLC-02,NSCLC,Green,Green
+683,683,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,Green,Tampa,Green,Red,,Green,Green,Red,Green,,Green,673-NSCLC-04,NSCLC,Green,Green
+684,684,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Tampa,Green,Red,,Green,,Red,Green,,,673-NSCLC-06,NSCLC,Green,Green
+685,685,Red,Red,Yellow,Green,,,,Green,Green,Green,,Yellow,Yellow,Red,Green,Tampa,Green,Red,,Green,,Red,Red,,,673-NSCLC-07,NSCLC,Green,Red
+686,686,Green,Green,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,Green,Green,Tampa,Green,Red,,Green,Green,Red,Green,,Green,673-NSCLC-08,NSCLC,Green,Green
+687,687,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,,Tampa,,Red,,,,Red,Green,,,673-NSCLC-09,NSCLC,Green,Yellow
+688,688,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Tampa,,Red,,,Green,Red,Green,,Green,673-NSCLC-10,NSCLC,Green,Green
+689,689,Red,Green,Green,Green,,,,Yellow,Yellow,Green,,Red,Green,Red,Green,Tampa,Green,Red,,Green,,Red,Green,,,673-NSCLC-13,NSCLC,Green,Yellow
+690,690,Green,Green,Green,Green,,Green,Red,Green,Green,Green,Yellow,Green,Green,Yellow,,Tampa,,Red,,,Green,Red,Green,,Green,673-NSCLC-14,NSCLC,Green,Yellow
+691,691,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,Green,Tampa,Green,Red,,Green,Green,Red,Yellow,,Green,673-NSCLC-15,NSCLC,Green,Red
+692,692,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Red,Green,Red,Red,Tampa,Green,Red,,Green,,Red,Green,,,673-NSCLC-17,NSCLC,Red,Green
+693,693,,,Green,Green,,Yellow,,Yellow,Yellow,Green,,Yellow,Green,,Yellow,Tampa,Green,,,Green,Green,,Green,,Green,673-NSCLC-19,NSCLC,,Yellow
+694,694,Green,Green,Green,Green,,,Green,Green,Green,Green,Green,Red,Green,,Green,Tampa,Green,,,Green,,,Green,,,673-NSCLC-21,NSCLC,Green,Green
+695,695,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Tampa,Green,Red,,Green,,Red,Yellow,,,673-NSCLC-23,NSCLC,Green,Yellow
+696,696,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Tampa,,Red,,,Green,Red,Green,,Green,673-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+697,697,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Tampa,Green,,,Green,,,Green,,,673-SCLC-01,SCLC,,Yellow
+698,698,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Tampa,,Red,,,Green,Red,Green,,Green,673-SCLC-03,SCLC,Green,Yellow
+699,699,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Tampa,Green,Red,,Green,,Red,Yellow,,,673-SCLC-04,SCLC,Green,Yellow
+700,700,Green,Green,Green,,,Green,,,,Green,,,Green,Red,Green,Tampa,Green,Red,,Green,Green,Red,Green,,Green,673-SCLC-05,SCLC,Green,Yellow
+701,701,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Tampa,Yellow,Red,,Yellow,,Red,Green,,,673-SCLC-08,SCLC,Green,Green
+702,702,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Washington,,,,,Green,,Red,,Green,688-NSCLC-01,NSCLC,,Green
+703,703,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Washington,,Red,,,Green,Red,Green,,Green,688-NSCLC-02,NSCLC,Green,Yellow
+704,704,,,Green,Green,,,,Green,Green,Green,,Green,Green,,Red,Washington,Green,,,Green,,,Yellow,,,688-NSCLC-04,NSCLC,,Yellow
+705,705,,,Green,Green,,,Yellow,Green,Green,Green,Yellow,Green,Green,,Green,Washington,Green,,,Green,,,Green,,,688-NSCLC-05,NSCLC,,Green
+706,706,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Washington,,,,,Green,,Green,,Green,688-NSCLC-06,NSCLC,,Green
+707,707,,,Green,,,,,,,,,,Green,,Green,Washington,Green,,,Yellow,,,Green,,,688-NSCLC-07,NSCLC,,Green
+708,708,,,Green,Green,,Yellow,,Green,Green,Red,,Red,Green,,,Washington,,,,,Yellow,,Green,,Yellow,688-NSCLC-08,NSCLC,,Yellow
+709,709,,,Yellow,Red,,Green,,Yellow,Yellow,Green,,Red,Green,,Green,Washington,Yellow,,,Red,Red,,Green,,Red,688-NSCLC-10,NSCLC,,Yellow
+710,710,Green,Green,Green,,,Green,,,,,,,Green,Red,,Washington,,Red,,,Red,Red,Green,,Yellow,688-NSCLC-11,NSCLC,Green,Green
+711,711,,,Green,,,Green,,,,Green,,,Green,,,Washington,,,,,Red,,Green,,Red,688-NSCLC-12,NSCLC,,Yellow
+712,712,,,Green,,,,,,,,,,Green,,,Washington,,,,,,,Green,,,688-NSCLC-15,NSCLC,,Green
+713,713,,,Green,Green,,Yellow,,Green,Green,Green,,Red,Green,,,Washington,,,,,Yellow,,Green,,Yellow,688-NSCLC-16,NSCLC,,Green
+714,714,,,Green,Red,,Green,,Yellow,Green,Green,,Red,Green,,,Washington,,,,,Green,,Red,,Green,688-NSCLC-17,NSCLC,,Red
+715,715,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Washington,Green,,,Green,Yellow,,Red,,Green,688-SCLC-02,SCLC,,Yellow
+716,716,,,Green,Green,,Red,,Green,Green,Red,,Green,Green,,,Washington,,,,,Yellow,,Red,,Yellow,688-SCLC-03,SCLC,,Red
+717,717,Red,Green,Green,Green,,,,Yellow,Green,Green,,Red,Green,Green,Green,Los Angeles,Green,Red,,Green,,Red,Yellow,,,691-NSCLC-01,NSCLC,Green,Green
+718,718,Red,Green,Yellow,Green,,,,Green,Green,Green,,Green,Yellow,Red,Green,Los Angeles,Green,Red,,Green,,Red,Green,,,691-NSCLC-02,NSCLC,Green,Green
+719,719,Green,Green,Green,Green,,Red,,Green,Green,Green,,Red,Green,Red,,Los Angeles,,Red,,,Green,Red,Green,,Green,691-NSCLC-03,NSCLC,Yellow,Yellow
+720,720,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Los Angeles,Green,Red,,Green,,Red,Red,,,691-NSCLC-04,NSCLC,Green,Yellow
+721,721,Red,Red,Green,Red,,,,Green,Green,Green,,Red,Green,Red,Red,Los Angeles,Green,Red,,Green,,Red,Yellow,,,691-NSCLC-05,NSCLC,Green,Yellow
+722,722,Yellow,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Los Angeles,Green,Red,,Green,,Red,Yellow,,,691-NSCLC-06,NSCLC,Green,Yellow
+723,723,,,Green,Green,,Green,Yellow,Green,Green,Green,Yellow,Green,Green,,Green,Los Angeles,Green,,,Green,Green,,Green,,Green,691-NSCLC-07,NSCLC,,Green
+724,724,Red,Red,Green,Green,,Yellow,,Green,Green,Green,,Green,Green,Red,Yellow,Los Angeles,Green,Red,,Green,Green,Red,Green,,Green,691-NSCLC-08,NSCLC,Yellow,Yellow
+725,725,Red,Green,Green,Red,,,,Green,Green,Green,,Green,Green,Yellow,Green,Los Angeles,Green,Red,,Green,,Red,Red,,,691-NSCLC-09,NSCLC,Green,Yellow
+726,726,Green,Green,Green,Red,,,,Green,Green,Green,,Green,Green,Red,Green,Los Angeles,Green,Red,,Green,,Red,Yellow,,,691-NSCLC-11,NSCLC,Green,Yellow
+727,727,Green,Green,Yellow,Green,,Red,,Green,Green,Green,,Green,Green,Red,,Los Angeles,,Red,,,Green,Red,Green,,Green,691-NSCLC_Surgery-01,NSCLC Surgery,Green,Green
+728,728,Green,Green,Yellow,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Los Angeles,Green,Red,,Green,,Red,Green,,,691-NSCLC_Surgery-02,NSCLC Surgery,Green,Green
+729,729,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Los Angeles,Green,Green,,Green,,Red,Red,,,691-SCLC-01,SCLC,Green,Yellow
+730,730,Green,Green,Green,Red,,,,Green,Green,Green,,Red,Green,Red,Yellow,Los Angeles,Green,Red,,Green,,Red,Green,,,691-SCLC-02,SCLC,Yellow,Green
+731,731,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC-01,NSCLC,Green,Green
+732,732,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC-02,NSCLC,Green,Green
+733,733,Red,Red,Green,Red,,,,Green,Green,Green,,Red,Green,Red,Yellow,Milwaukee,Green,Red,,Green,,Red,Red,,,695-NSCLC-04,NSCLC,Green,Yellow
+734,734,Red,Red,Green,,,,,,,Green,,,Green,Red,Green,Milwaukee,Green,Red,,Green,,Red,Yellow,,,695-NSCLC-05,NSCLC,Green,Yellow
+735,735,Red,Red,Green,Green,,Red,,Yellow,Yellow,Green,,Green,Green,Red,Red,Milwaukee,Yellow,Red,,Yellow,Yellow,Red,Red,,Yellow,695-NSCLC-07,NSCLC,Red,Red
+736,736,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC-09,NSCLC,Green,Green
+737,737,Red,Red,Green,Green,,,Green,Yellow,Yellow,Green,Green,Green,Green,Red,Yellow,Milwaukee,Yellow,Red,,Green,,Red,Red,,,695-NSCLC-10,NSCLC,Green,Red
+738,738,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Yellow,Green,Milwaukee,Green,Red,,Green,,Red,Yellow,,,695-NSCLC-12,NSCLC,Green,Green
+739,739,Red,Red,Green,,,,,,,,,,Green,Red,,Milwaukee,,Red,,,,Red,Red,,,695-NSCLC-14,NSCLC,Red,Red
+740,740,Green,Green,Green,,,,,,,,,,Green,Red,,Milwaukee,,Red,,,,Red,Red,,,695-NSCLC-15,NSCLC,Green,Green
+741,741,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Milwaukee,Green,Red,,Green,,Red,Red,,,695-NSCLC-19,NSCLC,Green,Yellow
+742,742,Red,Red,Green,Green,,,,Green,Green,Green,,Red,Green,Yellow,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC-20,NSCLC,Green,Green
+743,743,Green,Green,Green,Green,,,,Yellow,Yellow,Red,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Red,,,695-NSCLC-23,NSCLC,Green,Yellow
+744,744,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Green,,,695-NSCLC-24,NSCLC,Green,Green
+745,745,Red,Green,Green,Green,,,,Yellow,Yellow,Green,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Green,,,695-NSCLC-25,NSCLC,Green,Yellow
+746,746,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC_Surgery-01,NSCLC Surgery,Green,Yellow
+747,747,Red,Green,Green,Red,,,,Green,Green,Green,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Yellow,,,695-NSCLC_Surgery-02,NSCLC Surgery,Green,Yellow
+748,748,Green,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Red,,Milwaukee,,Red,,,Green,Red,Green,,Green,695-NSCLC_Surgery-03,NSCLC Surgery,Green,Green
+749,749,Green,Yellow,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Yellow,,,695-NSCLC_Surgery-04,NSCLC Surgery,Red,Yellow
+750,750,Red,Red,Green,Red,,,,Green,Green,Green,,Green,Green,Green,Green,Milwaukee,Yellow,Red,,Green,,Red,Green,,,695-SCLC-01,SCLC,Green,Yellow
+751,751,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-SCLC-02,SCLC,Green,Green
+752,752,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Red,Milwaukee,Yellow,Red,,Green,,Red,Red,,,695-SCLC-03,SCLC,Red,Red
+753,753,Red,Green,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-SCLC-04,SCLC,Green,Green
+754,754,Red,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,Milwaukee,Green,Red,,Green,,Red,Yellow,,,695-SCLC-05,SCLC,Green,Yellow
+755,755,Red,Red,Green,Green,,,,Green,Green,Green,,Green,Green,Red,,Milwaukee,,Red,,,,Red,Green,,,695-SCLC-08,SCLC,Yellow,Green
+756,756,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-12,NSCLC,,Yellow
+757,757,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-18,NSCLC,,Yellow
+758,758,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-NSCLC-19,NSCLC,,Green
+759,759,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-SCLC-03,SCLC,,Green
+760,760,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,,Dallas,,,,,Green,,Green,,Green,549-SCLC-04,SCLC,,Green
+761,761,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,Red,Durham,Green,,,Green,Green,,Green,,Green,558-SCLC-03,SCLC,,Yellow
+762,762,,,Green,Green,,Red,,Green,Green,Green,,Green,Green,,,Durham,,,,,Green,,Green,,Green,558-SCLC-08,SCLC,,Yellow
+763,763,Red,Red,Green,Green,,Green,,Green,Green,Green,,Green,Green,Green,,Houston,,Red,,,Green,Red,Green,,Green,580-NSCLC-03,NSCLC,Green,Green
+764,764,Red,Red,Green,Green,,,Yellow,Green,Green,Green,Yellow,Yellow,Green,Red,Red,Indianapolis,Green,Red,,Green,,Red,Yellow,,,583-NSCLC-05,NSCLC,Yellow,Green
+765,765,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,,Green,Jackson,Green,,,Green,,,Green,,,586-NSCLC-11,NSCLC,Green,Yellow
+766,766,,,Green,,,Green,,,,Green,,,Green,,,Long Beach,,,,,Green,,Red,,Green,600-NSCLC-17,NSCLC,,Green
+767,767,,,Green,Green,,Green,,Green,Green,Green,,Green,Green,,Green,Minneapolis,Green,,,Green,Green,,Green,,Green,618-NSCLC-17,NSCLC,,Green
+768,768,Green,Green,Green,,,,,,,Green,,,Green,Green,,Northport,,Red,,,,Red,Red,,,632-NSCLC-06,NSCLC,Green,Red
+769,769,Green,Green,Green,Green,,Green,,Green,Green,Green,,Green,Green,Red,,Shreveport,,Red,,,Green,Red,Green,,Green,667-NSCLC-08,NSCLC,Green,Yellow
+770,770,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Yellow,San Antonio,Green,Red,,Green,,Red,Green,,,671-NSCLC-08,NSCLC,Green,Yellow
+771,771,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Red,Green,San Antonio,Green,Red,,Green,,Red,Yellow,,,671-SCLC-06,SCLC,Green,Yellow
+772,772,Green,Green,Green,Green,,,,Green,Green,Green,,Green,Green,Green,Green,Milwaukee,Green,Red,,Green,,Red,Green,,,695-NSCLC-08,NSCLC,Green,Green

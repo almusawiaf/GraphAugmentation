@@ -1,0 +1,766 @@
+,Unnamed: 0,center_name,vha_id,cancer_type
+0,0,Ann Arbor,506-Prostate-01,Prostate
+1,1,Ann Arbor,506-Prostate-02,Prostate
+2,2,Ann Arbor,506-Prostate-03,Prostate
+3,3,Ann Arbor,506-Prostate-04,Prostate
+4,4,Ann Arbor,506-Prostate-05,Prostate
+5,5,Ann Arbor,506-Prostate-06,Prostate
+6,6,Ann Arbor,506-Prostate-07,Prostate
+7,7,Ann Arbor,506-Prostate-08,Prostate
+8,8,Ann Arbor,506-Prostate-09,Prostate
+9,9,Ann Arbor,506-Prostate-10,Prostate
+10,10,Ann Arbor,506-Prostate-11,Prostate
+11,11,Ann Arbor,506-Prostate-12,Prostate
+12,12,Ann Arbor,506-Prostate-13,Prostate
+13,13,Ann Arbor,506-Prostate-14,Prostate
+14,14,Ann Arbor,506-Prostate-15,Prostate
+15,15,Ann Arbor,506-Prostate_Surgery-01,Prostate Surgery
+16,16,Ann Arbor,506-Prostate_Surgery-02,Prostate Surgery
+17,17,Ann Arbor,506-Prostate_Surgery-03,Prostate Surgery
+18,18,Ann Arbor,506-Prostate_Surgery-04,Prostate Surgery
+19,19,Ann Arbor,506-Prostate_Surgery-05,Prostate Surgery
+20,20,Atlanta,508-Prostate-01,Prostate
+21,21,Atlanta,508-Prostate-02,Prostate
+22,22,Atlanta,508-Prostate-03,Prostate
+23,23,Atlanta,508-Prostate-04,Prostate
+24,24,Atlanta,508-Prostate-05,Prostate
+25,25,Atlanta,508-Prostate-06,Prostate
+26,26,Atlanta,508-Prostate-07,Prostate
+27,27,Atlanta,508-Prostate-08,Prostate
+28,28,Atlanta,508-Prostate-09,Prostate
+29,29,Atlanta,508-Prostate-10,Prostate
+30,30,Atlanta,508-Prostate-11,Prostate
+31,31,Atlanta,508-Prostate-12,Prostate
+32,32,Atlanta,508-Prostate-13,Prostate
+33,33,Atlanta,508-Prostate-14,Prostate
+34,34,Atlanta,508-Prostate-15,Prostate
+35,35,Atlanta,508-Prostate-16,Prostate
+36,36,Atlanta,508-Prostate-17,Prostate
+37,37,Atlanta,508-Prostate-18,Prostate
+38,38,Atlanta,508-Prostate-19,Prostate
+39,39,Atlanta,508-Prostate_Surgery-01,Prostate Surgery
+40,40,Baltimore,512-Prostate-01,Prostate
+41,41,Baltimore,512-Prostate-02,Prostate
+42,42,Baltimore,512-Prostate-03,Prostate
+43,43,Baltimore,512-Prostate-04,Prostate
+44,44,Baltimore,512-Prostate-05,Prostate
+45,45,Baltimore,512-Prostate-06,Prostate
+46,46,Baltimore,512-Prostate-07,Prostate
+47,47,Baltimore,512-Prostate-08,Prostate
+48,48,Baltimore,512-Prostate-09,Prostate
+49,49,Baltimore,512-Prostate-10,Prostate
+50,50,Baltimore,512-Prostate-11,Prostate
+51,51,Baltimore,512-Prostate-12,Prostate
+52,52,Baltimore,512-Prostate-13,Prostate
+53,53,Baltimore,512-Prostate-14,Prostate
+54,54,Baltimore,512-Prostate-15,Prostate
+55,55,Baltimore,512-Prostate-16,Prostate
+56,56,Baltimore,512-Prostate-17,Prostate
+57,57,Baltimore,512-Prostate-18,Prostate
+58,58,Baltimore,512-Prostate-19,Prostate
+59,59,Baltimore,512-Prostate-20,Prostate
+60,60,Bay Pines,516-Prostate-01,Prostate
+61,61,Bay Pines,516-Prostate-02,Prostate
+62,62,Bay Pines,516-Prostate-03,Prostate
+63,63,Bay Pines,516-Prostate-04,Prostate
+64,64,Bay Pines,516-Prostate-06,Prostate
+65,65,Bay Pines,516-Prostate-07,Prostate
+66,66,Bay Pines,516-Prostate-08,Prostate
+67,67,Bay Pines,516-Prostate-09,Prostate
+68,68,Bay Pines,516-Prostate-10,Prostate
+69,69,Bay Pines,516-Prostate-11,Prostate
+70,70,Bay Pines,516-Prostate-12,Prostate
+71,71,Bay Pines,516-Prostate-13,Prostate
+72,72,Bay Pines,516-Prostate-14,Prostate
+73,73,Bay Pines,516-Prostate-15,Prostate
+74,74,Bay Pines,516-Prostate-18,Prostate
+75,75,Bay Pines,516-Prostate-19,Prostate
+76,76,Bay Pines,516-Prostate-20,Prostate
+77,77,Bay Pines,516-Prostate-21,Prostate
+78,78,Bay Pines,516-Prostate-22,Prostate
+79,79,Bay Pines,516-Prostate_Surgery-01,Prostate Surgery
+80,80,Boston,523-Prostate-02,Prostate
+81,81,Boston,523-Prostate-03,Prostate
+82,82,Boston,523-Prostate-04,Prostate
+83,83,Boston,523-Prostate-05,Prostate
+84,84,Boston,523-Prostate-06,Prostate
+85,85,Boston,523-Prostate-07,Prostate
+86,86,Boston,523-Prostate-08,Prostate
+87,87,Boston,523-Prostate-09,Prostate
+88,88,Boston,523-Prostate-10,Prostate
+89,89,Boston,523-Prostate-11,Prostate
+90,90,Boston,523-Prostate-12,Prostate
+91,91,Boston,523-Prostate-13,Prostate
+92,92,Boston,523-Prostate-14,Prostate
+93,93,Boston,523-Prostate-15,Prostate
+94,94,Boston,523-Prostate-16,Prostate
+95,95,Boston,523-Prostate-17,Prostate
+96,96,Boston,523-Prostate_Surgery-01,Prostate Surgery
+97,97,Boston,523-Prostate_Surgery-02,Prostate Surgery
+98,98,Boston,523-Prostate_Surgery-03,Prostate Surgery
+99,99,Boston,523-Prostate_Surgery-04,Prostate Surgery
+100,100,Bronx,526-Prostate-01,Prostate
+101,101,Bronx,526-Prostate-02,Prostate
+102,102,Bronx,526-Prostate-03,Prostate
+103,103,Bronx,526-Prostate-04,Prostate
+104,104,Bronx,526-Prostate-05,Prostate
+105,105,Bronx,526-Prostate-06,Prostate
+106,106,Bronx,526-Prostate-07,Prostate
+107,107,Bronx,526-Prostate-08,Prostate
+108,108,Bronx,526-Prostate-09,Prostate
+109,109,Bronx,526-Prostate-10,Prostate
+110,110,Bronx,526-Prostate-11,Prostate
+111,111,Bronx,526-Prostate-12,Prostate
+112,112,Bronx,526-Prostate-13,Prostate
+113,113,Bronx,526-Prostate-14,Prostate
+114,114,Bronx,526-Prostate-15,Prostate
+115,115,Bronx,526-Prostate-16,Prostate
+116,116,Bronx,526-Prostate_Surgery-01,Prostate Surgery
+117,117,Bronx,526-Prostate_Surgery-02,Prostate Surgery
+118,118,Bronx,526-Prostate_Surgery-03,Prostate Surgery
+119,119,Bronx,526-Prostate_Surgery-04,Prostate Surgery
+120,120,Albany,528-Prostate-01,Prostate
+121,121,Albany,528-Prostate-03,Prostate
+122,122,Albany,528-Prostate-04,Prostate
+123,123,Albany,528-Prostate-05,Prostate
+124,124,Albany,528-Prostate-06,Prostate
+125,125,Albany,528-Prostate-08,Prostate
+126,126,Albany,528-Prostate-10,Prostate
+127,127,Albany,528-Prostate-11,Prostate
+128,128,Albany,528-Prostate-12,Prostate
+129,129,Albany,528-Prostate-14,Prostate
+130,130,Albany,528-Prostate-16,Prostate
+131,131,Albany,528-Prostate-17,Prostate
+132,132,Albany,528-Prostate_Surgery-01,Prostate Surgery
+133,133,Albany,528-Prostate_Surgery-02,Prostate Surgery
+134,134,Albany,528-Prostate_Surgery-03,Prostate Surgery
+135,135,Albany,528-Prostate_Surgery-04,Prostate Surgery
+136,136,Cleveland,541-Prostate-01,Prostate
+137,137,Cleveland,541-Prostate-02,Prostate
+138,138,Cleveland,541-Prostate-04,Prostate
+139,139,Cleveland,541-Prostate-05,Prostate
+140,140,Cleveland,541-Prostate-06,Prostate
+141,141,Cleveland,541-Prostate-07,Prostate
+142,142,Cleveland,541-Prostate-09,Prostate
+143,143,Cleveland,541-Prostate-10,Prostate
+144,144,Cleveland,541-Prostate-11,Prostate
+145,145,Cleveland,541-Prostate-12,Prostate
+146,146,Cleveland,541-Prostate-13,Prostate
+147,147,Cleveland,541-Prostate-15,Prostate
+148,148,Cleveland,541-Prostate-16,Prostate
+149,149,Cleveland,541-Prostate-17,Prostate
+150,150,Cleveland,541-Prostate-18,Prostate
+151,151,Cleveland,541-Prostate-19,Prostate
+152,152,Cleveland,541-Prostate-20,Prostate
+153,153,Cleveland,541-Prostate_Surgery-01,Prostate Surgery
+154,154,Cleveland,541-Prostate_Surgery-03,Prostate Surgery
+155,155,Miami,546-Prostate-01,Prostate
+156,156,Miami,546-Prostate-02,Prostate
+157,157,Miami,546-Prostate-03,Prostate
+158,158,Miami,546-Prostate-04,Prostate
+159,159,Miami,546-Prostate-05,Prostate
+160,160,Miami,546-Prostate-06,Prostate
+161,161,Miami,546-Prostate-07,Prostate
+162,162,Miami,546-Prostate-08,Prostate
+163,163,Miami,546-Prostate-09,Prostate
+164,164,Miami,546-Prostate-10,Prostate
+165,165,Miami,546-Prostate-11,Prostate
+166,166,Miami,546-Prostate-12,Prostate
+167,167,Miami,546-Prostate-13,Prostate
+168,168,Miami,546-Prostate-14,Prostate
+169,169,Miami,546-Prostate-15,Prostate
+170,170,Miami,546-Prostate-16,Prostate
+171,171,Miami,546-Prostate-17,Prostate
+172,172,Miami,546-Prostate-18,Prostate
+173,173,Miami,546-Prostate_Surgery-01,Prostate Surgery
+174,174,Miami,546-Prostate_Surgery-02,Prostate Surgery
+175,175,West Palm Beach,548-Prostate-01,Prostate
+176,176,West Palm Beach,548-Prostate-02,Prostate
+177,177,West Palm Beach,548-Prostate-03,Prostate
+178,178,West Palm Beach,548-Prostate-04,Prostate
+179,179,West Palm Beach,548-Prostate-05,Prostate
+180,180,West Palm Beach,548-Prostate-06,Prostate
+181,181,West Palm Beach,548-Prostate-07,Prostate
+182,182,West Palm Beach,548-Prostate-08,Prostate
+183,183,West Palm Beach,548-Prostate-09,Prostate
+184,184,West Palm Beach,548-Prostate-10,Prostate
+185,185,West Palm Beach,548-Prostate-12,Prostate
+186,186,West Palm Beach,548-Prostate-13,Prostate
+187,187,West Palm Beach,548-Prostate-14,Prostate
+188,188,West Palm Beach,548-Prostate-15,Prostate
+189,189,West Palm Beach,548-Prostate-16,Prostate
+190,190,West Palm Beach,548-Prostate-17,Prostate
+191,191,West Palm Beach,548-Prostate-18,Prostate
+192,192,West Palm Beach,548-Prostate-19,Prostate
+193,193,West Palm Beach,548-Prostate_Surgery-01,Prostate Surgery
+194,194,Dallas,549-Prostate-01,Prostate
+195,195,Dallas,549-Prostate-02,Prostate
+196,196,Dallas,549-Prostate-03,Prostate
+197,197,Dallas,549-Prostate-04,Prostate
+198,198,Dallas,549-Prostate-05,Prostate
+199,199,Dallas,549-Prostate-06,Prostate
+200,200,Dallas,549-Prostate-07,Prostate
+201,201,Dallas,549-Prostate-08,Prostate
+202,202,Dallas,549-Prostate-09,Prostate
+203,203,Dallas,549-Prostate-10,Prostate
+204,204,Dallas,549-Prostate-11,Prostate
+205,205,Dallas,549-Prostate-12,Prostate
+206,206,Dallas,549-Prostate-13,Prostate
+207,207,Dallas,549-Prostate-14,Prostate
+208,208,Dallas,549-Prostate_Surgery-01,Prostate Surgery
+209,209,Dallas,549-Prostate_Surgery-02,Prostate Surgery
+210,210,Dallas,549-Prostate_Surgery-03,Prostate Surgery
+211,211,Dallas,549-Prostate_Surgery-04,Prostate Surgery
+212,212,Dallas,549-Prostate_Surgery-05,Prostate Surgery
+213,213,Dallas,549-Prostate_Surgery-06,Prostate Surgery
+214,214,Dayton,552-Prostate-01,Prostate
+215,215,Dayton,552-Prostate-02,Prostate
+216,216,Dayton,552-Prostate-03,Prostate
+217,217,Dayton,552-Prostate-04,Prostate
+218,218,Dayton,552-Prostate-05,Prostate
+219,219,Dayton,552-Prostate-06,Prostate
+220,220,Dayton,552-Prostate-07,Prostate
+221,221,Dayton,552-Prostate-08,Prostate
+222,222,Dayton,552-Prostate-09,Prostate
+223,223,Dayton,552-Prostate_Surgery-01,Prostate Surgery
+224,224,Dayton,552-Prostate_Surgery-02,Prostate Surgery
+225,225,Dayton,552-Prostate_Surgery-03,Prostate Surgery
+226,226,Dayton,552-Prostate_Surgery-04,Prostate Surgery
+227,227,Dayton,552-Prostate_Surgery-05,Prostate Surgery
+228,228,Dayton,552-Prostate_Surgery-06,Prostate Surgery
+229,229,Dayton,552-Prostate_Surgery-07,Prostate Surgery
+230,230,Dayton,552-Prostate_Surgery-08,Prostate Surgery
+231,231,Dayton,552-Prostate_Surgery-09,Prostate Surgery
+232,232,Dayton,552-Prostate_Surgery-10,Prostate Surgery
+233,233,Detroit,553-Prostate-01,Prostate
+234,234,Detroit,553-Prostate-02,Prostate
+235,235,Detroit,553-Prostate-03,Prostate
+236,236,Detroit,553-Prostate-04,Prostate
+237,237,Detroit,553-Prostate-05,Prostate
+238,238,Detroit,553-Prostate-06,Prostate
+239,239,Detroit,553-Prostate-07,Prostate
+240,240,Detroit,553-Prostate-08,Prostate
+241,241,Detroit,553-Prostate-09,Prostate
+242,242,Detroit,553-Prostate-10,Prostate
+243,243,Detroit,553-Prostate-12,Prostate
+244,244,Detroit,553-Prostate_Surgery-01,Prostate Surgery
+245,245,Detroit,553-Prostate_Surgery-02,Prostate Surgery
+246,246,Detroit,553-Prostate_Surgery-03,Prostate Surgery
+247,247,Detroit,553-Prostate_Surgery-04,Prostate Surgery
+248,248,Detroit,553-Prostate_Surgery-05,Prostate Surgery
+249,249,Detroit,553-Prostate_Surgery-06,Prostate Surgery
+250,250,Detroit,553-Prostate_Surgery-07,Prostate Surgery
+251,251,Detroit,553-Prostate_Surgery-08,Prostate Surgery
+252,252,Detroit,553-Prostate_Surgery-09,Prostate Surgery
+253,253,Durham,558-Prostate-01,Prostate
+254,254,Durham,558-Prostate-02,Prostate
+255,255,Durham,558-Prostate-03,Prostate
+256,256,Durham,558-Prostate-04,Prostate
+257,257,Durham,558-Prostate-05,Prostate
+258,258,Durham,558-Prostate-07,Prostate
+259,259,Durham,558-Prostate-08,Prostate
+260,260,Durham,558-Prostate-09,Prostate
+261,261,Durham,558-Prostate-10,Prostate
+262,262,Durham,558-Prostate-11,Prostate
+263,263,Durham,558-Prostate-13,Prostate
+264,264,Durham,558-Prostate-14,Prostate
+265,265,Durham,558-Prostate-15,Prostate
+266,266,Durham,558-Prostate-17,Prostate
+267,267,Durham,558-Prostate_Surgery-01,Prostate Surgery
+268,268,Durham,558-Prostate_Surgery-02,Prostate Surgery
+269,269,Durham,558-Prostate_Surgery-03,Prostate Surgery
+270,270,Durham,558-Prostate_Surgery-04,Prostate Surgery
+271,271,Durham,558-Prostate_Surgery-05,Prostate Surgery
+272,272,Durham,558-Prostate_Surgery-06,Prostate Surgery
+273,273,East Orange,561-Prostate-01,Prostate
+274,274,East Orange,561-Prostate-02,Prostate
+275,275,East Orange,561-Prostate-03,Prostate
+276,276,East Orange,561-Prostate-06,Prostate
+277,277,East Orange,561-Prostate-08,Prostate
+278,278,East Orange,561-Prostate-09,Prostate
+279,279,East Orange,561-Prostate-10,Prostate
+280,280,East Orange,561-Prostate-11,Prostate
+281,281,East Orange,561-Prostate-12,Prostate
+282,282,East Orange,561-Prostate-14,Prostate
+283,283,East Orange,561-Prostate-15,Prostate
+284,284,East Orange,561-Prostate-16,Prostate
+285,285,East Orange,561-Prostate-17,Prostate
+286,286,East Orange,561-Prostate-18,Prostate
+287,287,East Orange,561-Prostate-19,Prostate
+288,288,East Orange,561-Prostate_Surgery-01,Prostate Surgery
+289,289,East Orange,561-Prostate_Surgery-02,Prostate Surgery
+290,290,East Orange,561-Prostate_Surgery-03,Prostate Surgery
+291,291,East Orange,561-Prostate_Surgery-04,Prostate Surgery
+292,292,Hines,578-Prostate-01,Prostate
+293,293,Hines,578-Prostate-02,Prostate
+294,294,Hines,578-Prostate-05,Prostate
+295,295,Hines,578-Prostate-07,Prostate
+296,296,Hines,578-Prostate-08,Prostate
+297,297,Hines,578-Prostate-11,Prostate
+298,298,Hines,578-Prostate-14,Prostate
+299,299,Hines,578-Prostate-16,Prostate
+300,300,Hines,578-Prostate-17,Prostate
+301,301,Hines,578-Prostate-18,Prostate
+302,302,Hines,578-Prostate-19,Prostate
+303,303,Hines,578-Prostate-22,Prostate
+304,304,Hines,578-Prostate-24,Prostate
+305,305,Hines,578-Prostate-25,Prostate
+306,306,Hines,578-Prostate-26,Prostate
+307,307,Hines,578-Prostate-27,Prostate
+308,308,Hines,578-Prostate_Surgery-02,Prostate Surgery
+309,309,Hines,578-Prostate_Surgery-03,Prostate Surgery
+310,310,Hines,578-Prostate_Surgery-04,Prostate Surgery
+311,311,Houston,580-Prostate-01,Prostate
+312,312,Houston,580-Prostate-02,Prostate
+313,313,Houston,580-Prostate-03,Prostate
+314,314,Houston,580-Prostate-04,Prostate
+315,315,Houston,580-Prostate-05,Prostate
+316,316,Houston,580-Prostate-06,Prostate
+317,317,Houston,580-Prostate-07,Prostate
+318,318,Houston,580-Prostate-08,Prostate
+319,319,Houston,580-Prostate-09,Prostate
+320,320,Houston,580-Prostate-10,Prostate
+321,321,Houston,580-Prostate-11,Prostate
+322,322,Houston,580-Prostate-12,Prostate
+323,323,Houston,580-Prostate-13,Prostate
+324,324,Houston,580-Prostate-14,Prostate
+325,325,Houston,580-Prostate-16,Prostate
+326,326,Houston,580-Prostate-17,Prostate
+327,327,Houston,580-Prostate_Surgery-01,Prostate Surgery
+328,328,Houston,580-Prostate_Surgery-02,Prostate Surgery
+329,329,Houston,580-Prostate_Surgery-03,Prostate Surgery
+330,330,Houston,580-Prostate_Surgery-04,Prostate Surgery
+331,331,Indianapolis,583-Prostate-01,Prostate
+332,332,Indianapolis,583-Prostate-02,Prostate
+333,333,Indianapolis,583-Prostate-03,Prostate
+334,334,Indianapolis,583-Prostate-04,Prostate
+335,335,Indianapolis,583-Prostate-05,Prostate
+336,336,Indianapolis,583-Prostate-06,Prostate
+337,337,Indianapolis,583-Prostate-07,Prostate
+338,338,Indianapolis,583-Prostate-08,Prostate
+339,339,Indianapolis,583-Prostate-09,Prostate
+340,340,Indianapolis,583-Prostate-10,Prostate
+341,341,Indianapolis,583-Prostate-11,Prostate
+342,342,Indianapolis,583-Prostate-12,Prostate
+343,343,Indianapolis,583-Prostate-13,Prostate
+344,344,Indianapolis,583-Prostate_Surgery-01,Prostate Surgery
+345,345,Indianapolis,583-Prostate_Surgery-02,Prostate Surgery
+346,346,Indianapolis,583-Prostate_Surgery-03,Prostate Surgery
+347,347,Indianapolis,583-Prostate_Surgery-04,Prostate Surgery
+348,348,Indianapolis,583-Prostate_Surgery-05,Prostate Surgery
+349,349,Indianapolis,583-Prostate_Surgery-06,Prostate Surgery
+350,350,Indianapolis,583-Prostate_Surgery-07,Prostate Surgery
+351,351,Jackson,586-Prostate-01,Prostate
+352,352,Jackson,586-Prostate-02,Prostate
+353,353,Jackson,586-Prostate-03,Prostate
+354,354,Jackson,586-Prostate-04,Prostate
+355,355,Jackson,586-Prostate-05,Prostate
+356,356,Jackson,586-Prostate-06,Prostate
+357,357,Jackson,586-Prostate-07,Prostate
+358,358,Jackson,586-Prostate-08,Prostate
+359,359,Jackson,586-Prostate-09,Prostate
+360,360,Jackson,586-Prostate-10,Prostate
+361,361,Jackson,586-Prostate-11,Prostate
+362,362,Jackson,586-Prostate-12,Prostate
+363,363,Jackson,586-Prostate-14,Prostate
+364,364,Jackson,586-Prostate-15,Prostate
+365,365,Jackson,586-Prostate-16,Prostate
+366,366,Jackson,586-Prostate-17,Prostate
+367,367,Jackson,586-Prostate-21,Prostate
+368,368,Jackson,586-Prostate_Surgery-01,Prostate Surgery
+369,369,Jackson,586-Prostate_Surgery-02,Prostate Surgery
+370,370,Jackson,586-Prostate_Surgery-04,Prostate Surgery
+371,371,Kansas City,589-Prostate-01,Prostate
+372,372,Kansas City,589-Prostate-02,Prostate
+373,373,Kansas City,589-Prostate-03,Prostate
+374,374,Kansas City,589-Prostate-04,Prostate
+375,375,Kansas City,589-Prostate-05,Prostate
+376,376,Kansas City,589-Prostate-06,Prostate
+377,377,Kansas City,589-Prostate-07,Prostate
+378,378,Kansas City,589-Prostate-08,Prostate
+379,379,Kansas City,589-Prostate-09,Prostate
+380,380,Kansas City,589-Prostate-10,Prostate
+381,381,Kansas City,589-Prostate-11,Prostate
+382,382,Kansas City,589-Prostate-12,Prostate
+383,383,Kansas City,589-Prostate-13,Prostate
+384,384,Kansas City,589-Prostate-14,Prostate
+385,385,Kansas City,589-Prostate-15,Prostate
+386,386,Kansas City,589-Prostate-16,Prostate
+387,387,Kansas City,589-Prostate-17,Prostate
+388,388,Kansas City,589-Prostate-18,Prostate
+389,389,Kansas City,589-Prostate-19,Prostate
+390,390,Kansas City,589-Prostate-20,Prostate
+391,391,Long Beach,600-Prostate-01,Prostate
+392,392,Long Beach,600-Prostate-02,Prostate
+393,393,Long Beach,600-Prostate-03,Prostate
+394,394,Long Beach,600-Prostate-04,Prostate
+395,395,Long Beach,600-Prostate-05,Prostate
+396,396,Long Beach,600-Prostate-06,Prostate
+397,397,Long Beach,600-Prostate-07,Prostate
+398,398,Long Beach,600-Prostate-08,Prostate
+399,399,Long Beach,600-Prostate-09,Prostate
+400,400,Long Beach,600-Prostate-10,Prostate
+401,401,Long Beach,600-Prostate-11,Prostate
+402,402,Long Beach,600-Prostate-12,Prostate
+403,403,Long Beach,600-Prostate-13,Prostate
+404,404,Long Beach,600-Prostate-14,Prostate
+405,405,Long Beach,600-Prostate-15,Prostate
+406,406,Long Beach,600-Prostate-16,Prostate
+407,407,Long Beach,600-Prostate-17,Prostate
+408,408,Long Beach,600-Prostate-18,Prostate
+409,409,Long Beach,600-Prostate-19,Prostate
+410,410,Long Beach,600-Prostate_Surgery-01,Prostate Surgery
+411,411,Memphis,614-Prostate-01,Prostate
+412,412,Memphis,614-Prostate-02,Prostate
+413,413,Memphis,614-Prostate-03,Prostate
+414,414,Memphis,614-Prostate-04,Prostate
+415,415,Memphis,614-Prostate-05,Prostate
+416,416,Memphis,614-Prostate-06,Prostate
+417,417,Memphis,614-Prostate-07,Prostate
+418,418,Memphis,614-Prostate-08,Prostate
+419,419,Memphis,614-Prostate-09,Prostate
+420,420,Memphis,614-Prostate-10,Prostate
+421,421,Memphis,614-Prostate_Surgery-01,Prostate Surgery
+422,422,Memphis,614-Prostate_Surgery-02,Prostate Surgery
+423,423,Memphis,614-Prostate_Surgery-03,Prostate Surgery
+424,424,Memphis,614-Prostate_Surgery-04,Prostate Surgery
+425,425,Memphis,614-Prostate_Surgery-05,Prostate Surgery
+426,426,Memphis,614-Prostate_Surgery-06,Prostate Surgery
+427,427,Memphis,614-Prostate_Surgery-07,Prostate Surgery
+428,428,Memphis,614-Prostate_Surgery-08,Prostate Surgery
+429,429,Memphis,614-Prostate_Surgery-09,Prostate Surgery
+430,430,Memphis,614-Prostate_Surgery-10,Prostate Surgery
+431,431,Minneapolis,618-Prostate-01,Prostate
+432,432,Minneapolis,618-Prostate-03,Prostate
+433,433,Minneapolis,618-Prostate-05,Prostate
+434,434,Minneapolis,618-Prostate-07,Prostate
+435,435,Minneapolis,618-Prostate-09,Prostate
+436,436,Minneapolis,618-Prostate-11,Prostate
+437,437,Minneapolis,618-Prostate-12,Prostate
+438,438,Minneapolis,618-Prostate-14,Prostate
+439,439,Minneapolis,618-Prostate-15,Prostate
+440,440,Minneapolis,618-Prostate-16,Prostate
+441,441,Minneapolis,618-Prostate-17,Prostate
+442,442,Minneapolis,618-Prostate-18,Prostate
+443,443,Minneapolis,618-Prostate-19,Prostate
+444,444,Minneapolis,618-Prostate-20,Prostate
+445,445,Minneapolis,618-Prostate_Surgery-01,Prostate Surgery
+446,446,"Mountain Home, TN",621-Prostate-01,Prostate
+447,447,"Mountain Home, TN",621-Prostate-02,Prostate
+448,448,"Mountain Home, TN",621-Prostate-03,Prostate
+449,449,"Mountain Home, TN",621-Prostate-04,Prostate
+450,450,"Mountain Home, TN",621-Prostate-05,Prostate
+451,451,"Mountain Home, TN",621-Prostate-06,Prostate
+452,452,"Mountain Home, TN",621-Prostate-07,Prostate
+453,453,"Mountain Home, TN",621-Prostate-09,Prostate
+454,454,"Mountain Home, TN",621-Prostate-10,Prostate
+455,455,"Mountain Home, TN",621-Prostate-11,Prostate
+456,456,"Mountain Home, TN",621-Prostate-12,Prostate
+457,457,"Mountain Home, TN",621-Prostate-13,Prostate
+458,458,"Mountain Home, TN",621-Prostate-14,Prostate
+459,459,"Mountain Home, TN",621-Prostate-15,Prostate
+460,460,"Mountain Home, TN",621-Prostate-16,Prostate
+461,461,"Mountain Home, TN",621-Prostate-17,Prostate
+462,462,"Mountain Home, TN",621-Prostate-18,Prostate
+463,463,"Mountain Home, TN",621-Prostate-20,Prostate
+464,464,"Mountain Home, TN",621-Prostate-22,Prostate
+465,465,"Mountain Home, TN",621-Prostate-23,Prostate
+466,466,Brooklyn,630-Prostate-05,Prostate
+467,467,Brooklyn,630-Prostate-07,Prostate
+468,468,Brooklyn,630-Prostate-09,Prostate
+469,469,Brooklyn,630-Prostate-10,Prostate
+470,470,Brooklyn,630-Prostate-11,Prostate
+471,471,Brooklyn,630-Prostate-12,Prostate
+472,472,Brooklyn,630-Prostate-13,Prostate
+473,473,Brooklyn,630-Prostate-14,Prostate
+474,474,Brooklyn,630-Prostate-15,Prostate
+475,475,Brooklyn,630-Prostate-16,Prostate
+476,476,Brooklyn,630-Prostate-17,Prostate
+477,477,Brooklyn,630-Prostate-18,Prostate
+478,478,Brooklyn,630-Prostate-20,Prostate
+479,479,Brooklyn,630-Prostate-21,Prostate
+480,480,Brooklyn,630-Prostate_Surgery-01,Prostate Surgery
+481,481,Brooklyn,630-Prostate_Surgery-02,Prostate Surgery
+482,482,Brooklyn,630-Prostate_Surgery-03,Prostate Surgery
+483,483,Northport,632-Prostate-01,Prostate
+484,484,Northport,632-Prostate-02,Prostate
+485,485,Northport,632-Prostate-05,Prostate
+486,486,Northport,632-Prostate-06,Prostate
+487,487,Northport,632-Prostate-08,Prostate
+488,488,Northport,632-Prostate-09,Prostate
+489,489,Northport,632-Prostate-11,Prostate
+490,490,Northport,632-Prostate-12,Prostate
+491,491,Northport,632-Prostate-13,Prostate
+492,492,Northport,632-Prostate-15,Prostate
+493,493,Northport,632-Prostate-16,Prostate
+494,494,Northport,632-Prostate-17,Prostate
+495,495,Northport,632-Prostate-18,Prostate
+496,496,Northport,632-Prostate-19,Prostate
+497,497,Northport,632-Prostate-20,Prostate
+498,498,Oklahoma City,635-Prostate-01,Prostate
+499,499,Oklahoma City,635-Prostate-02,Prostate
+500,500,Oklahoma City,635-Prostate-03,Prostate
+501,501,Oklahoma City,635-Prostate-04,Prostate
+502,502,Oklahoma City,635-Prostate-05,Prostate
+503,503,Oklahoma City,635-Prostate-06,Prostate
+504,504,Oklahoma City,635-Prostate-07,Prostate
+505,505,Oklahoma City,635-Prostate-08,Prostate
+506,506,Oklahoma City,635-Prostate-09,Prostate
+507,507,Oklahoma City,635-Prostate-10,Prostate
+508,508,Oklahoma City,635-Prostate-11,Prostate
+509,509,Oklahoma City,635-Prostate-12,Prostate
+510,510,Oklahoma City,635-Prostate-13,Prostate
+511,511,Oklahoma City,635-Prostate-14,Prostate
+512,512,Oklahoma City,635-Prostate-15,Prostate
+513,513,Oklahoma City,635-Prostate-16,Prostate
+514,514,Oklahoma City,635-Prostate-17,Prostate
+515,515,Oklahoma City,635-Prostate_Surgery-01,Prostate Surgery
+516,516,Oklahoma City,635-Prostate_Surgery-02,Prostate Surgery
+517,517,Oklahoma City,635-Prostate_Surgery-03,Prostate Surgery
+518,518,Philadelphia,642-Prostate-01,Prostate
+519,519,Philadelphia,642-Prostate-02,Prostate
+520,520,Philadelphia,642-Prostate-03,Prostate
+521,521,Philadelphia,642-Prostate-04,Prostate
+522,522,Philadelphia,642-Prostate-05,Prostate
+523,523,Philadelphia,642-Prostate-06,Prostate
+524,524,Philadelphia,642-Prostate-07,Prostate
+525,525,Philadelphia,642-Prostate-08,Prostate
+526,526,Philadelphia,642-Prostate-09,Prostate
+527,527,Philadelphia,642-Prostate-10,Prostate
+528,528,Philadelphia,642-Prostate-11,Prostate
+529,529,Philadelphia,642-Prostate-12,Prostate
+530,530,Philadelphia,642-Prostate-13,Prostate
+531,531,Philadelphia,642-Prostate-14,Prostate
+532,532,Philadelphia,642-Prostate-15,Prostate
+533,533,Philadelphia,642-Prostate-16,Prostate
+534,534,Philadelphia,642-Prostate-17,Prostate
+535,535,Philadelphia,642-Prostate-18,Prostate
+536,536,Philadelphia,642-Prostate-19,Prostate
+537,537,Philadelphia,642-Prostate_Surgery-01,Prostate Surgery
+538,538,Pittsburgh,646-Prostate-01,Prostate
+539,539,Pittsburgh,646-Prostate-02,Prostate
+540,540,Pittsburgh,646-Prostate-03,Prostate
+541,541,Pittsburgh,646-Prostate-04,Prostate
+542,542,Pittsburgh,646-Prostate-05,Prostate
+543,543,Pittsburgh,646-Prostate-06,Prostate
+544,544,Pittsburgh,646-Prostate-07,Prostate
+545,545,Pittsburgh,646-Prostate-08,Prostate
+546,546,Pittsburgh,646-Prostate-09,Prostate
+547,547,Pittsburgh,646-Prostate-10,Prostate
+548,548,Pittsburgh,646-Prostate-11,Prostate
+549,549,Pittsburgh,646-Prostate-12,Prostate
+550,550,Pittsburgh,646-Prostate-14,Prostate
+551,551,Pittsburgh,646-Prostate-15,Prostate
+552,552,Pittsburgh,646-Prostate-16,Prostate
+553,553,Pittsburgh,646-Prostate-17,Prostate
+554,554,Pittsburgh,646-Prostate-18,Prostate
+555,555,Pittsburgh,646-Prostate_Surgery-01,Prostate Surgery
+556,556,Pittsburgh,646-Prostate_Surgery-02,Prostate Surgery
+557,557,Pittsburgh,646-Prostate_Surgery-03,Prostate Surgery
+558,558,Richmond,652-Prostate-02,Prostate
+559,559,Richmond,652-Prostate-05,Prostate
+560,560,Richmond,652-Prostate-06,Prostate
+561,561,Richmond,652-Prostate-07,Prostate
+562,562,Richmond,652-Prostate-09,Prostate
+563,563,Richmond,652-Prostate-11,Prostate
+564,564,Richmond,652-Prostate-12,Prostate
+565,565,Richmond,652-Prostate-13,Prostate
+566,566,Richmond,652-Prostate-14,Prostate
+567,567,Richmond,652-Prostate-15,Prostate
+568,568,Richmond,652-Prostate-18,Prostate
+569,569,Richmond,652-Prostate-19,Prostate
+570,570,Richmond,652-Prostate-21,Prostate
+571,571,Richmond,652-Prostate-22,Prostate
+572,572,Richmond,652-Prostate-24,Prostate
+573,573,Richmond,652-Prostate_Surgery-01,Prostate Surgery
+574,574,Richmond,652-Prostate_Surgery-02,Prostate Surgery
+575,575,St. Louis,657-Prostate-01,Prostate
+576,576,St. Louis,657-Prostate-02,Prostate
+577,577,St. Louis,657-Prostate-03,Prostate
+578,578,St. Louis,657-Prostate-04,Prostate
+579,579,St. Louis,657-Prostate-05,Prostate
+580,580,St. Louis,657-Prostate-06,Prostate
+581,581,St. Louis,657-Prostate-07,Prostate
+582,582,St. Louis,657-Prostate-09,Prostate
+583,583,St. Louis,657-Prostate-10,Prostate
+584,584,St. Louis,657-Prostate-11,Prostate
+585,585,St. Louis,657-Prostate-12,Prostate
+586,586,St. Louis,657-Prostate-13,Prostate
+587,587,St. Louis,657-Prostate-15,Prostate
+588,588,St. Louis,657-Prostate-16,Prostate
+589,589,St. Louis,657-Prostate-17,Prostate
+590,590,St. Louis,657-Prostate-18,Prostate
+591,591,St. Louis,657-Prostate-19,Prostate
+592,592,St. Louis,657-Prostate-20,Prostate
+593,593,St. Louis,657-Prostate_Surgery-01,Prostate Surgery
+594,594,Seattle,663-Prostate-01,Prostate
+595,595,Seattle,663-Prostate-02,Prostate
+596,596,Seattle,663-Prostate-03,Prostate
+597,597,Seattle,663-Prostate-04,Prostate
+598,598,Seattle,663-Prostate-05,Prostate
+599,599,Seattle,663-Prostate-07,Prostate
+600,600,Seattle,663-Prostate-08,Prostate
+601,601,Seattle,663-Prostate-14,Prostate
+602,602,Seattle,663-Prostate-15,Prostate
+603,603,Seattle,663-Prostate-16,Prostate
+604,604,Seattle,663-Prostate_Surgery-01,Prostate Surgery
+605,605,Shreveport,667-Prostate-01,Prostate
+606,606,Shreveport,667-Prostate-02,Prostate
+607,607,Shreveport,667-Prostate-03,Prostate
+608,608,Shreveport,667-Prostate-04,Prostate
+609,609,Shreveport,667-Prostate-05,Prostate
+610,610,Shreveport,667-Prostate-06,Prostate
+611,611,Shreveport,667-Prostate-07,Prostate
+612,612,Shreveport,667-Prostate-08,Prostate
+613,613,Shreveport,667-Prostate-09,Prostate
+614,614,Shreveport,667-Prostate-10,Prostate
+615,615,Shreveport,667-Prostate-11,Prostate
+616,616,Shreveport,667-Prostate-12,Prostate
+617,617,Shreveport,667-Prostate-13,Prostate
+618,618,Shreveport,667-Prostate-14,Prostate
+619,619,Shreveport,667-Prostate-15,Prostate
+620,620,Shreveport,667-Prostate-16,Prostate
+621,621,Shreveport,667-Prostate_Surgery-01,Prostate Surgery
+622,622,Shreveport,667-Prostate_Surgery-02,Prostate Surgery
+623,623,Shreveport,667-Prostate_Surgery-03,Prostate Surgery
+624,624,Shreveport,667-Prostate_Surgery-04,Prostate Surgery
+625,625,San Antonio,671-Prostate-01,Prostate
+626,626,San Antonio,671-Prostate-02,Prostate
+627,627,San Antonio,671-Prostate-05,Prostate
+628,628,San Antonio,671-Prostate-06,Prostate
+629,629,San Antonio,671-Prostate-07,Prostate
+630,630,San Antonio,671-Prostate-08,Prostate
+631,631,San Antonio,671-Prostate-09,Prostate
+632,632,San Antonio,671-Prostate-10,Prostate
+633,633,San Antonio,671-Prostate-11,Prostate
+634,634,San Antonio,671-Prostate-12,Prostate
+635,635,San Antonio,671-Prostate-13,Prostate
+636,636,San Antonio,671-Prostate-14,Prostate
+637,637,San Antonio,671-Prostate_Surgery-01,Prostate Surgery
+638,638,San Antonio,671-Prostate_Surgery-02,Prostate Surgery
+639,639,San Antonio,671-Prostate_Surgery-03,Prostate Surgery
+640,640,San Antonio,671-Prostate_Surgery-04,Prostate Surgery
+641,641,San Antonio,671-Prostate_Surgery-05,Prostate Surgery
+642,642,San Antonio,671-Prostate_Surgery-06,Prostate Surgery
+643,643,San Antonio,671-Prostate_Surgery-07,Prostate Surgery
+644,644,San Antonio,671-Prostate_Surgery-08,Prostate Surgery
+645,645,San Juan,672-Prostate-01,Prostate
+646,646,San Juan,672-Prostate-02,Prostate
+647,647,San Juan,672-Prostate-03,Prostate
+648,648,San Juan,672-Prostate-04,Prostate
+649,649,San Juan,672-Prostate-05,Prostate
+650,650,San Juan,672-Prostate-06,Prostate
+651,651,San Juan,672-Prostate-07,Prostate
+652,652,San Juan,672-Prostate-08,Prostate
+653,653,San Juan,672-Prostate-09,Prostate
+654,654,San Juan,672-Prostate-10,Prostate
+655,655,San Juan,672-Prostate-11,Prostate
+656,656,San Juan,672-Prostate-12,Prostate
+657,657,San Juan,672-Prostate-13,Prostate
+658,658,San Juan,672-Prostate-14,Prostate
+659,659,San Juan,672-Prostate-15,Prostate
+660,660,San Juan,672-Prostate-16,Prostate
+661,661,San Juan,672-Prostate-17,Prostate
+662,662,San Juan,672-Prostate-18,Prostate
+663,663,San Juan,672-Prostate-19,Prostate
+664,664,San Juan,672-Prostate-20,Prostate
+665,665,Tampa,673-Prostate-01,Prostate
+666,666,Tampa,673-Prostate-02,Prostate
+667,667,Tampa,673-Prostate-03,Prostate
+668,668,Tampa,673-Prostate-04,Prostate
+669,669,Tampa,673-Prostate-05,Prostate
+670,670,Tampa,673-Prostate-06,Prostate
+671,671,Tampa,673-Prostate-07,Prostate
+672,672,Tampa,673-Prostate-08,Prostate
+673,673,Tampa,673-Prostate-09,Prostate
+674,674,Tampa,673-Prostate-10,Prostate
+675,675,Tampa,673-Prostate-11,Prostate
+676,676,Tampa,673-Prostate-12,Prostate
+677,677,Tampa,673-Prostate-13,Prostate
+678,678,Tampa,673-Prostate-14,Prostate
+679,679,Tampa,673-Prostate-15,Prostate
+680,680,Tampa,673-Prostate-16,Prostate
+681,681,Tampa,673-Prostate_Surgery-01,Prostate Surgery
+682,682,Tampa,673-Prostate_Surgery-02,Prostate Surgery
+683,683,Tampa,673-Prostate_Surgery-03,Prostate Surgery
+684,684,Tampa,673-Prostate_Surgery-04,Prostate Surgery
+685,685,Orlando,675-Prostate-01,Prostate
+686,686,Orlando,675-Prostate-02,Prostate
+687,687,Orlando,675-Prostate-03,Prostate
+688,688,Orlando,675-Prostate-04,Prostate
+689,689,Orlando,675-Prostate-05,Prostate
+690,690,Orlando,675-Prostate-06,Prostate
+691,691,Orlando,675-Prostate-07,Prostate
+692,692,Orlando,675-Prostate-08,Prostate
+693,693,Orlando,675-Prostate-09,Prostate
+694,694,Orlando,675-Prostate-10,Prostate
+695,695,Orlando,675-Prostate-11,Prostate
+696,696,Orlando,675-Prostate-12,Prostate
+697,697,Orlando,675-Prostate-13,Prostate
+698,698,Orlando,675-Prostate-14,Prostate
+699,699,Orlando,675-Prostate-15,Prostate
+700,700,Orlando,675-Prostate-16,Prostate
+701,701,Orlando,675-Prostate_Surgery-01,Prostate Surgery
+702,702,Orlando,675-Prostate_Surgery-02,Prostate Surgery
+703,703,Orlando,675-Prostate_Surgery-03,Prostate Surgery
+704,704,Orlando,675-Prostate_Surgery-04,Prostate Surgery
+705,705,Washington,688-Prostate-01,Prostate
+706,706,Washington,688-Prostate-02,Prostate
+707,707,Washington,688-Prostate-04,Prostate
+708,708,Washington,688-Prostate-05,Prostate
+709,709,Washington,688-Prostate-06,Prostate
+710,710,Washington,688-Prostate-07,Prostate
+711,711,Washington,688-Prostate-08,Prostate
+712,712,Washington,688-Prostate-10,Prostate
+713,713,Washington,688-Prostate-11,Prostate
+714,714,Washington,688-Prostate-12,Prostate
+715,715,Washington,688-Prostate-13,Prostate
+716,716,Washington,688-Prostate-14,Prostate
+717,717,Washington,688-Prostate-15,Prostate
+718,718,Washington,688-Prostate-16,Prostate
+719,719,Washington,688-Prostate-17,Prostate
+720,720,Washington,688-Prostate-18,Prostate
+721,721,Washington,688-Prostate-19,Prostate
+722,722,Washington,688-Prostate-20,Prostate
+723,723,Washington,688-Prostate-21,Prostate
+724,724,Washington,688-Prostate-22,Prostate
+725,725,Los Angeles,691-Prostate-01,Prostate
+726,726,Los Angeles,691-Prostate-02,Prostate
+727,727,Los Angeles,691-Prostate-03,Prostate
+728,728,Los Angeles,691-Prostate-04,Prostate
+729,729,Los Angeles,691-Prostate-05,Prostate
+730,730,Los Angeles,691-Prostate-06,Prostate
+731,731,Los Angeles,691-Prostate-07,Prostate
+732,732,Los Angeles,691-Prostate-08,Prostate
+733,733,Los Angeles,691-Prostate-10,Prostate
+734,734,Los Angeles,691-Prostate-11,Prostate
+735,735,Los Angeles,691-Prostate-12,Prostate
+736,736,Los Angeles,691-Prostate-13,Prostate
+737,737,Los Angeles,691-Prostate-14,Prostate
+738,738,Los Angeles,691-Prostate-15,Prostate
+739,739,Los Angeles,691-Prostate-16,Prostate
+740,740,Los Angeles,691-Prostate-17,Prostate
+741,741,Los Angeles,691-Prostate_Surgery-01,Prostate Surgery
+742,742,Los Angeles,691-Prostate_Surgery-02,Prostate Surgery
+743,743,Los Angeles,691-Prostate_Surgery-03,Prostate Surgery
+744,744,Los Angeles,691-Prostate_Surgery-04,Prostate Surgery
+745,745,Milwaukee,695-Prostate-01,Prostate
+746,746,Milwaukee,695-Prostate-02,Prostate
+747,747,Milwaukee,695-Prostate-03,Prostate
+748,748,Milwaukee,695-Prostate-04,Prostate
+749,749,Milwaukee,695-Prostate-05,Prostate
+750,750,Milwaukee,695-Prostate-06,Prostate
+751,751,Milwaukee,695-Prostate-07,Prostate
+752,752,Milwaukee,695-Prostate-08,Prostate
+753,753,Milwaukee,695-Prostate-09,Prostate
+754,754,Milwaukee,695-Prostate-10,Prostate
+755,755,Milwaukee,695-Prostate-11,Prostate
+756,756,Milwaukee,695-Prostate-12,Prostate
+757,757,Milwaukee,695-Prostate-13,Prostate
+758,758,Milwaukee,695-Prostate-14,Prostate
+759,759,Milwaukee,695-Prostate-15,Prostate
+760,760,Milwaukee,695-Prostate-17,Prostate
+761,761,Milwaukee,695-Prostate-19,Prostate
+762,762,Milwaukee,695-Prostate-20,Prostate
+763,763,Milwaukee,695-Prostate_Surgery-01,Prostate Surgery
+764,764,Milwaukee,695-Prostate_Surgery-02,Prostate Surgery
