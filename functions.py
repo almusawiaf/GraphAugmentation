@@ -179,3 +179,91 @@ def comparing(h):
     pd.DataFrame(total_spearman).to_csv('data/Processed/Results of spearman correlation.csv', index=False)
     return total_pearson
 
+def PCA_model(X, y=None, n = 2):
+#     print("PCA model")
+    pca = PCA(n_components=n)
+    pca.fit(X)
+    X_pca = pca.transform(X)
+    print(pca.explained_variance_ratio_)
+    selected_features = pca.components_
+#     print(f'PCA\tNoF = {len(selected_features)}')
+    return X_pca
+
+def Kernel_PCA(X, y=None, n = 2):
+    from sklearn.decomposition import KernelPCA
+#     print("Kernal PCA model")
+    pca = KernelPCA(n_components=n, kernel='rbf')
+    pca.fit_transform(X)
+    return pca
+
+def CE_Model(X, y=None, n=2):
+    # Compute the spectral embedding using the Gaussian kernel
+    sigma = 0.1
+    embedding_gaussian = SpectralEmbedding(n_components=n, affinity='rbf', gamma=1 / (2 * sigma ** 2))
+#     embedding = embedding_gaussian(n_components=n)
+    X_CE = embedding_gaussian.fit_transform(X)
+    return X_CE
+
+def CE2(X, y=None, n=2):
+    embedding = SpectralEmbedding(n_components=n, affinity='nearest_neighbors', n_neighbors=10, eigen_solver='arpack')
+    X_CE = embedding.fit_transform(X)
+#     print(f'CE2\tOld shape = {X.shape}\t\t new shape = {X_CE.shape}\t\t components = {n}')
+    return X_CE
+
+def LLE(X, y=None, n=2):
+    from sklearn.manifold import LocallyLinearEmbedding
+#     print('CE Model: Locally Linear Embedding')
+    embedding = LocallyLinearEmbedding(n_components=n, n_neighbors=10)
+    X_CE = embedding.fit_transform(X)
+#     print(f'LLE\tOld shape = {X.shape}\t\t new shape = {X_CE.shape}\t\t components = {n}')
+    return X_CE
+
+def Isomap(X, y=None, n=2):
+    from sklearn.manifold import Isomap
+#     print('CE Model: Isomap')
+    embedding =  Isomap(n_components=n, n_neighbors=10)
+    X_CE = embedding.fit_transform(X)
+#     print(f'ISOMAP\tOld shape = {X.shape}\t\t new shape = {X_CE.shape}\t\t components = {n}')
+    return X_CE
+
+def TSNE(X, y=None, n=2):
+    from sklearn.manifold import TSNE
+#     print('CE Model: TSNE')
+    embedding = TSNE(n_components=2, perplexity=30, n_iter=1000)
+    X_CE = embedding.fit_transform(X)
+#     print(f'TSNE\tOld shape = {X.shape}\t\t new shape = {X_CE.shape}\t\t components = {n}')
+    return X_CE
+
+
+
+def CFS(X, y, n=2):
+#     print('CFS Model')
+    selector = SelectKBest(score_func=f_regression, k=n)
+    X_new = selector.fit_transform(X, y)
+    return X_new
+
+def LLCFS(X, y=None,n=2):
+#     print('LLCFS Model')
+    scaler = StandardScaler()
+    X = scaler.fit_transform(X)
+    return X
+
+def ILFS(X, y, n=2):
+    # create a linear regression model
+#     print('ILFS Model')
+    model = LinearRegression()
+    
+    # define the search space
+    k_features = np.arange(1, X.shape[1]+1)
+    
+    # create a sequential feature selector object
+    selector = SequentialFeatureSelector(model, k_features=k_features, forward=True, scoring='r2', cv=5)
+    
+    # perform incremental feature selection
+    selector.fit(X, y)
+    
+    # print the selected feature indices
+    print("Indices of selected features:", selector.k_feature_idx_)
+    return selector.k_feature_idx_
+
+from sklearn.metrics import accuracy_score, confusion_matrix, roc_auc_score, average_precision_score
