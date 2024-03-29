@@ -1,40 +1,20 @@
-AcuteGITotal,int64
-AcuteGIWithGrade,int64
-AcuteGUTotal,int64
-AcuteGUWithGrade,int64
-Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V40Gy,float64
-Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V65Gy,float64
-Bladder_Already_Subtracted_V40Gy,float64
-Bladder_Already_Subtracted_V65Gy,float64
-Bladder_V65Gy,float64
-Bladder_V70Gy,float64
-cancer_type,object
-center_id,int64
-center_name,object
-Femur_L_V50Gy,float64
-Femur_R_V50Gy,float64
-LargeBowel_D_035cc,object
-LargeBowel_D0.035cc,float64
-LargeBowel_D0_035cc,float64
-LargeBowel_DMax,float64
-LateGITotal,int64
-LateGIWithGrade,int64
-LateGUTotal,int64
-LateGUWithGrade,int64
-NumberOfNotesWithToxicityInitialized,int64
-PTV_D2%,float64
-PTV_V100% Rx1,float64
-Rectum_V40Gy,float64
-Rectum_V50Gy,float64
-Rectum_V65Gy,float64
-Rectum_V69Gy,float64
-Rectum_V70Gy,float64
-Rectum_V70Gy_15,object
-Rectum_V70Gy_25,object
-Rectum_V75Gy,float64
-SmallBowel_D0.035cc,float64
-SmallBowel_D0_035cc,object
-SmallBowel_DMax,float64
-SmallBowel_V45Gy,float64
-TotalNumberOfNotes,int64
-vha_id,object
+AcuteGITotal,int64,,LateGIWithGrade,int64
+AcuteGIWithGrade,int64,,LateGUTotal,int64
+AcuteGUTotal,int64,,LateGUWithGrade,int64
+AcuteGUWithGrade,int64,,NumberOfNotesWithToxicityInitialized,int64
+Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V40Gy,float64,,PTV_D2%,float64
+Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V65Gy,float64,,PTV_V100% Rx1,float64
+Bladder_Already_Subtracted_V40Gy,float64,,Rectum_V40Gy,float64
+Bladder_Already_Subtracted_V65Gy,float64,,Rectum_V50Gy,float64
+Bladder_V65Gy,float64,,Rectum_V65Gy,float64
+Bladder_V70Gy,float64,,Rectum_V69Gy,float64
+cancer_type,object,,Rectum_V70Gy,float64
+center_id,int64,,Rectum_V70Gy_15,object
+center_name,object,,Rectum_V70Gy_25,object
+Femur_L_V50Gy,float64,,Rectum_V75Gy,float64
+Femur_R_V50Gy,float64,,SmallBowel_D0.035cc,float64
+LargeBowel_D_035cc,object,,SmallBowel_D0_035cc,object
+LargeBowel_D0.035cc,float64,,SmallBowel_DMax,float64
+LargeBowel_D0_035cc,float64,,SmallBowel_V45Gy,float64
+LargeBowel_DMax,float64,,TotalNumberOfNotes,int64
+LateGITotal,int64,,vha_id,object
